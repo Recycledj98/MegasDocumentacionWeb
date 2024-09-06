@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ficherosprincipales/articulos/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/articulos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Artículos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;La sección de artículos es crucial para optimizar y gestionar eficicientemente los procesos comerciales de nuestro negocio. Mediante las múltiples funcionalidades y opciones disponibles podremos gestionar el inventario de nuestra empresa asi como sus movimientos.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;768&#34; height=&#34;768&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#08a1e2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+ &lt;strong&gt;Usaremos el artículo MAHOU 5 ESTRELLAS 1/5 RETORNABLE como ejemplo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La imagen proporcionada muestra la pantalla principal de la sección de artículos la cual contiene información detallada sobre cada producto de nuestro catálogo.
+A continuación desglosaremos los elementos clave de esta pantalla para comprender su funcionalidad y cómo utilizarla de manera adecuada.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

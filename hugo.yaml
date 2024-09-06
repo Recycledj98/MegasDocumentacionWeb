@@ -1,0 +1,39 @@
+baseURL: https://example.org/
+languageCode: es-es
+title: Megas Documentación Web
+# Importación de temas
+module:   
+  imports:
+    - path: github.com/imfing/hextra
+    # Importación de modulo de imagenes
+    - path: github.com/hugomods/images
+
+    # Importación de modulo de videos
+      # Por incoporar
+    # Importación de modulo de iconos bootstrap
+    - path: github.com/hugomods/icons/vendors/bootstrap
+    - path: github.com/hugomods/icons/vendors/font-awesome
+    - path: github.com/hugomods/icons/vendors/simple-icons
+  # Procesamiento de imagenes
+  mounts:
+  - source: content
+    target: content
+  - source: static
+    target: static
+  - source: layouts
+    target: layouts
+  - source: data
+    target: data
+  - source: assets
+    target: assets
+  - source: i18n
+    target: i18n
+  - source: archetypes
+    target: archetypes
+  - source: static/uploads
+    target: assets/uploads
+# Parametros como la tipografia
+params:
+  # Tipografía
+  custom_css:
+   - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
