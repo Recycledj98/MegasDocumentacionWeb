@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Formas de Pago</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -484,24 +484,26 @@ Se aplicarán los códigos de columna de la &lt;em&gt;&lt;strong&gt;Tabla de Com
     </item>
     
     <item>
-      <title>Ficheros Principales</title>
-      <link>http://localhost:1313/docs/ficheros-principales/</link>
+      <title>Formas de Pago</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficheros-principales/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
       <description>
         
         
-        &lt;p&gt;En este apartado encontramos todo lo relacionado con el funcionamiento &lt;strong&gt;básico&lt;/strong&gt; de la aplicación y su correcto mantenimiento.&lt;/p&gt;
-&lt;p&gt;
-    &lt;img src=&#34;../images/FicherosPrincipalesIndex.png?height=100&amp;amp;quality=10&#34; alt=&#34;Ficheros Principales&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h2&gt;1.1 - Clientes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;11---clientes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#11---clientes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En esta pantalla se pretende, además de recoger los datos propios de cada cliente, definir el comportamiento básico de cada uno respecto a nuestro negocio.&lt;/p&gt;
-&lt;p&gt;&lt;svg aria-hidden=&#34;true&#34; class=&#34;bi bi-arrow-right-short hi-svg-inline IconRight&#34; fill=&#34;currentColor&#34; height=&#34;1em&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;1em&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-  &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8&#34;/&gt;
-&lt;/svg&gt;
-
-&lt;a href=&#34;http://localhost:1313/Docs/FicherosPrincipales/Clientes/PantallaClientes&#34; &gt;Acceso Clientes&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
@@ -1105,13 +1107,136 @@ Por defecto se coge el PVP-1 de la ficha del cliente.&lt;/li&gt;
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
     &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
       Para poder usar esta funcionalidad deberemos tener bien definidas las clases de nuestros artículos
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Familia&lt;/strong&gt;: Permite filtrar por familia de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proveedor&lt;/strong&gt;: En el caso de que no seleccionemos previamente un proveedor antes de usar el listado deberemos introducir manualmente el código de proveedor.
+&lt;strong&gt;Si hemos seleccionado el proveedor antes de usar el listado, deberemos dejar el campo en blanco.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Campo con dos posibles valores:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pantalla&lt;/strong&gt;:  Mostrará el consumo mediante una nueva pantalla.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Monstrará el consumo mediante un listado que podremos imprimir.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Estadísticas de compra - Pantalla&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estadísticas-de-compra---pantalla&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estad%c3%adsticas-de-compra---pantalla&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante esta opción s enos mostrará una pantalla con la información en formato gráfico.&lt;/p&gt;
+&lt;p&gt;Los campos a recalcar son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código del artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artículo&lt;/strong&gt;: Nombre del artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidades&lt;/strong&gt;: Unidades compradas en el &lt;strong&gt;año en curso&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidades Anteriores&lt;/strong&gt;: Unidades compradas en el &lt;strong&gt;año anterior&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regalo&lt;/strong&gt;: Unidades regaladas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Litros&lt;/strong&gt;: Total de litros consumidos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Importe&lt;/strong&gt;: Importe &lt;strong&gt;bruto&lt;/strong&gt; total por artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Último PVP&lt;/strong&gt;: Último precio de compra registrado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Último %&lt;/strong&gt;: por rellenar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa 1&lt;/strong&gt;: Por rellenar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ficha del Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ficha-del-proveedor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ficha-del-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Si seleccionamos esta opción nos sacará por pantalla un informe con todos los datos del proveedor.&lt;/p&gt;
+&lt;h3&gt;Estado de Cuenta&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estado-de-cuenta&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estado-de-cuenta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante esta opción podremos sacar un informe contable el cual contiene el estado de las distintas cuentas del proveedor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pantalla Representantes</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/representantes/pantallarepresentantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/representantes/pantallarepresentantes/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Representantes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;representantes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#representantes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado encontraremos lo necesario relacionado a nuestro personal.&lt;/p&gt;
+&lt;p&gt;La pantalla de representantes tiene el siguiente aspecto&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Representantes/Representantes.png&#34; alt=&#34;Representante&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Como es habitual, mediante la botonera o los atajos de teclado podremos realizar las distintas operaciones sobre ellos.&lt;/p&gt;
+&lt;h2&gt;Alta de un Representante&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alta-de-un-representante&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#alta-de-un-representante&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Mediante el botón de alta se nos abrira una ventana emergente con una serie de campos que hemos de rellenar.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      El programa nos irá mostrando mensajes de error en aquellos campos que debido a su obligatoriedad no pueden quedarse vacios
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Representantes/ARepresentantes.png&#34; alt=&#34;ARepresentante&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código del representante, es de tipo alfanumérico por lo que puede contener tanto números como letras.
+Hay dos formas de introducir este código.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;De forma manual, insertando carácteres alfanuméricos. Si el código ya existe el programa nos avisará obligando a cambiarlo.&lt;/li&gt;
+&lt;li&gt;De forma automática, insertando el cáracter &amp;ldquo;+&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nombre&lt;/strong&gt;: Nombre y apellidos del representante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dirección&lt;/strong&gt;: Dirección postal del representante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Población&lt;/strong&gt;: Código postal y Población Fiscal separados ambos por un guión. Ej: 28017-MADRID&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teléfono&lt;/strong&gt;: Télefono del representante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CIF/DNI&lt;/strong&gt;: CIF o DNI del representante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Observación&lt;/strong&gt;: Campo libre para una observación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: Correo Electrónico del representante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cálculo comisión&lt;/strong&gt;: Tipo de cálculo que se aplicará a las comisiones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Base.&lt;/li&gt;
+&lt;li&gt;1 - Total.&lt;/li&gt;
+&lt;li&gt;2 - Bruto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Comisión 1 - 6&lt;/strong&gt;: Porcentaje aplicado de comisión.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Comisión Compleja&lt;/strong&gt;: Código de comisión compleja asignado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
