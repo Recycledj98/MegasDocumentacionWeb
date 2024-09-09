@@ -1,6 +1,7 @@
 baseURL: https://example.org/
-languageCode: es-es
+languageCode: es-ES
 title: Megas Documentación Web
+
 # Importación de temas
 module:   
   imports:
@@ -15,23 +16,7 @@ module:
     - path: github.com/hugomods/icons/vendors/font-awesome
     - path: github.com/hugomods/icons/vendors/simple-icons
   # Procesamiento de imagenes
-  mounts:
-  - source: content
-    target: content
-  - source: static
-    target: static
-  - source: layouts
-    target: layouts
-  - source: data
-    target: data
-  - source: assets
-    target: assets
-  - source: i18n
-    target: i18n
-  - source: archetypes
-    target: archetypes
-  - source: static/uploads
-    target: assets/uploads
+
 # Parametros como la tipografia
 params:
   # Tipografía

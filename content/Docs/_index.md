@@ -8,3 +8,7 @@ Esta sección contiene toda la información que necesitas para utilizar la aplic
 ---
 
 ### Ficheros Principales {{< icons/icon vendor=bootstrap name=box-arrow-in-right className="Icon" >}}
+
+En esta sección encontramos todo lo necesario para el funcionamiento básico de la aplicación.
+
+[Acceso](/docs/FicherosPrincipales)

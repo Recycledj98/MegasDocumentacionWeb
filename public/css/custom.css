@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-
-
 .content {
   font-family: "Inter", sans-serif;
 }
@@ -24,3 +22,11 @@ h3 {
     font-size: 2em;
     margin-top: 2em;
 }
+
+img:hover{
+  transform: scale(1.2);
+  animation: ease-out;
+  animation-duration: 2s;
+}
+
+

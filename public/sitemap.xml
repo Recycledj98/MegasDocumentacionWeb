@@ -6,9 +6,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallabonificaciones/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/articulos/botonera-articulos/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -16,9 +20,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficheros-principales/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/proveedores/</loc>
   </url><url>
     <loc>http://localhost:1313/recursos/</loc>
   </url><url>
