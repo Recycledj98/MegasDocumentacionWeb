@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+weight: 2
 title: Botonera Pantalla Artículos
 ---
 ## Barra auxiliar Artículos

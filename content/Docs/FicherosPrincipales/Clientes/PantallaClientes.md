@@ -1,6 +1,6 @@
 ---
 title: Pantalla Clientes
-id: 1
+weight: 1
 
 ---
 ## Clientes

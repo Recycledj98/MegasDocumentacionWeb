@@ -1,6 +1,6 @@
 ---
 title: Funciones Artículos
-sidebar_position: 3
+weight: 3
 ---
 
 

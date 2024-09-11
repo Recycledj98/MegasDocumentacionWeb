@@ -15,6 +15,738 @@
     
     
     <item>
+      <title>Formas de Pago</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emitir Recibo&lt;/strong&gt;: Si la forma de pago lleva asociada la impresión de un recibo elegiremos
+la opción S, si no hay recibo asociado dejaremos la opción por defecto N.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Entrada&lt;/strong&gt;: Porcentaje del total de la factura/albarán que se dará por cobrado automáticamente a la emisión del documento (albarán o factura).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% DTO PP&lt;/strong&gt;: Porcentaje de descuento por pronto pago. Se aplicará automáticamente en
+las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta Contable&lt;/strong&gt;: Cuenta de contrapartida a la que se destinará el cobro.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Descripción&lt;/strong&gt;: Descripción del pago. Esta descripción aparecerá automáticamente al dar el pago de un vencimiento de una factura.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Total a/cta Vto&lt;/strong&gt;: Total a cuenta vencimiento, indica si el total del vencimiento&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Recargo&lt;/strong&gt;: Porcentaje de recargo antes de impuestos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Riesgo Dias/Num&lt;/strong&gt;: Riesgo en días o número de albaranes o facturas permitidas para esta forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      En el caso de que estipulemos 10 días de riesgo para albaranes o facturas, si el cliente con esa forma de pago tiene pagos pendientes de más de 10 días, se le inhabilita para la venta hasta que se paguen esos documentos. Lo mismo aplica para los días.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RETENC_PAG&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cobra Representante&lt;/strong&gt;: Permite la posibilidad de que el representante pueda realizar cobros bajo esta forma de pago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Ejemplo de formas de pago
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;http://localhost:1313/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pantalla Clientes</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clientes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clientes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En esta pantalla mediante las opciones de menú, podremos consultar diferentes datos de interés, además de realizar las operaciones básicas sobre cada uno de nuestros clientes.&lt;/p&gt;
+&lt;p&gt;A la hora de dar de alta un cliente, el programa exigirá la &lt;strong&gt;introducción de datos&lt;/strong&gt; que considera &lt;strong&gt;importantes&lt;/strong&gt; para su gestión, dejando la posibilidad de dejar en blanco aquellos que por lógica carecen de tanta importancia.&lt;/p&gt;
+&lt;p&gt;Esta obligatoriedad se pondrá de manifiesto en diferentes mensajes de error bien al dejar un &lt;strong&gt;campo obligatorio en blanco o al terminar de recorrer todos los campos de la ficha&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Barra Navegación Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;barra-navegación-cliente&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#barra-navegaci%c3%b3n-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Antes de avanzar con la pantalla principal, mostraremos la barra principal de navegación de la pantalla clientes, que dependiendo en que apartado del programa nos encotremos tendra un aspecto diferente.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
+Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada botón.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+
+&lt;em&gt;Dejando el puntero encima de cada botón nos mostrará una ventana emergente con su funcionalidad.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Salir&lt;/strong&gt;: Botón principal para salir de la pantalla actual.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primero&lt;/strong&gt;: Este botón nos llevará al primer registro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;último&lt;/strong&gt;: Este botón nos llevará al último registro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anterior&lt;/strong&gt;: Nos desplaza un registro anterior. &lt;em&gt;(Se puede usar la combinacion Ctrl + Flecha izquierda)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Posterior&lt;/strong&gt;: Nos desplaza un registro posterior. &lt;em&gt;(Se puede usar la combinacion Ctrl + Flecha derecha)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alta&lt;/strong&gt;: Da de alta un registro nuevo. &lt;em&gt;(Se puede usar la combinación Ctrl + A)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baja&lt;/strong&gt;: Da de baja el registro actual. &lt;em&gt;(Se puede usar la combinación Ctrl + B)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modificar&lt;/strong&gt;: Modifica el registro actual. &lt;em&gt;(Se puede usar la combinación Ctrl + M)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Nos muestra una ventana emergente con una serie de listados referentes al cliente en pantalla.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Los listados a mostrar son: Estadísticas de venta, &lt;em&gt;Ficha del Cliente&lt;/em&gt; y estado de cuenta.&lt;/p&gt;
+&lt;p&gt;Para imprimir la orden de domiliciación deberemos introducir en el cuadro &lt;strong&gt;&amp;ldquo;IBAN&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Exportar&lt;/strong&gt;: Exporta la ficha a excel. &lt;em&gt;En desuso&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Calculadora&lt;/strong&gt;: Abre la calculadora por defecto del sistema.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Búsqueda I&lt;/strong&gt;: Permite buscar por nombre, dirección o código. Permite a su vez buscar introduciendo parte de la palabra.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;$&lt;/strong&gt;: Mediante el carácter &lt;strong&gt;dolar($)(Mayús + 4 )&lt;/strong&gt; permite buscar por registros dados de baja.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Búsqueda II&lt;/strong&gt;: Permite buscar por dirección.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Orden&lt;/strong&gt;: Permite cambiar el orden de búsqueda de registro. Las opciones disponibles son por código de cliente, dirección comercial y nombre comercial.
+&lt;img src=&#34;http://localhost:1313/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Precios especiales&lt;/strong&gt;: Permite acceder a la pantalla de precios especiales asociados al cliente en pantalla. También permite saltar a la pantalla de promociones, bonificaciones y Rappels.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rutero&lt;/strong&gt;: Accede a la pantalla de rutas de distribución asignadas al cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pedidos&lt;/strong&gt;: Permite visualizar la lista de pedidos del cliente y visualizar cada uno de ellos posicionándonos encima y pulsando intro. Cuando pulsemos &lt;strong&gt;Escape (ESC)&lt;/strong&gt; desde la pantalla volveremos a la ficha del cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Esta funcionalidad se aplica para las facturas y albaranes.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Albaranes&lt;/strong&gt;: Accede al apartado de albaranes del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Facturas&lt;/strong&gt;: Accede al apartado de facturas del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vencimientos&lt;/strong&gt;: Accede a los vencimientos de facturas del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ventas&lt;/strong&gt;: Permite visualizar tres tipos de informe. Un informe de Ventas entre fechas, un informe de incidencias de reparto y un gráfico de consumo comparativo con los dos años anteriores &lt;strong&gt;siempre y cuando exista consumo.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Histórico de pvp&lt;/strong&gt;: Permite visualizar los distintos precios de venta de un artículo que se han aplicado al cliente en un periodo de tiempo determinado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stock de depósitos/Envases&lt;/strong&gt;: Nos redirige a la pantalla de control de stocks de envases, el control de depósitos y puntos de promoción.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Si se tiene el módulo activado, también permite ver la relación de artículos no entregados a ese cliente. Esa opción también lo permite la siguiente opción.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artículos pendientes de suministro&lt;/strong&gt;: Muestra los artñiculos que no se han podido servir al cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Información Comercial&lt;/strong&gt;: Permite llevar un registro de material comercial (PLVs) entregados al cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memo&lt;/strong&gt;: Información en texto libre para el cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Otros datos del cliente&lt;/strong&gt;: Muestra una pantalla donde poder introducir otros datos de contacto del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Otras direcciones&lt;/strong&gt;: Permite registrar otras direcciones, personas de contacto y teléfonos del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cheque/pagaré&lt;/strong&gt;: Permite imprimir un cheque o pagaré al cliente que tenemos en pantalla.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cubo de datos&lt;/strong&gt;: Exporta a un programa de minería de datos las diferentes estadísticas del cliente que estamos visualizando. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Maps&lt;/strong&gt;: Permite visualizar en Google Maps la ubicación del cliente siempre y cuando la dirección este introducida correctamente. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ficha de Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ficha-de-cliente&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ficha-de-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Procederemos a detallar cada aspecto de la &lt;strong&gt;ficha de clientes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+ &lt;em&gt;Todos los campos se recorren de izquierda a derecha&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Código cliente&lt;/strong&gt;: Es un código &lt;strong&gt;alfanumerico&lt;/strong&gt; por el cual el usuario del programa identifica a cada uno de sus clientes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Es aconsejable codificar los códigos con 5 carácteres numéricos a fin que que la &lt;strong&gt;cuenta contable&lt;/strong&gt; y el &lt;strong&gt;código de cliente&lt;/strong&gt; mantengan cierta relación.&lt;/p&gt;
+&lt;p&gt;El programa genera automáticamente la cuenta contable si el código es numerico, por ejemplo si nuestro cliente está codificado como 00043, su cuenta contable se generará como: 43000043.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Si durante el proceso de alta se introduce el símbolo &amp;lsquo;+&amp;rsquo; en el campo de código de cliente, el programa genera automáticamente un número de cliente correlativo.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Código Sucursal&lt;/strong&gt;: &lt;strong&gt;POR RELLENAR&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Activo (ACT)&lt;/strong&gt;: Indica el estado del cliente, admite tres tipos de estado&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;S (Sí)&lt;/strong&gt;: El cliente se encuentra activo y se pueden realizar operaciones sobre el.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;N (No)&lt;/strong&gt;: El cliente ya no está activo y hay que indicar la &lt;strong&gt;fecha de baja&lt;/strong&gt;. Ya no se podrá realizar ninguna operación sobre el exceptuando consultas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I (Inactivo)&lt;/strong&gt;: El cliente ya no está activo pero no necesariamente cerrado. Se utiliza para aquellos clientes que cesan su actividad durante un determinado periodo de tiempo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;NIF&lt;/strong&gt;: Este campo se rellena con una estructura determinada que es Número-Letra. El programa es capaz de determinar por sí solo la letra que acompaña el número.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;En el caso de que sea DNI no calculará la letra.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TIPO&lt;/strong&gt;: Hace referencia al tipo de cliente. Lleva asociado una tabla con los códigos de todos los tipos disponibles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DATOS FISCALES&lt;/strong&gt;: Consiste en un bloque de cuatro lineas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nombre Fiscal&lt;/strong&gt;: Nombre fiscal del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dirección&lt;/strong&gt;: Dirección fiscal del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Postal y Localidad&lt;/strong&gt;: Sigue una estructura determinada (&lt;em&gt;CP-Localidad&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provincia&lt;/strong&gt;: Provincia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Siguiendo el orden de izquierda a derecha se nombran los siguientes campos.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DATOS COMERCIALES&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nombre Comercial&lt;/strong&gt;: Nombre comercial del cliente (Establecimiento).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dirección Comercial.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Postal y Localidad&lt;/strong&gt;: Sigue la misma estructura que los datos fiscales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GRUPO&lt;/strong&gt;: Esta campo permite agrupar varios clientes con un denominador común, con el fin de hacer referencia al grupo creado en otras secciones del programa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Por ejemplo a la hora de crear promociones que afecten a un determinado grupo de clientes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Para hacer uso de este campo primero ha de dar de alta los grupos en la sección &lt;strong&gt;153-Grupos de cliente.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NAC&lt;/strong&gt;: Indica si se trata de un cliente nacional. Entendemos por cliente nacional a todo aquel cliente al que el proveedor le factura directamente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;1.2rem&#34; height=&#34;1.2rem&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#e0d910&#34; d=&#34;M10.03 3.659c.856-1.548 3.081-1.548 3.937 0l7.746 14.001c.83 1.5-.255 3.34-1.969 3.34H4.254c-1.715 0-2.8-1.84-1.97-3.34zM12.997 17A.999.999 0 1 0 11 17a.999.999 0 0 0 1.997 0m-.259-7.853a.75.75 0 0 0-1.493.103l.004 4.501l.007.102a.75.75 0 0 0 1.493-.103l-.004-4.502z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+
+Para dar de alta un cliente nacional se deberá hacer desde el apartado &lt;strong&gt;157-Clientes - Proveedores.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SERIE FAC&lt;/strong&gt;: &lt;strong&gt;POR RELLENAR&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;OBSERVACIÓN IMPORTANTE&lt;/strong&gt;: Es un campo libre que sirve para introducir una información relativa a ese cliente, la cual &lt;strong&gt;aparecerá por pantalla&lt;/strong&gt;, a modo de aviso, cada vez que realicemos una operación sobre ese cliente.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ej: Avisar antes de servir.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;BANCO DOMICILIADO&lt;/strong&gt;: Nombre del banco domiciliado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta bancaria (CTA)&lt;/strong&gt;: Número de cuenta bancaria, se introduce todos los dígitos seguidos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;El programa realiza una validación mediante el dígito de control (D.C.) si el número de cuenta introducido es válido, mostrando un mensaje de error en caso de que no lo sea.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;EMAIL FACTURAS&lt;/strong&gt;: Mediante este campo podremos introduccir hasta dos direcciones de correo las cuales se usarán para el envío de los documentos a través de email. &lt;em&gt;Se debe tener configurado correctamente los parámetros de email&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TELEFONO&lt;/strong&gt;: Número de telefono del cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TELEFAX&lt;/strong&gt;: Número de FAX del cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;REPRESENTANTE&lt;/strong&gt;: Código del preventista que visita al cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;1.2rem&#34; height=&#34;1.2rem&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#e0d910&#34; d=&#34;M10.03 3.659c.856-1.548 3.081-1.548 3.937 0l7.746 14.001c.83 1.5-.255 3.34-1.969 3.34H4.254c-1.715 0-2.8-1.84-1.97-3.34zM12.997 17A.999.999 0 1 0 11 17a.999.999 0 0 0 1.997 0m-.259-7.853a.75.75 0 0 0-1.493.103l.004 4.501l.007.102a.75.75 0 0 0 1.493-.103l-.004-4.502z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+
+Para poder asignar un representante, deberemos darlo de alta previamente en el sistema mediante &lt;em&gt;&lt;strong&gt;22 - Personal&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CÓDIGO DE ZONA&lt;/strong&gt;: El programa permite ubicar a los clientes en zonas con el fin de obtener información estadística basándose en ese critrerio. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TIPO DE PAGO-1&lt;/strong&gt;: Tipo de pago referentes a las operaciones A.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TIPO DE PAGO-2&lt;/strong&gt;: Tipo de pago referente a las operaciones B.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CUENTA CONTABLE&lt;/strong&gt;: Código generado automáticamente por el programa al dar de alta un cliente con código numérico.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TOTAL ALBARANES PENDIENTES&lt;/strong&gt;: Es el importe total al que ascienden todos los albaranes del cliente que están &lt;strong&gt;pendientes de ser facturados&lt;/strong&gt;. Este dato se genera de manera &lt;strong&gt;automática&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+
+En algunos casos y debido al erroneo mantenimiento de la base de datos este campo puede arrojar una cantidad diferente a la real. Para ello utilizaremos el recálculo de saldos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;OBSERVACION&lt;/strong&gt;: Campo destinado a una observación interna. Este campo no se refleja en ingun lugar más alla de la ficha de cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TIPO DE FACTURACION&lt;/strong&gt;: Se utiliza para configurar la facturación automática. Para este campo existen las siguientes opciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;0&lt;/strong&gt;: Factura resumen, es decir, todos los albaranes se agrupan bajo una misma factura.
+&lt;blockquote&gt;
+&lt;p&gt;Si se utiliza la opción de &lt;em&gt;Documentación de cargas&lt;/em&gt; se facturará todos los albaranes que el cliente tenga en esa carga.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt;: Factura directa. Se creará una factura por cada albaran.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt;: Sin factura. Generalmente se utiliza para clientes considerados como Nacionales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt;: Variación de factura resumen. Mediante esta opción se evitará que se facture en documentación de cargas pero mantendra la factura por agrupación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4&lt;/strong&gt;: Variación de factura directa. Mediante esta opción se evitará que se facture en documentación de cargas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1º DIA DE PAGO&lt;/strong&gt;: Día del mes en el que se gira la factura en el caso de que el cliente sea de crédito.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vease formas de pago: ![Formas de pago]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2º DIA DE PAGO&lt;/strong&gt;: Día del mes en el que se vuelve a girar la factura en caso de que no se haya efectuado el pago en el primer día de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MES DE NO PAGO&lt;/strong&gt;: Número del mes en el que el cliente no hace efectivo ningún pago.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ej: Mes 7 (Agosto) porque el cliente se encuentra de vacaciones.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TIPO PVP&lt;/strong&gt;: Indica la tarifa de precios que se aplicará al cliente. Por defecto la tarifa 1.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ALBARÁN VALORADO&lt;/strong&gt;: Hay dos posibles valores &lt;strong&gt;S&lt;/strong&gt; o &lt;strong&gt;N&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;S (Sí)&lt;/strong&gt;: Albarán valorado, cada linea del albarán se imprime con precios y totales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N (No)&lt;/strong&gt;: Albarán sin valorar, cada linea del albarán se imprime solo con la cantidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RIESGO&lt;/strong&gt;: Cantidad en Euros o en facturas que se le concede al cliente con el fin de que cuando &lt;strong&gt;la deuda&lt;/strong&gt; llegue al valor introducido nos muestre un aviso y se impida seguir realizando operaciones de venta sobre el. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IMPUESTO ESPECIAL&lt;/strong&gt;: Código numerico predefinido que se asigna a aquellos clientes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;0&lt;/strong&gt;: Impuesto Alcohol Exento.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt;: Impuesto Alcohol Península.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt;: Impuesto Alcohol Canarias.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PROMOCION&lt;/strong&gt;: Valor S/N. Indica si se le aplicarán las promociones &lt;strong&gt;generales&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PUNTOS&lt;/strong&gt;: Valor S/N. Indica si el cliente puede acumular puntos por compra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;%EUR ALBARANES&lt;/strong&gt;: Cantidad en &lt;strong&gt;porcentaje&lt;/strong&gt; de descuento que se aplicará a los albaranes del cliente de forma &lt;strong&gt;general&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Los siguientes campos vienen divididos en dos columnas para la facturación de la serie C (Facturación en A) y para la facturación de la serie F (Facturación en B).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;FACTURACIÓN EN C&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;FACTURACIÓN EN F&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;% DTO. LÍNEA&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará en cada linea de albarán&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará   en cada linea de albarán&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;% DTO. FACTU&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará  en cada factura&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará  en cada factura&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IVA&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará IVA&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará IVA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;R. EQUI&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará Recargo de Equivalencia&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará Recargod de equivalencia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;DETALLAR&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si en una factura resumen aparecen los albaranes detallados o si de lo contrario aparece el número de albarán y el total del mismo.&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si en una factura resumen aparecen los albaranes detallados o si de lo contrario aparece el número de albarán y el total del mismo.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SALDO&lt;/strong&gt;: Indica en cantidad de Euros el saldo de facturas pendientes de cobro.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Al terminar de introducir los datos en esta pantalla el programa irá presentando las distintas advertencias de datos de caráter obligatorio no introduccidos o erroneos que deberemos subsanar para continuar.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de Cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se define el tipo de cliente dependiendo de su actividad y al sector al que pertenece.&lt;/p&gt;
+&lt;p&gt;Hay dos niveles, uno para indicar el &lt;strong&gt;sector&lt;/strong&gt; al que pertenece el cliente (Hosteleria, Alimentación, etc) y otro para indicar el &lt;strong&gt;tipo&lt;/strong&gt; dentro del sector.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Grupos de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;El programa nos permite definir grupos de cliente para posteriormente hacer uso de los mismos para aplicar ciertas condiciones o de cara a estadísticas.&lt;/p&gt;
+&lt;p&gt;Se compone de un código alfanumérico y un nombre descriptivo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zonas de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Al igual que los grupos se permiten definir distintas zonas de venta con el fin de ubicar a cada cliente en una zona determinada y posteriormente obtener datos estadísticos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asignación de Zonas y/o Clases a Series de Facturación</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Los campos a cumplimentar son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codigo Zona&lt;/strong&gt;: Código de zona.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nivel-Clase&lt;/strong&gt;: Nivel de la clase de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase Artículo&lt;/strong&gt;: Código de clase dentro del nivel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie Facturación&lt;/strong&gt;: Serie de facturación a aplicar.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Para poder aplicar esta funcionalidad deberemos tener previamente &lt;strong&gt;activado el módulo de series en documentos&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipo de Alta/Baja</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se definen todos los posibles tipos de altas o bajas relacionados con la compentencia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clientes Nacionales</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clientes - Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes---proveedores&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clientes---proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong&gt;nacionales&lt;/strong&gt;. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código Cliente&lt;/strong&gt;: Código del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Porveedor&lt;/strong&gt;: Código del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código para Proveeedor&lt;/strong&gt;: Código de cliente nacional.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N.Proveedor (Cliente)&lt;/strong&gt;: Código del proveedor - Revisar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Valora&lt;/strong&gt;: Especifica una serie de opciones que tomará el programa a la hora de tratar con el cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Número de copias Albarán&lt;/strong&gt;: Especifica el número de copias que se imprimiran.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recibo albarán&lt;/strong&gt;: Especifica si el albarán ha de ser un recibo.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚨
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Al salir de esta ventana, el programa &lt;strong&gt;actualizará automáticamente&lt;/strong&gt; todos los registros de clientes proveedores.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de información</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Contiene la información comercial (serpentines, grifos, sombrillas&amp;hellip;) indicando el código de cada artículo, descripción y el código con el que Mahou lo identifica.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Características de Cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>SEPA - Códigos SWIFT de Bancos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En esta pantalla se recogen los códigos SWIFT/BIC de los bancos.
+Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Artículos</title>
       <link>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -484,31 +1216,6 @@ Se aplicarán los códigos de columna de la &lt;em&gt;&lt;strong&gt;Tabla de Com
     </item>
     
     <item>
-      <title>Formas de Pago</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
-&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Funciones Artículos</title>
       <link>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -586,341 +1293,6 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
     &lt;a href=&#34;#campo-memo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opción se nos mostrará una pantalla donde podremos redactar toda la información relacionada a nuestro artículo de carácter interno.&lt;/p&gt;
 &lt;h3&gt;Códigos de barra Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;códigos-de-barra-adicionales&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#c%c3%b3digos-de-barra-adicionales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opcíon se nos mostrará una pantalla donde podremos introducir aquellos códigos adicionales de barras que nos suministra el proveedor.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pantalla Clientes</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Clientes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#clientes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En esta pantalla mediante las opciones de menú, podremos consultar diferentes datos de interés, además de realizar las operaciones básicas sobre cada uno de nuestros clientes.&lt;/p&gt;
-&lt;p&gt;A la hora de dar de alta un cliente, el programa exigirá la &lt;strong&gt;introducción de datos&lt;/strong&gt; que considera &lt;strong&gt;importantes&lt;/strong&gt; para su gestión, dejando la posibilidad de dejar en blanco aquellos que por lógica carecen de tanta importancia.&lt;/p&gt;
-&lt;p&gt;Esta obligatoriedad se pondrá de manifiesto en diferentes mensajes de error bien al dejar un &lt;strong&gt;campo obligatorio en blanco o al terminar de recorrer todos los campos de la ficha&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;Barra Navegación Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;barra-navegación-cliente&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#barra-navegaci%c3%b3n-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Antes de avanzar con la pantalla principal, mostraremos la barra principal de navegación de la pantalla clientes, que dependiendo en que apartado del programa nos encotremos tendra un aspecto diferente.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
-Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada botón.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-
-&lt;em&gt;Dejando el puntero encima de cada botón nos mostrará una ventana emergente con su funcionalidad.&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Salir&lt;/strong&gt;: Botón principal para salir de la pantalla actual.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Primero&lt;/strong&gt;: Este botón nos llevará al primer registro.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;último&lt;/strong&gt;: Este botón nos llevará al último registro.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Anterior&lt;/strong&gt;: Nos desplaza un registro anterior. &lt;em&gt;(Se puede usar la combinacion Ctrl + Flecha izquierda)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Posterior&lt;/strong&gt;: Nos desplaza un registro posterior. &lt;em&gt;(Se puede usar la combinacion Ctrl + Flecha derecha)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alta&lt;/strong&gt;: Da de alta un registro nuevo. &lt;em&gt;(Se puede usar la combinación Ctrl + A)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Baja&lt;/strong&gt;: Da de baja el registro actual. &lt;em&gt;(Se puede usar la combinación Ctrl + B)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Modificar&lt;/strong&gt;: Modifica el registro actual. &lt;em&gt;(Se puede usar la combinación Ctrl + M)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Nos muestra una ventana emergente con una serie de listados referentes al cliente en pantalla.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Los listados a mostrar son: Estadísticas de venta, &lt;em&gt;Ficha del Cliente&lt;/em&gt; y estado de cuenta.&lt;/p&gt;
-&lt;p&gt;Para imprimir la orden de domiliciación deberemos introducir en el cuadro &lt;strong&gt;&amp;ldquo;IBAN&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Exportar&lt;/strong&gt;: Exporta la ficha a excel. &lt;em&gt;En desuso&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Calculadora&lt;/strong&gt;: Abre la calculadora por defecto del sistema.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Búsqueda I&lt;/strong&gt;: Permite buscar por nombre, dirección o código. Permite a su vez buscar introduciendo parte de la palabra.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;$&lt;/strong&gt;: Mediante el carácter &lt;strong&gt;dolar($)(Mayús + 4 )&lt;/strong&gt; permite buscar por registros dados de baja.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Búsqueda II&lt;/strong&gt;: Permite buscar por dirección.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Orden&lt;/strong&gt;: Permite cambiar el orden de búsqueda de registro. Las opciones disponibles son por código de cliente, dirección comercial y nombre comercial.
-&lt;img src=&#34;http://localhost:1313/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Precios especiales&lt;/strong&gt;: Permite acceder a la pantalla de precios especiales asociados al cliente en pantalla. También permite saltar a la pantalla de promociones, bonificaciones y Rappels.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Rutero&lt;/strong&gt;: Accede a la pantalla de rutas de distribución asignadas al cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Pedidos&lt;/strong&gt;: Permite visualizar la lista de pedidos del cliente y visualizar cada uno de ellos posicionándonos encima y pulsando intro. Cuando pulsemos &lt;strong&gt;Escape (ESC)&lt;/strong&gt; desde la pantalla volveremos a la ficha del cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Esta funcionalidad se aplica para las facturas y albaranes.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Albaranes&lt;/strong&gt;: Accede al apartado de albaranes del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Facturas&lt;/strong&gt;: Accede al apartado de facturas del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vencimientos&lt;/strong&gt;: Accede a los vencimientos de facturas del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ventas&lt;/strong&gt;: Permite visualizar tres tipos de informe. Un informe de Ventas entre fechas, un informe de incidencias de reparto y un gráfico de consumo comparativo con los dos años anteriores &lt;strong&gt;siempre y cuando exista consumo.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Histórico de pvp&lt;/strong&gt;: Permite visualizar los distintos precios de venta de un artículo que se han aplicado al cliente en un periodo de tiempo determinado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stock de depósitos/Envases&lt;/strong&gt;: Nos redirige a la pantalla de control de stocks de envases, el control de depósitos y puntos de promoción.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Si se tiene el módulo activado, también permite ver la relación de artículos no entregados a ese cliente. Esa opción también lo permite la siguiente opción.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Artículos pendientes de suministro&lt;/strong&gt;: Muestra los artñiculos que no se han podido servir al cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Información Comercial&lt;/strong&gt;: Permite llevar un registro de material comercial (PLVs) entregados al cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Memo&lt;/strong&gt;: Información en texto libre para el cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Otros datos del cliente&lt;/strong&gt;: Muestra una pantalla donde poder introducir otros datos de contacto del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Otras direcciones&lt;/strong&gt;: Permite registrar otras direcciones, personas de contacto y teléfonos del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cheque/pagaré&lt;/strong&gt;: Permite imprimir un cheque o pagaré al cliente que tenemos en pantalla.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cubo de datos&lt;/strong&gt;: Exporta a un programa de minería de datos las diferentes estadísticas del cliente que estamos visualizando. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Google Maps&lt;/strong&gt;: Permite visualizar en Google Maps la ubicación del cliente siempre y cuando la dirección este introducida correctamente. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ficha de Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ficha-de-cliente&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ficha-de-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Procederemos a detallar cada aspecto de la &lt;strong&gt;ficha de clientes&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
- &lt;em&gt;Todos los campos se recorren de izquierda a derecha&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Código cliente&lt;/strong&gt;: Es un código &lt;strong&gt;alfanumerico&lt;/strong&gt; por el cual el usuario del programa identifica a cada uno de sus clientes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Es aconsejable codificar los códigos con 5 carácteres numéricos a fin que que la &lt;strong&gt;cuenta contable&lt;/strong&gt; y el &lt;strong&gt;código de cliente&lt;/strong&gt; mantengan cierta relación.&lt;/p&gt;
-&lt;p&gt;El programa genera automáticamente la cuenta contable si el código es numerico, por ejemplo si nuestro cliente está codificado como 00043, su cuenta contable se generará como: 43000043.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Si durante el proceso de alta se introduce el símbolo &amp;lsquo;+&amp;rsquo; en el campo de código de cliente, el programa genera automáticamente un número de cliente correlativo.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Código Sucursal&lt;/strong&gt;: &lt;strong&gt;POR RELLENAR&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Activo (ACT)&lt;/strong&gt;: Indica el estado del cliente, admite tres tipos de estado&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;S (Sí)&lt;/strong&gt;: El cliente se encuentra activo y se pueden realizar operaciones sobre el.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;N (No)&lt;/strong&gt;: El cliente ya no está activo y hay que indicar la &lt;strong&gt;fecha de baja&lt;/strong&gt;. Ya no se podrá realizar ninguna operación sobre el exceptuando consultas.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;I (Inactivo)&lt;/strong&gt;: El cliente ya no está activo pero no necesariamente cerrado. Se utiliza para aquellos clientes que cesan su actividad durante un determinado periodo de tiempo.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;NIF&lt;/strong&gt;: Este campo se rellena con una estructura determinada que es Número-Letra. El programa es capaz de determinar por sí solo la letra que acompaña el número.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;En el caso de que sea DNI no calculará la letra.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TIPO&lt;/strong&gt;: Hace referencia al tipo de cliente. Lleva asociado una tabla con los códigos de todos los tipos disponibles.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DATOS FISCALES&lt;/strong&gt;: Consiste en un bloque de cuatro lineas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Nombre Fiscal&lt;/strong&gt;: Nombre fiscal del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dirección&lt;/strong&gt;: Dirección fiscal del cliente.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Código Postal y Localidad&lt;/strong&gt;: Sigue una estructura determinada (&lt;em&gt;CP-Localidad&lt;/em&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Provincia&lt;/strong&gt;: Provincia.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Siguiendo el orden de izquierda a derecha se nombran los siguientes campos.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DATOS COMERCIALES&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Nombre Comercial&lt;/strong&gt;: Nombre comercial del cliente (Establecimiento).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dirección Comercial.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Código Postal y Localidad&lt;/strong&gt;: Sigue la misma estructura que los datos fiscales.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GRUPO&lt;/strong&gt;: Esta campo permite agrupar varios clientes con un denominador común, con el fin de hacer referencia al grupo creado en otras secciones del programa.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Por ejemplo a la hora de crear promociones que afecten a un determinado grupo de clientes.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Para hacer uso de este campo primero ha de dar de alta los grupos en la sección &lt;strong&gt;153-Grupos de cliente.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;NAC&lt;/strong&gt;: Indica si se trata de un cliente nacional. Entendemos por cliente nacional a todo aquel cliente al que el proveedor le factura directamente.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;1.2rem&#34; height=&#34;1.2rem&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#e0d910&#34; d=&#34;M10.03 3.659c.856-1.548 3.081-1.548 3.937 0l7.746 14.001c.83 1.5-.255 3.34-1.969 3.34H4.254c-1.715 0-2.8-1.84-1.97-3.34zM12.997 17A.999.999 0 1 0 11 17a.999.999 0 0 0 1.997 0m-.259-7.853a.75.75 0 0 0-1.493.103l.004 4.501l.007.102a.75.75 0 0 0 1.493-.103l-.004-4.502z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-
-Para dar de alta un cliente nacional se deberá hacer desde el apartado &lt;strong&gt;157-Clientes - Proveedores.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SERIE FAC&lt;/strong&gt;: &lt;strong&gt;POR RELLENAR&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;OBSERVACIÓN IMPORTANTE&lt;/strong&gt;: Es un campo libre que sirve para introducir una información relativa a ese cliente, la cual &lt;strong&gt;aparecerá por pantalla&lt;/strong&gt;, a modo de aviso, cada vez que realicemos una operación sobre ese cliente.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Ej: Avisar antes de servir.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;BANCO DOMICILIADO&lt;/strong&gt;: Nombre del banco domiciliado.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Cuenta bancaria (CTA)&lt;/strong&gt;: Número de cuenta bancaria, se introduce todos los dígitos seguidos.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;El programa realiza una validación mediante el dígito de control (D.C.) si el número de cuenta introducido es válido, mostrando un mensaje de error en caso de que no lo sea.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;EMAIL FACTURAS&lt;/strong&gt;: Mediante este campo podremos introduccir hasta dos direcciones de correo las cuales se usarán para el envío de los documentos a través de email. &lt;em&gt;Se debe tener configurado correctamente los parámetros de email&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TELEFONO&lt;/strong&gt;: Número de telefono del cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TELEFAX&lt;/strong&gt;: Número de FAX del cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;REPRESENTANTE&lt;/strong&gt;: Código del preventista que visita al cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;1.2rem&#34; height=&#34;1.2rem&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#e0d910&#34; d=&#34;M10.03 3.659c.856-1.548 3.081-1.548 3.937 0l7.746 14.001c.83 1.5-.255 3.34-1.969 3.34H4.254c-1.715 0-2.8-1.84-1.97-3.34zM12.997 17A.999.999 0 1 0 11 17a.999.999 0 0 0 1.997 0m-.259-7.853a.75.75 0 0 0-1.493.103l.004 4.501l.007.102a.75.75 0 0 0 1.493-.103l-.004-4.502z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-
-Para poder asignar un representante, deberemos darlo de alta previamente en el sistema mediante &lt;em&gt;&lt;strong&gt;22 - Personal&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CÓDIGO DE ZONA&lt;/strong&gt;: El programa permite ubicar a los clientes en zonas con el fin de obtener información estadística basándose en ese critrerio. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TIPO DE PAGO-1&lt;/strong&gt;: Tipo de pago referentes a las operaciones A.  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TIPO DE PAGO-2&lt;/strong&gt;: Tipo de pago referente a las operaciones B.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CUENTA CONTABLE&lt;/strong&gt;: Código generado automáticamente por el programa al dar de alta un cliente con código numérico.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TOTAL ALBARANES PENDIENTES&lt;/strong&gt;: Es el importe total al que ascienden todos los albaranes del cliente que están &lt;strong&gt;pendientes de ser facturados&lt;/strong&gt;. Este dato se genera de manera &lt;strong&gt;automática&lt;/strong&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-
-En algunos casos y debido al erroneo mantenimiento de la base de datos este campo puede arrojar una cantidad diferente a la real. Para ello utilizaremos el recálculo de saldos.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;OBSERVACION&lt;/strong&gt;: Campo destinado a una observación interna. Este campo no se refleja en ingun lugar más alla de la ficha de cliente.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TIPO DE FACTURACION&lt;/strong&gt;: Se utiliza para configurar la facturación automática. Para este campo existen las siguientes opciones:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;0&lt;/strong&gt;: Factura resumen, es decir, todos los albaranes se agrupan bajo una misma factura.
-&lt;blockquote&gt;
-&lt;p&gt;Si se utiliza la opción de &lt;em&gt;Documentación de cargas&lt;/em&gt; se facturará todos los albaranes que el cliente tenga en esa carga.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt;: Factura directa. Se creará una factura por cada albaran.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt;: Sin factura. Generalmente se utiliza para clientes considerados como Nacionales.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt;: Variación de factura resumen. Mediante esta opción se evitará que se facture en documentación de cargas pero mantendra la factura por agrupación.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4&lt;/strong&gt;: Variación de factura directa. Mediante esta opción se evitará que se facture en documentación de cargas.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1º DIA DE PAGO&lt;/strong&gt;: Día del mes en el que se gira la factura en el caso de que el cliente sea de crédito.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Vease formas de pago: ![Formas de pago]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2º DIA DE PAGO&lt;/strong&gt;: Día del mes en el que se vuelve a girar la factura en caso de que no se haya efectuado el pago en el primer día de pago.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;MES DE NO PAGO&lt;/strong&gt;: Número del mes en el que el cliente no hace efectivo ningún pago.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Ej: Mes 7 (Agosto) porque el cliente se encuentra de vacaciones.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;TIPO PVP&lt;/strong&gt;: Indica la tarifa de precios que se aplicará al cliente. Por defecto la tarifa 1.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;ALBARÁN VALORADO&lt;/strong&gt;: Hay dos posibles valores &lt;strong&gt;S&lt;/strong&gt; o &lt;strong&gt;N&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;S (Sí)&lt;/strong&gt;: Albarán valorado, cada linea del albarán se imprime con precios y totales.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;N (No)&lt;/strong&gt;: Albarán sin valorar, cada linea del albarán se imprime solo con la cantidad.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;RIESGO&lt;/strong&gt;: Cantidad en Euros o en facturas que se le concede al cliente con el fin de que cuando &lt;strong&gt;la deuda&lt;/strong&gt; llegue al valor introducido nos muestre un aviso y se impida seguir realizando operaciones de venta sobre el. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;IMPUESTO ESPECIAL&lt;/strong&gt;: Código numerico predefinido que se asigna a aquellos clientes.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;0&lt;/strong&gt;: Impuesto Alcohol Exento.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt;: Impuesto Alcohol Península.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt;: Impuesto Alcohol Canarias.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PROMOCION&lt;/strong&gt;: Valor S/N. Indica si se le aplicarán las promociones &lt;strong&gt;generales&lt;/strong&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PUNTOS&lt;/strong&gt;: Valor S/N. Indica si el cliente puede acumular puntos por compra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;%EUR ALBARANES&lt;/strong&gt;: Cantidad en &lt;strong&gt;porcentaje&lt;/strong&gt; de descuento que se aplicará a los albaranes del cliente de forma &lt;strong&gt;general&lt;/strong&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Los siguientes campos vienen divididos en dos columnas para la facturación de la serie C (Facturación en A) y para la facturación de la serie F (Facturación en B).&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;FACTURACIÓN EN C&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;FACTURACIÓN EN F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;% DTO. LÍNEA&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará en cada linea de albarán&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará   en cada linea de albarán&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;% DTO. FACTU&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará  en cada factura&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Descuento que se le aplicará  en cada factura&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;IVA&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará IVA&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará IVA&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;R. EQUI&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará Recargo de Equivalencia&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si se le aplicará Recargod de equivalencia&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DETALLAR&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si en una factura resumen aparecen los albaranes detallados o si de lo contrario aparece el número de albarán y el total del mismo.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;S/N. Indica si en una factura resumen aparecen los albaranes detallados o si de lo contrario aparece el número de albarán y el total del mismo.&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;SALDO&lt;/strong&gt;: Indica en cantidad de Euros el saldo de facturas pendientes de cobro.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Al terminar de introducir los datos en esta pantalla el programa irá presentando las distintas advertencias de datos de caráter obligatorio no introduccidos o erroneos que deberemos subsanar para continuar.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 
       </description>
     </item>

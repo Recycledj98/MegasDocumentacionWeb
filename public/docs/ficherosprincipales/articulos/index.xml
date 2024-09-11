@@ -15,19 +15,6 @@
     
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Artículos</title>
       <link>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -535,6 +522,19 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
 &lt;h3&gt;Códigos de barra Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;códigos-de-barra-adicionales&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#c%c3%b3digos-de-barra-adicionales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opcíon se nos mostrará una pantalla donde podremos introducir aquellos códigos adicionales de barras que nos suministra el proveedor.&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

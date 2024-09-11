@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+weight: 1
 title: Artículos
 ---
 

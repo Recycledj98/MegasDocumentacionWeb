@@ -1,17 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
+
+
+:root {
+  --primary-hue: 191deg;
+  --primary-saturation: 90%;
+}
 .content {
   font-family: "Inter", sans-serif;
 }
 
-body {
+.body {
   font-family: "Inter", sans-serif;
 }
 
-h3 {
+.h3 {
   display: inline-flex;
   align-items: center;
   font-size: 1.5em;
+  color: var(--primary-hue);
 }
 
 .Icon {
@@ -23,10 +30,6 @@ h3 {
     margin-top: 2em;
 }
 
-img:hover{
-  transform: scale(1.2);
-  animation: ease-out;
-  animation-duration: 2s;
-}
+
 
 

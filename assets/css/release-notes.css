@@ -1,0 +1,19 @@
+.release-notes {
+    font-family: Arial, sans-serif;
+}
+
+.release-notes h1 {
+    color: #3498db;
+}
+
+.release-notes section {
+    margin-top: 20px;
+}
+
+.release-notes ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.release-notes background {
+    color: red;
+}

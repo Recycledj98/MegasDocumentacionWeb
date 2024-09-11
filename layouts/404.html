@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="error-page">
+  <h1>404 - Página no encontrada</h1>
+  <p>Lo sentimos, pero no hemos podido encontrar la página que estás buscando.</p> 
+  <a href="/" class="button">Volver a la página principal</a>
+  
+  <style>
+    .error-page {
+      text-align: center;
+      margin: 100px auto;
+      max-width: 600px;
+    }
+    .error-page h1 {
+      font-size: 3rem;
+      color: var(--primary-color); /* Usa las variables de color de tu tema */
+    }
+    .error-page p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+    .error-page .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: var(--primary-color);
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</div>
+{{ end }}

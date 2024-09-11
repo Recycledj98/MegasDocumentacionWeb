@@ -1,16 +1,17 @@
 baseURL: https://example.org/
 languageCode: es-ES
 title: Megas Documentación Web
+defaultContentLanguage: es
 
 # Importación de temas
-module:   
+module:
   imports:
     - path: github.com/imfing/hextra
     # Importación de modulo de imagenes
     - path: github.com/hugomods/images
 
     # Importación de modulo de videos
-      # Por incoporar
+    # Por incoporar
     # Importación de modulo de iconos bootstrap
     - path: github.com/hugomods/icons/vendors/bootstrap
     - path: github.com/hugomods/icons/vendors/font-awesome
@@ -21,4 +22,50 @@ module:
 params:
   # Tipografía
   custom_css:
-   - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
+    - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
+  
+  theme:
+    default: system #Coge el tema que tenga el usuario por defecto
+    displayToggle: true #Muestra el botón de cambio de tema
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    search: enable
+    logo:
+      path: images/negro.png
+      dark: images/blanco.png
+      width: 90
+      #height: 40
+      link: /
+    width: wide
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    displayUpdatedDate: true
+  width: normal
+displayUpdatedDate: true
+dateFormat: "2 January, 2006"
+#configuración del tema
+
+
+# PRUEBA
+
+search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: heading
+      # full | forward | reverse | strict
+      tokenize: strict
+
+
+# Menú 
+menu:
+  main:
+    - name: Search
+      weight: 5
+      params:
+        type: search
