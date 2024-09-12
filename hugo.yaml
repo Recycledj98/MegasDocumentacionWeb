@@ -23,7 +23,7 @@ params:
   # Tipografía
   custom_css:
     - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
-  
+
   theme:
     default: system #Coge el tema que tenga el usuario por defecto
     displayToggle: true #Muestra el botón de cambio de tema
@@ -48,29 +48,25 @@ displayUpdatedDate: true
 dateFormat: "2 January, 2006"
 #configuración del tema
 
-
 # PRUEBA
 
 search:
-    enable: true
-    type: flexsearch
+  enable: true
+  type: flexsearch
 
-    flexsearch:
-      # index page by: content | summary | heading | title
-      index: content
-      # full | forward | reverse | strict
-      tokenize: strict
+  flexsearch:
+    # index page by: content | summary | heading | title
+    index: content
+    # full | forward | reverse | strict
+    tokenize: strict
 
-
-# Menú 
+# Menú
 menu:
   main:
     - name: Search
       weight: 5
       params:
         type: search
-    - name: Reportar Error
+    - name:  🪧 Reportar Error
       weight: 4
-      url: "/report-error/"
-
-    
+      url: "/reportar-error/"

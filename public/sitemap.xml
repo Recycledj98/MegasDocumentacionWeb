@@ -119,6 +119,8 @@
   </url><url>
     <loc>http://localhost:1313/recursos/</loc>
   </url><url>
+    <loc>http://localhost:1313/reportar-error/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallarutas/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
