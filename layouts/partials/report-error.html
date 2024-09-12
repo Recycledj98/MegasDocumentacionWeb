@@ -1,0 +1,63 @@
+<div class="report-error">
+    <h3>¿Has encontrado un error en esta página?</h3>
+    <p>Por favor, ayúdanos a mejorar nuestra documentación reportando cualquier error que encuentres.</p>
+  
+    <form id="report-error-form" method="POST" action="https://formspree.io/f/your-form-id">
+      <div>
+        <label for="email">Tu correo electrónico (opcional):</label>
+        <input type="email" id="email" name="email" placeholder="ejemplo@correo.com">
+      </div>
+  
+      <div>
+        <label for="error-description">Descripción del error:</label>
+        <textarea id="error-description" name="error-description" required></textarea>
+      </div>
+  
+      <input type="hidden" name="_subject" value="Error reportado en la documentación">
+      <input type="hidden" name="page-url" value="{{ .Permalink }}">
+  
+      <button type="submit">Enviar reporte</button>
+    </form>
+  
+    <style>
+      .report-error {
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin-top: 40px;
+        background-color: #f9f9f9;
+      }
+  
+      .report-error h3 {
+        margin-top: 0;
+      }
+  
+      .report-error label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+  
+      .report-error input,
+      .report-error textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+  
+      .report-error button {
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+  
+      .report-error button:hover {
+        background-color: darken(var(--primary-color), 10%);
+      }
+    </style>
+  </div>
+  

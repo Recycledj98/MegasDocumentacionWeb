@@ -57,7 +57,7 @@ search:
 
     flexsearch:
       # index page by: content | summary | heading | title
-      index: heading
+      index: content
       # full | forward | reverse | strict
       tokenize: strict
 
@@ -69,3 +69,8 @@ menu:
       weight: 5
       params:
         type: search
+    - name: Reportar Error
+      weight: 4
+      url: "/report-error/"
+
+    

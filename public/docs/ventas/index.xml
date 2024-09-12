@@ -1,0 +1,293 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ventas/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ventas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Pedidos</title>
+      <link>http://localhost:1313/docs/ventas/pedidos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/pedidos/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Pantalla Pedidos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pantalla-pedidos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pantalla-pedidos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desde este apartado se podrán visualizar, dar de alta o realizar las operaciones pertinentes sobre los pedidos de preventa.&lt;/p&gt;
+&lt;p&gt;No tienen ninguna connotación a efectos prácticos sobre el almacén o programa más allá de ser una anotación guardada.&lt;/p&gt;
+&lt;p&gt;La pantalla de pedidos tiene el siguiente aspecto&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen podremos apreciar datos censurados, corresponen a los datos fiscales del cliente, nombre, dirección, código postal y población y nombre comercial.&lt;/p&gt;
+&lt;h3&gt;Cabecera pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cabecera-pedido&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#cabecera-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;En la cabecera del pedido encontramos los siguientes campos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nº de pedido&lt;/strong&gt;: Campo generado automáticamente. Corresponde al número de pedido.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nº de cliente&lt;/strong&gt;: Código de cliente. Campo obligatorio, es decir, el programa nos pedirá introducir un código o seleccionar de la lista mediante el comodín asterisco.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de pedido&lt;/strong&gt;: En la imagen aparece &amp;ldquo;C&amp;rdquo;, que corresponde a la serie por defecto de facturación. Es un campo automático, sólo se puede modificar si tenemos el módulo de series activo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nº Almacén&lt;/strong&gt;: Número de almacén del cual se realizará la retirada de género. Al ser un pedido no tiene impacto sobre el stock.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: Fecha de alta del pedido.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Albarán&lt;/strong&gt;: En el caso de que pase a albarán se rellena automáticamente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rut-P&lt;/strong&gt;: Código de la ruta de preventa. En caso de dejar en blanco el programa nos mostrará una lista con las rutas de preventa disponibles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rut-P&lt;/strong&gt;: Códdigo de la ruta de distribución. En caso de dejar en blanco el programa nos pedirá lo mismo que con la ruta de preventa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nota&lt;/strong&gt;: Campo para observación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F1-5&lt;/strong&gt;: Campos destinados para las funciones. F1 es obligatorio, el programa nos mostrará una pantalla con las funciones disponibles para elegir una.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Datos Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-cliente&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datos-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Inmediatamente a la derecha de la cabecera del pedido encontramos los datos fiscales del cliente, se rellenan automáticamente desde la ficha del cliente, aunque mediante el botón de modificar (Ctrl+M) podremos modificarlos.&lt;/p&gt;
+&lt;h3&gt;Cuerpo Pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cuerpo-pedido&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#cuerpo-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Una vez rellenada la cabecera el programa nos moverá automáticamente al cuerpo del pedido donde podremos dar de alta las lineas del pedido.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Referencia&lt;/strong&gt;: Código del artículo. Podremos buscar por comodín asterisco, o introduciendo parte del código o nombre del artículo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los siguientes campos se rellenan de forma automática desde la ficha del artículo.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Botón&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Descripción&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de comisiones del representante&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede al histórico de PVP del artículo&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de coste&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;En cuanto a la botonera explicaremos únicamente los botones diferentes de esta pantalla ya que los generales siguen mantiendo la misma funcionalidad.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Botón&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Descripción&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera un pedido de compra con las lineas de artículo introducidas&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Retiene el pedido&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido en albarán&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Anexo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;anexo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#anexo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/abaranes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/abaranes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/cargas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/cargas/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/dispaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/dispaching/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/facturacion-automatica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/facturacion-automatica/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/facturacion-grupo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/facturacion-grupo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/facturacion-manual-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/facturacion-manual-1/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/facturacion-periodica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/facturacion-periodica/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/facturas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/facturas/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/importacion-masiva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/importacion-masiva/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ventas/recibos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ventas/recibos/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
