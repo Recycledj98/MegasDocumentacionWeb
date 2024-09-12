@@ -1,9 +1,10 @@
-baseURL: https://example.org/
+baseURL: "https://Recycledj98.github.io/MegasDocumentacionWeb/"
 languageCode: es-ES
 title: Megas Documentación Web
 defaultContentLanguage: es
 
-# Importación de temas
+# Importación de modulos
+
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -36,7 +37,7 @@ params:
       dark: images/blanco.png
       width: 90
       #height: 40
-      link: /
+      link: /index_md
     width: wide
   footer:
     enable: true
@@ -46,10 +47,10 @@ params:
   width: normal
 displayUpdatedDate: true
 dateFormat: "2 January, 2006"
-#configuración del tema
 
-# PRUEBA
 
+
+# Habilitar búsqueda y elegir el modo
 search:
   enable: true
   type: flexsearch

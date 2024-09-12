@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>http://localhost:1313/docs/ficherosprincipales/proveedores/</link>
+    <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/proveedores/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</guid>
       <description>
         
         
@@ -29,17 +29,17 @@
     
     <item>
       <title>Pantalla Proveedores</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/proveedores/proveedores/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/proveedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/proveedores/proveedores/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/proveedores/</guid>
       <description>
         
         
         &lt;h2&gt;Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;proveedores&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado encontraremos todo lo relacionado a nuestros proveedores.
 Una vez ingresemos al apartado de proveedores nos encontraremos la siguiente pantalla&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Proveedores/PantallaProveedor.png&#34; alt=&#34;PantallaProveedores&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/PantallaProveedor.png&#34; alt=&#34;PantallaProveedores&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Botonera Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;botonera-proveedores&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#botonera-proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Salir&lt;/strong&gt;: Sale de la pantalla actual (Esc).&lt;/li&gt;
@@ -69,7 +69,7 @@ Una vez ingresemos al apartado de proveedores nos encontraremos la siguiente pan
 &lt;/ul&gt;
 &lt;h3&gt;Alta de un Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alta-de-un-proveedor&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#alta-de-un-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante la combinación &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt; se nos mostrará una pantalla donde podremos rellenar los datos de un nuevo proveedor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/proveedores/PantallaProveedorAlta.png&#34; alt=&#34;Alta Proveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/proveedores/PantallaProveedorAlta.png&#34; alt=&#34;Alta Proveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -139,10 +139,10 @@ Por defecto se coge el PVP-1 de la ficha del cliente.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Pago rápido de facturas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pago-rápido-de-facturas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#pago-r%c3%a1pido-de-facturas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de facturas podremos filtar por las facturas pagadas, no pagadas o ambas, lo cual mostrará por pantalla un listado de las facturas del proveedor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Proveedores/PantallaProveedorFacturas.png&#34; alt=&#34;PantallaProveedorFacturas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Podemos ir seleccionando las facturas que deseemos o usar los botones de &lt;em&gt;&lt;strong&gt;Marcar todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;http://localhost:1313/docs/images/Botonera/BotonMarcarTodos.png&#34; alt=&#34;Marcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos seleccionará todas las facturas o &lt;em&gt;&lt;strong&gt;Desmarcar Todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;http://localhost:1313/docs/images/Botonera/BotonDesmarcarTodos.png&#34; alt=&#34;Desmarcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos desmarcará las facturas selecionadas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/PantallaProveedorFacturas.png&#34; alt=&#34;PantallaProveedorFacturas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Podemos ir seleccionando las facturas que deseemos o usar los botones de &lt;em&gt;&lt;strong&gt;Marcar todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Botonera/BotonMarcarTodos.png&#34; alt=&#34;Marcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos seleccionará todas las facturas o &lt;em&gt;&lt;strong&gt;Desmarcar Todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Botonera/BotonDesmarcarTodos.png&#34; alt=&#34;Desmarcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos desmarcará las facturas selecionadas.&lt;/p&gt;
 &lt;p&gt;Las facturas seleccionadas se mostrarán en color rojo en la pantalla mostrada.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/proveedores/PantallaProveedorFacturasSeleccionadas.png&#34; alt=&#34;PantallaProveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/proveedores/PantallaProveedorFacturasSeleccionadas.png&#34; alt=&#34;PantallaProveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Con la tecla escape (ESC) nos devolverá a la pantalla prinicipal de proveedores con una ventana emergente, la cual nos pedirá el concepto de pago, la fecha de vencimiento y la cuenta contable destino.&lt;/p&gt;
 
 
@@ -177,7 +177,7 @@ Por defecto se coge el PVP-1 de la ficha del cliente.&lt;/li&gt;
 &lt;h3&gt;Estadísticas de compra Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estadísticas-de-compra-proveedor&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#estad%c3%adsticas-de-compra-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante la funcionalidad de imprimir (&lt;em&gt;&lt;strong&gt;Ctrl + I&lt;/strong&gt;&lt;/em&gt;) podremos sacar varios listados respecto al proveedor seleccionado.&lt;/p&gt;
 &lt;p&gt;Una vez entremos en &lt;em&gt;&lt;strong&gt;Estadísitcas de Compras&lt;/strong&gt;&lt;/em&gt; se nos mostrará una ventana emergente donde tendremos que rellenar varios datos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Proveedores/VentanaParametrosEstadisticasCompra.png&#34; alt=&#34;Estadísticas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/VentanaParametrosEstadisticasCompra.png&#34; alt=&#34;Estadísticas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Fecha Inicial/Final&lt;/strong&gt;: Rango de fechas que deseamos filtar.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tipo C/F&lt;/strong&gt;: Filtro de albaranes en serie C, F o ambos.&lt;/li&gt;
