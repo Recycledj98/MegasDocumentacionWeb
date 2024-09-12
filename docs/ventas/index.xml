@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/</link>
+    <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Pedidos</title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/pedidos/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/pedidos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/pedidos/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/pedidos/</guid>
       <description>
         
         
@@ -27,7 +27,7 @@
     &lt;a href=&#34;#pantalla-pedidos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desde este apartado se podrán visualizar, dar de alta o realizar las operaciones pertinentes sobre los pedidos de preventa.&lt;/p&gt;
 &lt;p&gt;No tienen ninguna connotación a efectos prácticos sobre el almacén o programa más allá de ser una anotación guardada.&lt;/p&gt;
 &lt;p&gt;La pantalla de pedidos tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen podremos apreciar datos censurados, corresponen a los datos fiscales del cliente, nombre, dirección, código postal y población y nombre comercial.&lt;/p&gt;
 &lt;h3&gt;Cabecera pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cabecera-pedido&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cabecera-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;En la cabecera del pedido encontramos los siguientes campos:&lt;/p&gt;
@@ -60,35 +60,35 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de comisiones del representante&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede al histórico de PVP del artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de coste&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -103,27 +103,27 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera un pedido de compra con las lineas de artículo introducidas&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Retiene el pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido en albarán&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -135,10 +135,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/abaranes/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/abaranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/abaranes/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/abaranes/</guid>
       <description>
         
         
@@ -148,10 +148,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
       <description>
         
         
@@ -161,10 +161,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
       <description>
         
         
@@ -174,10 +174,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/cargas/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/cargas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/cargas/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/cargas/</guid>
       <description>
         
         
@@ -187,10 +187,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/dispaching/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/dispaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/dispaching/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/dispaching/</guid>
       <description>
         
         
@@ -200,10 +200,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-automatica/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-automatica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-automatica/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-automatica/</guid>
       <description>
         
         
@@ -213,10 +213,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-grupo/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-grupo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-grupo/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-grupo/</guid>
       <description>
         
         
@@ -226,10 +226,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-manual-1/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-manual-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-manual-1/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-manual-1/</guid>
       <description>
         
         
@@ -239,10 +239,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-periodica/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-periodica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-periodica/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturacion-periodica/</guid>
       <description>
         
         
@@ -252,10 +252,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturas/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturas/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/facturas/</guid>
       <description>
         
         
@@ -265,10 +265,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/importacion-masiva/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/importacion-masiva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/importacion-masiva/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/importacion-masiva/</guid>
       <description>
         
         
@@ -278,10 +278,10 @@
     
     <item>
       <title></title>
-      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/recibos/</link>
+      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/recibos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/recibos/</guid>
+      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ventas/recibos/</guid>
       <description>
         
         
