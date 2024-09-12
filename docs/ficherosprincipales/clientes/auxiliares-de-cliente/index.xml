@@ -1,0 +1,428 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Formas de Pago</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emitir Recibo&lt;/strong&gt;: Si la forma de pago lleva asociada la impresión de un recibo elegiremos
+la opción S, si no hay recibo asociado dejaremos la opción por defecto N.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Entrada&lt;/strong&gt;: Porcentaje del total de la factura/albarán que se dará por cobrado automáticamente a la emisión del documento (albarán o factura).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% DTO PP&lt;/strong&gt;: Porcentaje de descuento por pronto pago. Se aplicará automáticamente en
+las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta Contable&lt;/strong&gt;: Cuenta de contrapartida a la que se destinará el cobro.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Descripción&lt;/strong&gt;: Descripción del pago. Esta descripción aparecerá automáticamente al dar el pago de un vencimiento de una factura.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Total a/cta Vto&lt;/strong&gt;: Total a cuenta vencimiento, indica si el total del vencimiento&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Recargo&lt;/strong&gt;: Porcentaje de recargo antes de impuestos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Riesgo Dias/Num&lt;/strong&gt;: Riesgo en días o número de albaranes o facturas permitidas para esta forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      En el caso de que estipulemos 10 días de riesgo para albaranes o facturas, si el cliente con esa forma de pago tiene pagos pendientes de más de 10 días, se le inhabilita para la venta hasta que se paguen esos documentos. Lo mismo aplica para los días.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RETENC_PAG&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cobra Representante&lt;/strong&gt;: Permite la posibilidad de que el representante pueda realizar cobros bajo esta forma de pago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Ejemplo de formas de pago
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de Cliente</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se define el tipo de cliente dependiendo de su actividad y al sector al que pertenece.&lt;/p&gt;
+&lt;p&gt;Hay dos niveles, uno para indicar el &lt;strong&gt;sector&lt;/strong&gt; al que pertenece el cliente (Hosteleria, Alimentación, etc) y otro para indicar el &lt;strong&gt;tipo&lt;/strong&gt; dentro del sector.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Grupos de cliente</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;El programa nos permite definir grupos de cliente para posteriormente hacer uso de los mismos para aplicar ciertas condiciones o de cara a estadísticas.&lt;/p&gt;
+&lt;p&gt;Se compone de un código alfanumérico y un nombre descriptivo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zonas de cliente</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Al igual que los grupos se permiten definir distintas zonas de venta con el fin de ubicar a cada cliente en una zona determinada y posteriormente obtener datos estadísticos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asignación de Zonas y/o Clases a Series de Facturación</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Los campos a cumplimentar son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codigo Zona&lt;/strong&gt;: Código de zona.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nivel-Clase&lt;/strong&gt;: Nivel de la clase de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase Artículo&lt;/strong&gt;: Código de clase dentro del nivel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie Facturación&lt;/strong&gt;: Serie de facturación a aplicar.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Para poder aplicar esta funcionalidad deberemos tener previamente &lt;strong&gt;activado el módulo de series en documentos&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipo de Alta/Baja</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se definen todos los posibles tipos de altas o bajas relacionados con la compentencia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clientes Nacionales</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clientes - Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes---proveedores&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clientes---proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong&gt;nacionales&lt;/strong&gt;. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código Cliente&lt;/strong&gt;: Código del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Porveedor&lt;/strong&gt;: Código del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código para Proveeedor&lt;/strong&gt;: Código de cliente nacional.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N.Proveedor (Cliente)&lt;/strong&gt;: Código del proveedor - Revisar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Valora&lt;/strong&gt;: Especifica una serie de opciones que tomará el programa a la hora de tratar con el cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Número de copias Albarán&lt;/strong&gt;: Especifica el número de copias que se imprimiran.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recibo albarán&lt;/strong&gt;: Especifica si el albarán ha de ser un recibo.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚨
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Al salir de esta ventana, el programa &lt;strong&gt;actualizará automáticamente&lt;/strong&gt; todos los registros de clientes proveedores.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de información</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Contiene la información comercial (serpentines, grifos, sombrillas&amp;hellip;) indicando el código de cada artículo, descripción y el código con el que Mahou lo identifica.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Características de Cliente</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>SEPA - Códigos SWIFT de Bancos</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En esta pantalla se recogen los códigos SWIFT/BIC de los bancos.
+Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

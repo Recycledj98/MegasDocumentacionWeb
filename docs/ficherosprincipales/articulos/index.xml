@@ -1,0 +1,542 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Artículos</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;La sección de artículos es crucial para optimizar y gestionar eficicientemente los procesos comerciales de nuestro negocio. Mediante las múltiples funcionalidades y opciones disponibles podremos gestionar el inventario de nuestra empresa asi como sus movimientos.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;768&#34; height=&#34;768&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#08a1e2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+ &lt;strong&gt;Usaremos el artículo MAHOU 5 ESTRELLAS 1/5 RETORNABLE como ejemplo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La imagen proporcionada muestra la pantalla principal de la sección de artículos la cual contiene información detallada sobre cada producto de nuestro catálogo.
+A continuación desglosaremos los elementos clave de esta pantalla para comprender su funcionalidad y cómo utilizarla de manera adecuada.&lt;/p&gt;
+&lt;h3&gt;1. Identificación del artículo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-identificación-del-artículo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-identificaci%c3%b3n-del-art%c3%adculo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Número único que identifica el artículo en el sistema. Puede contener carácteres no numericos.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      El código de artículo es un código &lt;strong&gt;INTERNO&lt;/strong&gt; y sólo identifica el producto dentro de nuestro sistema.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descripción&lt;/strong&gt;: Nombre detallado del producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nombre Resumen&lt;/strong&gt;: Versión abreviada del nombre del artículo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Clasificación y estado&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-clasificación-y-estado&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-clasificaci%c3%b3n-y-estado&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clasificación&lt;/strong&gt;: Categorización del producto en cinco niveles jerarquicos.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🌐
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      &lt;strong&gt;A continuación se muestra una imagen con una jerarquía de niveles:&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Clasificaci%c3%b3nArt%c3%adculos.png&#34; alt=&#34;Clasifica&#34; loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;La correcta clasificación de artículos es de vital importancia para posteriormente poder sacar las correspondientes estadísticas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Activo (ACT)&lt;/strong&gt;: Indica si el artículo está activo y por lo tanto se puede vender.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retornable (RET)&lt;/strong&gt;: Indica si se trata de un artículo retornable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código de Barras&lt;/strong&gt;: Código de barras del producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Familia&lt;/strong&gt;: Familia a la que pertenece el artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo&lt;/strong&gt;: Tipo de producto, se divide en los siguientes:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Caja.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Barril.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Otros.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;V&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Vacío.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Lote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;Pieza.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;X&lt;/strong&gt;: El artículo es de tipo &lt;strong&gt;PLV.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;U&lt;/strong&gt;: &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. Costos y Precios&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-costos-y-precios&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-costos-y-precios&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Coste/Gastos&lt;/strong&gt;: Precio de compra del artículo, admite hasta tres decimales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PVP 1-6&lt;/strong&gt;: Distintas tarifas de venta al público. Por defecto siempre se aplica la tarifa 1.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      &lt;em&gt;Todos los precios PVP son &lt;strong&gt;sin IVA&lt;/strong&gt;. El precio final se calcula de manera automática dependiendo del tipo asignado.&lt;/em&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Coste Medio&lt;/strong&gt;: Campo automático que muestra el coste medio del producto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Margen C/V&lt;/strong&gt;: Margen de beneficio en % de compra y de venta del producto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IVA+RE&lt;/strong&gt;: Tipo de IVA que se aplicará al producto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. Inventario&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-inventario&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-inventario&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stock&lt;/strong&gt;: Stock divido en dos columnas principales, &lt;strong&gt;Actual&lt;/strong&gt; y &lt;strong&gt;Mínimo&lt;/strong&gt;, además disponemos de cinco almacenes independientes.&lt;/p&gt;
+&lt;p&gt;El stock actual es la cantidad &lt;strong&gt;real&lt;/strong&gt; de producto que disponemos en nuestro almacen.&lt;/p&gt;
+&lt;p&gt;El stock mínimo es la cantidad &lt;strong&gt;mínima&lt;/strong&gt; recomendada de producto en nuestro almacen. Cuando esta cantidad sea superada el programa avisará de la situación en cada operación que sea incluido el producto en cuestión.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ubicación&lt;/strong&gt;: Campo libre donde se puede introducir la ubicación de nuestro artículo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;5. Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-proveedor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proveedor&lt;/strong&gt;: Código de proveedor que nos suministra el producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Proveedor&lt;/strong&gt;: Código del artículo que nos asigna el proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de proveedor&lt;/strong&gt;: Indica si el artículo es una caja con botellas vacías, un barril vacío, o un producto lleno dispuesto a ser vendido, terminado. &lt;strong&gt;Todos los productos de Mahou deberán tener este campo relleno.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. Detalles Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-detalles-adicionales&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-detalles-adicionales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EMPRE&lt;/strong&gt;: Empresa perteneciente. En caso de que dispongamos de multiempresa, podremos asignar a que empresa pertenece el artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APP&lt;/strong&gt;: Código de aplicación. Campo reservado para la comunación a aplicaciones externas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bultos&lt;/strong&gt;: Bultos que ocupa el producto en el camión.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      La siguiente información es muy recomendable tenerla rellena adecuadamente para poder obtener unas estadísticas precisas y reales.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Litros/UD&lt;/strong&gt;: Litros totales por unidad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Peso/UD&lt;/strong&gt;: Indica cuantos KG tiene el artículo en su totalidad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ud/Caja&lt;/strong&gt;: Unidades totales que compone una caja.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ud/Palé&lt;/strong&gt;: Unidades totales de cajas que conforman un palé.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Venta&lt;/strong&gt;: Cuenta contable asociada a la venta de este artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Compras&lt;/strong&gt;: Cuenta contable asociada a la compra de este artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Manipulación&lt;/strong&gt;: Cuenta contable asocaida a lo percibido por la manipulación de este artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APR&lt;/strong&gt;: Ayuda por reparto. Cantidad percibida por repartir el artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;º Graduación&lt;/strong&gt;: Campo destinado a aquellos concesionarios que además fabriquen alcohol. En este campo se detallará los grados del producto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Punto Verde Venta&lt;/strong&gt;: Cantidad en euros por artículo correspondiente al punto verde para las ventas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Punto Verde Compras&lt;/strong&gt;: Cantidad en euros por artículo correspondiente al punto verde para las compras.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Puntos&lt;/strong&gt;: Vallor en puntos que genera la venta de este artículo. Se usa para las promociones por puntos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enlace&lt;/strong&gt;: Código del artículo al cual enlaza.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UDS/EM&lt;/strong&gt;: Unidades de enlace.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      En el sistema de gestión comercial MEGAS, la función de &amp;ldquo;Enlace&amp;rdquo; es utilizada en situaciones donde un mismo artículo es suministrado por dos proveedores diferentes, pero debe ser gestionado bajo un único inventario. Este procedimiento es esencial para mantener una consistencia en el control de stock y optimizar la gestión de inventarios múltiples.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Caso de Uso de la Función de Enlace:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Considere el artículo con el código 55, &amp;ldquo;Mahou 5 Estrellas&amp;rdquo;. Este mismo artículo también puede estar registrado bajo un código diferente, como el código 200, que representa al mismo producto, pero provisto por un segundo proveedor. En esta circunstancia, la función de enlace permite que ambos códigos se gestionen como un único stock.&lt;/p&gt;
+&lt;p&gt;Configuración del Enlace:&lt;/p&gt;
+&lt;p&gt;Código Principal (Enlace): 200
+Unidades de Enlace: 1
+Al configurar el artículo 55 con un enlace al código 200, se establece que cualquier transacción que afecte al artículo 55 también afectará proporcionalmente al artículo 200. Por ejemplo, al vender una unidad del artículo 55, el sistema descontará automáticamente una unidad del artículo 200.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Botonera Pantalla Artículos</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/botonera-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/botonera-articulos/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Barra auxiliar Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;barra-auxiliar-artículos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#barra-auxiliar-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Al igual que en los demás apartados del sistema, econtraremos una barra de navegación auxiliar que nos permitirá realizar las distintas operaciones.&lt;/p&gt;
+&lt;p&gt;Antes de continuar con la pantalla principal de la sección de artículos visualizaremos la barra y sus funcionalidades.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Al mantener el puntero encima de cada botón aparecerá una leyenda indicando la funcionalidad del mismo.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Botón&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Descripción&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_SALIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_PRIMERO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nos desplaza al primer registro &lt;em&gt;(El registro con el código más pequeño)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ULTIMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza al último registro&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ATRAS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia atras&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_SIGUIENTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ALTA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia delante&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_BAJA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Da de alta un nuevo registro&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_MODIFICAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_IMPRIMIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_EXPORTAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta la ficha del artículo a Microsoft Excel&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_CALCULADORA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Abre la calculadora del sistema&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BUSQUEDA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Realiza una búsqeuda de artículo introduciendo el código directamente, introduciendo el comienzo de su descripción o usando el comodín ASTERISCO y a continuación algo que esté incluido en cualquier parte del nombre&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ORDEN.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el criterio de avenze o retroceso de los registros, por código o por nombre&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite visualizar de manera grafica un extracto de movimientos del artículo&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ENVASE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar el artículo con su respectivo envase&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite indicar que el artículo en pantalla está compuesto por otros artículos&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_GRAFICO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el modo de visualización de la ficha de artículo para ver los totales de movimientos del mismo acumulados por mes/año&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_MEMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Información en texto libre para el artículo&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_CODBARRASADICIONAL.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar al artículo en pantalla más códigos de barras dependiendo del proveedor que lo suministre&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_CLIPENSUMINIS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra los clientes a los que no se les ha podido servir este producto&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_TRAZABILIDAD.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de control de lotes y trazabilidad&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_DUPLICARFICHA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite duplicar la ficha del artículo incluyendo stock, precios especiales, promociones&amp;hellip;&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_PROMOCIONES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de las promociones en las que está incluido el artículo en pantalla&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_PENDIENTEREC.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra por pantalla los albaranes de compra pendientes de servir que incluyen el artículo&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_MARGENTARIFA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra una ventana la cual nos permite mediante la introducción del % que deseemos modificar rápidamente las tarifas&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_CUBO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta a un programa de minería de datos las diferentes estadísticas donde aparezca el artículo que estamos visualizando&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_IMAGENES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite la visualización por pantalla de la imagen del producto&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_CARRITO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite ir añadiendo al carrito de compra las unidades del artículo que deseemos&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Funciones Artículos</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/funciones-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/funciones-articulos/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Funciones de la pantalla Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;funciones-de-la-pantalla-artículos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#funciones-de-la-pantalla-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado profundizaremos acerca de las diversas opciones y funcionalidades que el sistema permite realizar referente a nuestros artículos.&lt;/p&gt;
+&lt;h3&gt;Extracto de entradas y salidas de almacen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;extracto-de-entradas-y-salidas-de-almacen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#extracto-de-entradas-y-salidas-de-almacen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de extractos de almacen &lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Btnextracto&#34; loading=&#34;lazy&#34; /&gt; nos mostrará por pantalla un filtro donde podremos especificar el rango de fechas que deseamos consultar, al igual que el tipo de movimiento y los almacenes de origen y destino.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/ES_ALMA.png&#34; alt=&#34;Extracto&#34; loading=&#34;lazy&#34; /&gt;
+Permite a su vez realizar un filtro más exhaustivo mediante el contenido de lote o especificando un cliente.&lt;/p&gt;
+&lt;p&gt;Marcando la opción &amp;ldquo;Rentabilidad&amp;rdquo; el programa realizará un cálculo de la rentabilidad del artículo sobre las fechas indicadas y nos mostrará un informe por pantalla con los resultados.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/ES_ALMA_LIS.png&#34; alt=&#34;Extracto-Rentabilidad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la siguiente pantalla se muestra el extracto de movimientos de almacén sobre un artículo.
+En la parte inferior izquierda se nos mostrará de forma rápida el total de unidades de entrada y salida correspondientes a la fecha marcada, al igual que el importe total de compra y venta.
+También se muestra el precio medio de compra y venta.&lt;/p&gt;
+&lt;h3&gt;Envases&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;envases&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#envases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Podremos asignar mediante el botón de envases &lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Botonera/BTN_ENVASE.png&#34; alt=&#34;Btn_Envase&#34; loading=&#34;lazy&#34; /&gt; los envases asociados al artículo.&lt;/p&gt;
+&lt;p&gt;Se nos mostrará por pantalla una sección en la cual podremos realizar las distintas operaciones.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/ENVASE_PANTA.png&#34; alt=&#34;Pantalla-Envase&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Podremos añadir o eliminar registros mediante los botones de Alta (&lt;strong&gt;Ctrl+A&lt;/strong&gt;) o Baja (&lt;strong&gt;Ctrl+B&lt;/strong&gt;).&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Deberemos tener previamente el artículo envase correspondiente creado
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código Artículo&lt;/strong&gt;: Campo automático.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Artículo Envase (Cod.Artiuculo)&lt;/strong&gt;: Código de artículo correspondiente al envase a asociar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidad&lt;/strong&gt;: Unidades a asociar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;%Descuento&lt;/strong&gt;: Tanto por ciento de descuento que se aplica al envase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descuento en euros por unidad&lt;/strong&gt;: Descuento en euros por unidad de envase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Precio&lt;/strong&gt;: Precio de venta del envase. &lt;em&gt;Siempre sin IVA&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Precio Coste&lt;/strong&gt;: Precio de compra del envase. &lt;em&gt;Siempre sin IVA&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Promoción&lt;/strong&gt;: Código de promoción a aplicar si procede.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observación&lt;/strong&gt;: Campo libre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Una vez rellenados los campos, cada vez que cerremos un pedido/albarán de venta o compra, el sistema nos pedirá si deseamos generar los envases.
+Si tenemos correctamente rellenados los campos se generarán de forma automática los envases.&lt;/p&gt;
+&lt;h3&gt;Lotes o artículos tipo Cesta&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;lotes-o-artículos-tipo-cesta&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#lotes-o-art%c3%adculos-tipo-cesta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El programa nos permite crear artículos tipo lote o cesta, para ello primeramente el artículo ha de ser tipo Lote (L) y mediante el botón de lotes &lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;lotes&#34; loading=&#34;lazy&#34; /&gt; se nos mostrará una pantalla parecia a la del punto anterior en la cual podremos asignar los artículos que incluye la cesta.&lt;/p&gt;
+&lt;p&gt;Estos artículos irán desgolsados linea por linea en el albaran/factura.&lt;/p&gt;
+&lt;h3&gt;Datos Acumulados por Mes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-acumulados-por-mes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datos-acumulados-por-mes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tenemos la posibilidad de obtener un gráfico de consumo por meses y año del artículo mostrado en pantalla.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/VentasComprasMeses.png&#34; alt=&#34;PantallaGrafico&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Campo MEMO&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;campo-memo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#campo-memo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opción se nos mostrará una pantalla donde podremos redactar toda la información relacionada a nuestro artículo de carácter interno.&lt;/p&gt;
+&lt;h3&gt;Códigos de barra Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;códigos-de-barra-adicionales&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c%c3%b3digos-de-barra-adicionales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opcíon se nos mostrará una pantalla donde podremos introducir aquellos códigos adicionales de barras que nos suministra el proveedor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

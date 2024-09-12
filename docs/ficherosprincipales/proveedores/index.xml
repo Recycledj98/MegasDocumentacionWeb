@@ -1,0 +1,251 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Pantalla Proveedores</title>
+      <link>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/proveedores/proveedores/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;proveedores&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado encontraremos todo lo relacionado a nuestros proveedores.
+Una vez ingresemos al apartado de proveedores nos encontraremos la siguiente pantalla&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/PantallaProveedor.png&#34; alt=&#34;PantallaProveedores&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Botonera Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;botonera-proveedores&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#botonera-proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Salir&lt;/strong&gt;: Sale de la pantalla actual (Esc).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primero&lt;/strong&gt;: Nos lleva al primer registro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;último&lt;/strong&gt;: Nos lleva al último registro creado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anterior&lt;/strong&gt;: Nos desplaza al registro anterior. &lt;em&gt;&lt;strong&gt;(Ctrl + izq)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Siguiente&lt;/strong&gt;: Nos desplaza al siguiente registro. &lt;em&gt;&lt;strong&gt;(Ctrl + drch)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alta&lt;/strong&gt;:  Da de alta un nuevo registro. &lt;em&gt;&lt;strong&gt;(Ctrl + A)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Baja&lt;/strong&gt;: Da de baja el registro actual. &lt;em&gt;&lt;strong&gt;(Ctrl + B)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modificar&lt;/strong&gt;: Modifica el registro actual. &lt;em&gt;&lt;strong&gt;(Ctrl + M)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impresión&lt;/strong&gt;: Nos permite imprimir dos listados referentes al proveedor seleccionado. Ficha del proveedor o estado de cuenta. &lt;em&gt;&lt;strong&gt;(Ctrl + I)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exportar a excel&lt;/strong&gt;: Exporta la ficha del proveedor a Microsoft Excel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculadora&lt;/strong&gt;: Abre la calculadora del sistema.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Búsqueda&lt;/strong&gt;: Realiza una búsqueda de registro introducciendo el código de proveedor o introduciendo bien parte de su descripción o mediante &lt;strong&gt;&amp;quot;*&amp;quot;&lt;/strong&gt; y parte del registro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Precios Especiales&lt;/strong&gt;: Nos permite visualizar los precios especiales que nos aplica el proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pedidos/Albaranes&lt;/strong&gt;: Permite visualizar los pedidos/albaranes de compra realizados a este proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Facturas&lt;/strong&gt;: Permite visualizar las facturas realizadas a este proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vencimientos&lt;/strong&gt;: Muestra una selección de vencimientos que permite filtrar por vencimientos pagados, no pagados o todos. Al hacer clic sobre el vencimiento en cuestión nos llevará a el. Pulsando escape (ESC) nos devuelve a la pantalla de proveedores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memo&lt;/strong&gt;: Información en texto libre para el proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gráfica&lt;/strong&gt;: Muestra un gráfico con el consumo comparativo de los años anteriores. &lt;em&gt;&lt;strong&gt;siempre y cuando existan datos&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artículos pendientes de suministro&lt;/strong&gt;: Muestra los artículos del proveedor que están pendientes de servir.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Otras direcciones&lt;/strong&gt;: Permite registrar otras direcciones, personas de contacto y telefonos del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cheques/Pagares&lt;/strong&gt;: Permite imprimir un cheque o pagaré al proveedor seleccionado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cubo de decisión&lt;/strong&gt;: Exporta a un programa de minería de datos las diferentes estadísticas del proveedor seleccionado. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Maps&lt;/strong&gt;: Permite visualizar la ubicación del proveedor en Google Maps siempre y cuando la dirección esté introduccida correctamente. &lt;em&gt;&lt;strong&gt;En desuso&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentos asociados&lt;/strong&gt;: Nos muestra una pantalla donde podemos registrar los documentos asociados al proveedor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Alta de un Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alta-de-un-proveedor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#alta-de-un-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante la combinación &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt; se nos mostrará una pantalla donde podremos rellenar los datos de un nuevo proveedor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/proveedores/PantallaProveedorAlta.png&#34; alt=&#34;Alta Proveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Como hemos visto en otros apartados de la aplicación, nos irá pidiendo unos datos de carácter obligatorio que nos mostrará un mensaje de error ante la ausencia o erronea introducción.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código proveedor&lt;/strong&gt;: Código numerico para identificar a proveedor. Al igual que en los clientes es recomendable usar una codificación de cinco dígitos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proveedor&lt;/strong&gt;: Nombre del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nombre-1&lt;/strong&gt;: Nombre resumen del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dirección&lt;/strong&gt;: Dirección fiscal del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Población&lt;/strong&gt;: Población y código postal del proveedor. Sigue la codifiación de Código Postal - Ciudad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provincia&lt;/strong&gt;: Provincia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telefono 1-2&lt;/strong&gt;: Teléfono principal del proveedor y un teléfono secundario.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CIF/DNI&lt;/strong&gt;: CIF del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observación&lt;/strong&gt;: Observación importante libre del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código pago C&lt;/strong&gt;: Código de pago para serie C.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código pago F&lt;/strong&gt;: Código de pago para serie F.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descuento Linea C&lt;/strong&gt;: Descuento en tanto por ciento % que se aplicará a &lt;strong&gt;cada linea de pedido o albarán de compra&lt;/strong&gt; del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descuento Linea F&lt;/strong&gt;: Descuento en tanto por ciento % que se aplicará a &lt;strong&gt;cada linea de pedido o albarán de compra en F&lt;/strong&gt; del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Bancaria/IBAN&lt;/strong&gt;: Campo reservado para la cuenta bancaria del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IVA C/F&lt;/strong&gt;: Campos con dos posibles valores, S(Sí)/N(No). Determina si se aplicará IVA a los documentos del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rec. Equiv C/F&lt;/strong&gt;: Campos con dos posibles valores, S(Sí)/N(No). Determina si se aplicará recargo de equivalencia a los documentos del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observación 1/2&lt;/strong&gt;: Campos de texto libre reservados para observaciones.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa&lt;/strong&gt;: Tarifa de compra que se aplicará automaticamente a los articulos que compremos del proveedor. Por defecto 0 - Coste.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: Campo reservado para introduccir el email o emails del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activo&lt;/strong&gt;: Campo con dos posibles valores, S(Sí)/N(No), indica el estado del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regalo a cargo del proveedor&lt;/strong&gt;: &lt;em&gt;&lt;strong&gt;POR RELLENAR&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dto a cargo del proveedor&lt;/strong&gt;: &lt;em&gt;&lt;strong&gt;Por rellenar&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia de Pago 1&lt;/strong&gt;: Primer día en el cua se girará la factura de compra.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia de Pago 2&lt;/strong&gt;: Segundo día en el cual se volverá a girar la factura en caso de impago en el dia 1.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pais&lt;/strong&gt;: País del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fax&lt;/strong&gt;: Fax del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta contable&lt;/strong&gt;: Cuenta contable asociada al proveedor. Se rellena automáticamente siempre y cuando se use una &lt;strong&gt;codificación de cinco dígitos&lt;/strong&gt; en el &lt;strong&gt;código de proveedor&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Contrapartida&lt;/strong&gt;: Cuenta destinada a la contrapartida del proveedor en caso de que también sea acreedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Pago&lt;/strong&gt;: Cuenta destinada al pago del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Manipulación&lt;/strong&gt;: Cuenta destinaada a la manipulación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formato C/F&lt;/strong&gt;: Campo destinado a la introducción de un formato especifico. Si se rellena este campo se usará el informe especificado en vez de el informe por defecto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Albaranes Pendientes&lt;/strong&gt;: Campo automático que muestra el saldo de albaranes pendientes de pago.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Saldo&lt;/strong&gt;: Campo automático que muestra el saldo total del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PVP Albarán nacional&lt;/strong&gt;: Permite seleccionar el precio de venta final para los albaranes a terceros.
+Por defecto se coge el PVP-1 de la ficha del cliente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Pago rápido de facturas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pago-rápido-de-facturas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pago-r%c3%a1pido-de-facturas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de facturas podremos filtar por las facturas pagadas, no pagadas o ambas, lo cual mostrará por pantalla un listado de las facturas del proveedor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/PantallaProveedorFacturas.png&#34; alt=&#34;PantallaProveedorFacturas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Podemos ir seleccionando las facturas que deseemos o usar los botones de &lt;em&gt;&lt;strong&gt;Marcar todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Botonera/BotonMarcarTodos.png&#34; alt=&#34;Marcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos seleccionará todas las facturas o &lt;em&gt;&lt;strong&gt;Desmarcar Todos&lt;/strong&gt;&lt;/em&gt; &lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Botonera/BotonDesmarcarTodos.png&#34; alt=&#34;Desmarcar&#34; loading=&#34;lazy&#34; /&gt; lo que nos desmarcará las facturas selecionadas.&lt;/p&gt;
+&lt;p&gt;Las facturas seleccionadas se mostrarán en color rojo en la pantalla mostrada.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/proveedores/PantallaProveedorFacturasSeleccionadas.png&#34; alt=&#34;PantallaProveedor&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Con la tecla escape (ESC) nos devolverá a la pantalla prinicipal de proveedores con una ventana emergente, la cual nos pedirá el concepto de pago, la fecha de vencimiento y la cuenta contable destino.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      &lt;strong&gt;Este proceso da por pagadas las facturas y sus correspondientes vencimientos de forma automática&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Estadísticas de compra Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estadísticas-de-compra-proveedor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estad%c3%adsticas-de-compra-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante la funcionalidad de imprimir (&lt;em&gt;&lt;strong&gt;Ctrl + I&lt;/strong&gt;&lt;/em&gt;) podremos sacar varios listados respecto al proveedor seleccionado.&lt;/p&gt;
+&lt;p&gt;Una vez entremos en &lt;em&gt;&lt;strong&gt;Estadísitcas de Compras&lt;/strong&gt;&lt;/em&gt; se nos mostrará una ventana emergente donde tendremos que rellenar varios datos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Proveedores/VentanaParametrosEstadisticasCompra.png&#34; alt=&#34;Estadísticas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fecha Inicial/Final&lt;/strong&gt;: Rango de fechas que deseamos filtar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo C/F&lt;/strong&gt;: Filtro de albaranes en serie C, F o ambos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase 1-3&lt;/strong&gt;: Permite fitrar por 3 clases de artículo.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-red-200 hx-bg-red-100 hx-text-red-900 dark:hx-border-red-200/30 dark:hx-bg-red-900/30 dark:hx-text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Para poder usar esta funcionalidad deberemos tener bien definidas las clases de nuestros artículos
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Familia&lt;/strong&gt;: Permite filtrar por familia de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proveedor&lt;/strong&gt;: En el caso de que no seleccionemos previamente un proveedor antes de usar el listado deberemos introducir manualmente el código de proveedor.
+&lt;strong&gt;Si hemos seleccionado el proveedor antes de usar el listado, deberemos dejar el campo en blanco.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Campo con dos posibles valores:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pantalla&lt;/strong&gt;:  Mostrará el consumo mediante una nueva pantalla.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imprimir&lt;/strong&gt;: Monstrará el consumo mediante un listado que podremos imprimir.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Estadísticas de compra - Pantalla&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estadísticas-de-compra---pantalla&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estad%c3%adsticas-de-compra---pantalla&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante esta opción s enos mostrará una pantalla con la información en formato gráfico.&lt;/p&gt;
+&lt;p&gt;Los campos a recalcar son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código del artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artículo&lt;/strong&gt;: Nombre del artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidades&lt;/strong&gt;: Unidades compradas en el &lt;strong&gt;año en curso&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidades Anteriores&lt;/strong&gt;: Unidades compradas en el &lt;strong&gt;año anterior&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regalo&lt;/strong&gt;: Unidades regaladas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Litros&lt;/strong&gt;: Total de litros consumidos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Importe&lt;/strong&gt;: Importe &lt;strong&gt;bruto&lt;/strong&gt; total por artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Último PVP&lt;/strong&gt;: Último precio de compra registrado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Último %&lt;/strong&gt;: por rellenar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa 1&lt;/strong&gt;: Por rellenar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ficha del Proveedor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ficha-del-proveedor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ficha-del-proveedor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Si seleccionamos esta opción nos sacará por pantalla un informe con todos los datos del proveedor.&lt;/p&gt;
+&lt;h3&gt;Estado de Cuenta&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;estado-de-cuenta&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estado-de-cuenta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante esta opción podremos sacar un informe contable el cual contiene el estado de las distintas cuentas del proveedor.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
