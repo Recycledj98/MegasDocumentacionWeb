@@ -4,7 +4,7 @@ description: "Bienvenido a la documentación de Megas Quality Services"
 ---
 
 
-[Ir al Manual](/Docs)
+[Ir al Manual](/docs)
 
 ---
 

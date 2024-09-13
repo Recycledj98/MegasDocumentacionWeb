@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/</link>
+    <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Pantalla Clientes</title>
-      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallaclientes/</link>
+      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallaclientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
+      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
       <description>
         
         
@@ -29,7 +29,7 @@
 &lt;p&gt;Esta obligatoriedad se pondrá de manifiesto en diferentes mensajes de error bien al dejar un &lt;strong&gt;campo obligatorio en blanco o al terminar de recorrer todos los campos de la ficha&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;Barra Navegación Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;barra-navegación-cliente&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#barra-navegaci%c3%b3n-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Antes de avanzar con la pantalla principal, mostraremos la barra principal de navegación de la pantalla clientes, que dependiendo en que apartado del programa nos encotremos tendra un aspecto diferente.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
 Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada botón.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
 
@@ -67,7 +67,7 @@ Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada bot
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Orden&lt;/strong&gt;: Permite cambiar el orden de búsqueda de registro. Las opciones disponibles son por código de cliente, dirección comercial y nombre comercial.
-&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Precios especiales&lt;/strong&gt;: Permite acceder a la pantalla de precios especiales asociados al cliente en pantalla. También permite saltar a la pantalla de promociones, bonificaciones y Rappels.&lt;/p&gt;
@@ -107,7 +107,7 @@ Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada bot
     &lt;a href=&#34;#ficha-de-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Procederemos a detallar cada aspecto de la &lt;strong&gt;ficha de clientes&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
  &lt;em&gt;Todos los campos se recorren de izquierda a derecha&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Código cliente&lt;/strong&gt;: Es un código &lt;strong&gt;alfanumerico&lt;/strong&gt; por el cual el usuario del programa identifica a cada uno de sus clientes.&lt;/p&gt;
@@ -351,10 +351,10 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
     
     <item>
       <title></title>
-      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
+      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</guid>
+      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</guid>
       <description>
         
         
@@ -364,10 +364,10 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
     
     <item>
       <title>Bonificaciones Cliente</title>
-      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallabonificaciones/</link>
+      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallabonificaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallabonificaciones/</guid>
+      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallabonificaciones/</guid>
       <description>
         
         
@@ -381,7 +381,7 @@ Estas bonificaciones no tienen por qué existir, a no ser que el concesionario l
     &lt;a href=&#34;#paso-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Crear las bonificaciones.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;strong&gt;En la siguiente imagen se muestra la pantalla de comisiones y bonificaciones de la ficha de un cliente.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteBonificaComision.png&#34; alt=&#34;PantallaBonificaciones&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteBonificaComision.png&#34; alt=&#34;PantallaBonificaciones&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen apreciamos los siguientes campos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -404,15 +404,15 @@ Se aplicarán los códigos de columna de la &lt;em&gt;&lt;strong&gt;Tabla de Com
     
     <item>
       <title>Rutas de Clientes</title>
-      <link>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallarutas/</link>
+      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallarutas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Recycledj98.github.io/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallarutas/</guid>
+      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/pantallarutas/</guid>
       <description>
         
         
         &lt;p&gt;En esta pantalla podremos asignar las distintas rutas a los clientes. Para ello primeramente deberemos de haber dado de altas las rutas en &lt;strong&gt;20 - Rutas&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Recycledj98.github.io/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteRutas.png&#34; alt=&#34;PantallaRutas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FichaClienteRutas.png&#34; alt=&#34;PantallaRutas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A continuación se detallan los campos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
