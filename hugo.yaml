@@ -57,7 +57,7 @@ search:
 
   flexsearch:
     # indexar página por: content | summary | heading | title
-    index: content
+    index: title
     # full | forward | reverse | strict
     tokenize: strict
 
@@ -71,3 +71,9 @@ menu:
     - name: 📬 Reportar Error
       weight: 4
       url: "/reportar-error/"
+    - name: 📖 Documentación
+      weight: 3
+      url: "/docs/"
+    - name: 🕝 Versiones 
+      weight: 2
+      url: "/Versiones/"
