@@ -1,33 +1,35 @@
-baseURL: "https://Recycledj98.github.io/MegasDocumentacionWeb/"
+
+# URL base del sitio. Cambiar a la URL final al desplegar.
+baseURL: "https://example.org/"
+
+# Configuración de idioma
 languageCode: es-ES
 title: Megas Documentación Web
 defaultContentLanguage: es
 
-# Importación de modulos
-
+# Importación de módulos
 module:
   imports:
     - path: github.com/imfing/hextra
-    # Importación de modulo de imagenes
+    # Importación de módulo de imágenes
     - path: github.com/hugomods/images
 
-    # Importación de modulo de videos
-    # Por incoporar
-    # Importación de modulo de iconos bootstrap
+    # Importación de módulo de videos
+    # Por incorporar
+    # Importación de módulo de iconos bootstrap
     - path: github.com/hugomods/icons/vendors/bootstrap
     - path: github.com/hugomods/icons/vendors/font-awesome
     - path: github.com/hugomods/icons/vendors/simple-icons
-  # Procesamiento de imagenes
 
-# Parametros como la tipografia
+# Parámetros como la tipografía
 params:
   # Tipografía
   custom_css:
     - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
 
   theme:
-    default: system #Coge el tema que tenga el usuario por defecto
-    displayToggle: true #Muestra el botón de cambio de tema
+    default: system # Usa el tema que tenga el usuario por defecto
+    displayToggle: true # Muestra el botón de cambio de tema
   navbar:
     displayTitle: false
     displayLogo: true
@@ -37,7 +39,7 @@ params:
       dark: images/blanco.png
       width: 90
       #height: 40
-      link: /index_md
+      link: /
     width: wide
   footer:
     enable: true
@@ -48,15 +50,13 @@ params:
 displayUpdatedDate: true
 dateFormat: "2 January, 2006"
 
-
-
 # Habilitar búsqueda y elegir el modo
 search:
   enable: true
   type: flexsearch
 
   flexsearch:
-    # index page by: content | summary | heading | title
+    # indexar página por: content | summary | heading | title
     index: content
     # full | forward | reverse | strict
     tokenize: strict
@@ -64,10 +64,10 @@ search:
 # Menú
 menu:
   main:
-    - name: Search
+    - name: Buscar
       weight: 5
       params:
         type: search
-    - name:  🪧 Reportar Error
+    - name: 📬 Reportar Error
       weight: 4
       url: "/reportar-error/"

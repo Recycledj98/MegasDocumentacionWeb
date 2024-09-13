@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
+    <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,18 +16,18 @@
     
     <item>
       <title>Formas de Pago</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
       <description>
         
         
         &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
 &lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/p&gt;
@@ -135,17 +135,17 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Tipos de Cliente</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Grupos de cliente</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
       <description>
         
         
@@ -172,10 +172,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Zonas de cliente</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
       <description>
         
         
@@ -186,15 +186,15 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Asignación de Zonas y/o Clases a Series de Facturación</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
       <description>
         
         
         &lt;p&gt;Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Los campos a cumplimentar son:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Codigo Zona&lt;/strong&gt;: Código de zona.&lt;/li&gt;
@@ -238,10 +238,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Tipo de Alta/Baja</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
       <description>
         
         
@@ -252,17 +252,17 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Clientes Nacionales</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
       <description>
         
         
         &lt;h2&gt;Clientes - Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes---proveedores&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#clientes---proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p&gt;
 &lt;p&gt;Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong&gt;nacionales&lt;/strong&gt;. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/MegasDocumentacionWeb/MegasDocumentacionWeb/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Código Cliente&lt;/strong&gt;: Código del cliente.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Código Porveedor&lt;/strong&gt;: Código del proveedor.&lt;/li&gt;
@@ -306,10 +306,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Tipos de información</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
       <description>
         
         
@@ -320,10 +320,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>Características de Cliente</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
       <description>
         
         
@@ -333,10 +333,10 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
     
     <item>
       <title>SEPA - Códigos SWIFT de Bancos</title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
       <description>
         
         
@@ -347,11 +347,11 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
+      <title>Condiciones de bloqueo de artículos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
       <description>
         
         
@@ -361,10 +361,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid>
       <description>
         
         
@@ -374,10 +374,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
       <description>
         
         
@@ -387,10 +387,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
       <description>
         
         
@@ -400,10 +400,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
       <description>
         
         
@@ -413,10 +413,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/MegasDocumentacionWeb/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
       <description>
         
         

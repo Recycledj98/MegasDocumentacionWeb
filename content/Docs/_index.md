@@ -2,7 +2,26 @@
 title: "Manual Gestión Comercial"
 ---
 
-## Bienvenido al Manual de usuario
-Esta sección contiene toda la información que necesitas para utilizar la aplicación de forma efectiva. A continuación, encontrarás diferentes capítulos que te guiarán paso a paso.
 
-    
+### Introducción
+
+En este manual, aprenderás a gestionar todas las operaciones comerciales de manera eficiente. Desde la configuración inicial hasta la generación de informes avanzados, cada sección está diseñada para ayudarte a maximizar el uso de la aplicación.
+
+### Contenido del Manual
+
+- **Configuración Inicial**: Aprende a configurar la aplicación según tus necesidades.
+  - **Gestión de Clientes**: Descubre cómo añadir, editar y gestionar tus clientes.
+  - **Gestión de Productos**: Información sobre cómo manejar tu inventario de productos.
+  - **Procesamiento de Pedidos**: Guía paso a paso para procesar pedidos de manera eficiente.
+  - **Facturación y Pagos**: Todo lo que necesitas saber sobre la facturación y la gestión de pagos.
+  - **Informes y Análisis**: Aprende a generar informes detallados para analizar el rendimiento de tu negocio.
+
+### Recursos Adicionales
+
+- **Preguntas Frecuentes**: Respuestas a las preguntas más comunes.
+- **Soporte Técnico**: Contacta con nuestro equipo de soporte para obtener ayuda adicional.
+- **Actualizaciones**: Mantente al día con las últimas actualizaciones y mejoras de la aplicación.
+
+### Comienza Ahora
+
+    ¡Explora los capítulos y comienza a optimizar tu gestión comercial hoy mismo!
