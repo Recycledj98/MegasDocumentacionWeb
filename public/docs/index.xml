@@ -1593,7 +1593,7 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Condiciones de bloqueo de artículos</title>
+      <title>Condiciones de Bloqueo de Artículos</title>
       <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1601,29 +1601,35 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;Mediante esta opción se nos permite imponer una serie de condiciones de bloqueo especificas a un grupo de clientes o zonas.&lt;/p&gt;
-&lt;p&gt;Se nos permiten tres tipos diferentes de bloqueo:&lt;/p&gt;
+        &lt;p&gt;Esta sección permite establecer condiciones específicas de bloqueo para un grupo de clientes o zonas.&lt;/p&gt;
+&lt;p&gt;Existen tres tipos de bloqueo disponibles:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Bloqueo por zona.&lt;/li&gt;
-&lt;li&gt;Bloqueo por codigo postal.&lt;/li&gt;
-&lt;li&gt;Bloqueo por Cliente.&lt;/li&gt;
+&lt;li&gt;Bloqueo por zona&lt;/li&gt;
+&lt;li&gt;Bloqueo por código postal&lt;/li&gt;
+&lt;li&gt;Bloqueo por cliente&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Bloqueo por zona&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-zona&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#bloqueo-por-zona&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el bloqueo por zona podremos evitar vender los artículos que&lt;/p&gt;
+&lt;h3&gt;Bloqueo por Zona&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-zona&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-zona&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El bloqueo por zona permite restringir la venta de ciertos artículos en áreas específicas. Para utilizar esta opción, es necesario tener previamente definidas las zonas de venta.&lt;/p&gt;
+&lt;h3&gt;Bloqueo por Código Postal&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-código-postal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-c%c3%b3digo-postal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Esta opción permite bloquear ventas basadas en códigos postales. Es crucial tener correctamente configurado el código postal en la ficha del cliente mediante CP-Población.&lt;/p&gt;
+&lt;h3&gt;Bloqueo por Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-cliente&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Similar a las opciones anteriores, esta funcionalidad permite bloquear la venta de determinados artículos a clientes específicos.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <title>Reordenar Rutas de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
       <description>
         
         
-        
+        &lt;p&gt;Nos permite reordenar nuestro rutero introduciendo un intervalo de separación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ReordenarRutas.png&#34; alt=&#34;ReordenarRutero&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
@@ -1633,32 +1639,6 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
       <description>
         
         
@@ -1845,6 +1825,21 @@ Estas bonificaciones no tienen por qué existir, a no ser que el concesionario l
 &lt;p&gt;En esta pantalla, además, se reflejan las comisiones que perciben nuestros empleados o autónomos por realizar su función a este cliente en cuestión.
 Las &lt;em&gt;&lt;strong&gt;comisiones simples&lt;/strong&gt;&lt;/em&gt; se crean en una tabla dispuesta para ello en la opción &lt;em&gt;&lt;strong&gt;2.8.1-Comisiones Simples- Mantenimiento&lt;/strong&gt;&lt;/em&gt; &lt;!-- raw HTML omitted --&gt;![Comisiones Simples]
 Se aplicarán los códigos de columna de la &lt;em&gt;&lt;strong&gt;Tabla de Comisiones&lt;/strong&gt;&lt;/em&gt; por cada una de las funciones que consideremos y diferenciando si nuestro personal es empleado o autónomo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cambio de Código de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite hacer un cambio completo de código de cliente. Nos exporta todos los datos relacionados con el cliente (Albaranes, promociones, pedidos, etc&amp;hellip;) de un código a otro.&lt;/p&gt;
+&lt;p&gt;El código nuevo deberá estar libre.&lt;/p&gt;
 
       </description>
     </item>
@@ -2161,6 +2156,22 @@ Hay dos formas de introducir este código.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comisión Compleja&lt;/strong&gt;: Código de comisión compleja asignado.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reclasificación de Clientes</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta opción nos permite realizar un proceso automático de reclasificación, asignando el estado de cliente en Inactivo y Potencial en función de los días continuos de consumo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Inactivos&lt;/strong&gt;: Días totales SIN CONSUMO para clasificar al cliente como INACTIVO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Potenciales&lt;/strong&gt;: Días totales &lt;strong&gt;CON CONSUMO CONTINUADO&lt;/strong&gt; para clasficar al cliente como POTENCIAL.&lt;/p&gt;
 
       </description>
     </item>

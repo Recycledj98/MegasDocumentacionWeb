@@ -3,13 +3,15 @@
   .report-error-form {
     max-width: 600px;
     margin: 20px auto;
-    margin-top: 50px auto;
+    margin-top: 10rem auto;
     background-color: var(--primary-hue);
     padding: 20px;
     border-radius: 10px;
     border: 1px solid #ccc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
+
+  
 
   .report-error-form label {
     font-weight: bold;
@@ -82,38 +84,14 @@
     if (el) {
       el.setAttribute("required", "required");
     }
-    var name = document.getElementById("name");
-    var email = document.getElementById("email");
-    var message = document.getElementById("message");
-    var button = document.querySelector("button[type='submit']");
-    var errorMessage = document.getElementById("error-message");
+  }/* Captcha */
+  document.getElementById('submit')
+  if(name === "" || email === ""){
+    document.getElementById('error-message').style.display = 'block';
+    document.getElementById('error-message').classList.add('shake');
+</script>
 
-    function validarCampos() {
-      if (name.value === "" || email.value === "" || message.value === "") {
-        button.disabled = true;
-      } else {
-        button.disabled = false;
-      }
-    }
 
-    name.oninput = validarCampos;
-    email.oninput = validarCampos;
-    message.oninput = validarCampos;
-
-    button.onclick = function (event) {
-      if (name.value === "" || email.value === "" || message.value === "") {
-        event.preventDefault();
-        errorMessage.style.display = "inline";
-        errorMessage.classList.add("shake");
-        setTimeout(function () {
-          errorMessage.classList.remove("shake");
-        }, 500);
-        return false;
-      }
-    };
-
-    validarCampos();
-  };
 </script>
 
 <form
@@ -142,7 +120,7 @@
 
   <div style="display: flex; align-items: center;">
     <button type="submit">Enviar reporte</button>
-    <span id="error-message" style="display: none; margin-left: 10px; color: red;">Rellena los campos obligatorios</span>
+    <span id="error-message" style="display: none; margin-left: 10px; color: rgb(236, 76, 76);"> Por favor, rellena los campos obligatorios.</span>
   </div>
   <div class="pie">
     <h3>Protección de datos</h3>

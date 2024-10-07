@@ -373,7 +373,22 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
+      <title>Reordenar Rutas de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nos permite reordenar nuestro rutero introduciendo un intervalo de separación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ReordenarRutas.png&#34; alt=&#34;ReordenarRutero&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bonificaciones de Cliente</title>
       <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -381,7 +396,29 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <description>
         
         
-        
+        &lt;p&gt;En esta pantalla se hace referencia a las bonificaciones destinadas a incentivar el
+consumo de este cliente. Este tipo de bonificaciones supone una cantidad en euros
+que el concesionario le da al cliente en función al consumo que realice este en un
+periodo de tiempo estipulado.
+Estas bonificaciones no tienen por qué existir, a no ser que el concesionario las haya pactado con anterioridad con el cliente.&lt;/p&gt;
+&lt;h2&gt;Rangos de bonificaciones&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rangos-de-bonificaciones&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rangos-de-bonificaciones&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Para trabajar con las bonificaciones primeramente hemos de crear los &lt;strong&gt;rangos de bonificacion&lt;/strong&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Bonifica/RangoBonificaciones.png&#34; alt=&#34;Rango de Bonificacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En esta pantalla se nos iran mostrando las diferentes tablas que almacenan los rangos de bonificacion de los distintos tipos de artículos. Se nos permite hasta 10 rangos distintos donde podremos estipular hasta cuantas unindades aplica cada uno de ellos.&lt;/p&gt;
+&lt;h2&gt;Tabla de bonificaciones&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tabla-de-bonificaciones&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tabla-de-bonificaciones&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Una vez estipulados los rangos de bonificación podremos crear bonificaciones para nuestros clientes. La pantalla de la tabla de bonificaciones tiene el siguiente aspecto:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Bonifica/TablaBonificaciones.png&#34; alt=&#34;Tabla de Bonificicacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Nos permite de un vistazo rápido y mediante previo filtro de estado visualizar las bonificaciones activas que tenemos dadas de alta.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;COD-BONIF&lt;/strong&gt;: Código de bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TIPO&lt;/strong&gt;: Tipo de artículo al cual aplica la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARTICULO&lt;/strong&gt;: Artículo al que aplica la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DESCRIPCIÓN&lt;/strong&gt;: Descripción de la bonificación, si de deja en blanco, se rellena automáticamente en base al tipo de bonificación y tipo de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PE&lt;/strong&gt;: Periodicidad de la bonificación, puede ser A(Anual), S(Semestral) o T(Trimestral).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt;: Anticipo de la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PRECIO&lt;/strong&gt;: Precio de la bonificación.&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
@@ -399,32 +436,6 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Cambio de Código de cliente</title>
       <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -433,9 +444,24 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <description>
         
         
-        &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        &lt;p&gt;Permite hacer un cambio completo de código de cliente. Nos exporta todos los datos relacionados con el cliente (Albaranes, promociones, pedidos, etc&amp;hellip;) de un código a otro.&lt;/p&gt;
+&lt;p&gt;El código nuevo deberá estar libre.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reclasificación de Clientes</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta opción nos permite realizar un proceso automático de reclasificación, asignando el estado de cliente en Inactivo y Potencial en función de los días continuos de consumo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Inactivos&lt;/strong&gt;: Días totales SIN CONSUMO para clasificar al cliente como INACTIVO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Potenciales&lt;/strong&gt;: Días totales &lt;strong&gt;CON CONSUMO CONTINUADO&lt;/strong&gt; para clasficar al cliente como POTENCIAL.&lt;/p&gt;
 
       </description>
     </item>

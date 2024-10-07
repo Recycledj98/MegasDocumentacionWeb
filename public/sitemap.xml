@@ -69,8 +69,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</loc>
@@ -108,6 +106,8 @@
     <loc>http://localhost:1313/docs/ventas/recibos/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallabonificaciones/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
