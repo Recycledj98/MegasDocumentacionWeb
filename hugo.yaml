@@ -57,9 +57,9 @@ search:
 
   flexsearch:
     # indexar página por: content | summary | heading | title
-    index: title
+    index: summary
     # full | forward | reverse | strict
-    tokenize: strict
+    tokenize: forward
 
 # Menú
 menu:

@@ -50,6 +50,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -67,13 +71,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/</loc>
   </url><url>
@@ -116,6 +114,8 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/proveedores/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/representantes/pantallarepresentantes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</loc>
   </url><url>
     <loc>http://localhost:1313/recursos/</loc>
   </url><url>
