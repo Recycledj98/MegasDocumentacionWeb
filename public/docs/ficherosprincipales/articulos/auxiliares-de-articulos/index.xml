@@ -187,7 +187,11 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
       <description>
         
         
-        
+        &lt;h2&gt;Impuesto Especial del Alcohol&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impuesto-especial-del-alcohol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#impuesto-especial-del-alcohol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado se definen los impuestos especiales asociados a la fabricación de alcohol.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen podemos apreciar tres campos numericos correspondientes al valor añadido.&lt;/p&gt;
+
       </description>
     </item>
     
@@ -200,7 +204,16 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
       <description>
         
         
-        
+        &lt;p&gt;Esta fucionalidad permite realizar una copia de tarifas de manera automática aplicando previamente una serie de filtros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tarifa Origen / Destino: Menú desplegable que permite seleccionar la &lt;strong&gt;tarifa origen&lt;/strong&gt; que se desea copiar y la &lt;strong&gt;tarifa destino&lt;/strong&gt; donde se aplicará la copia.&lt;/li&gt;
+&lt;li&gt;Clase 1-5: Filtro que permite seleccionar exclusivamente aquellos artículos que pertenecen a la clase especificada.&lt;/li&gt;
+&lt;li&gt;Código Familia: Filtro que permite seleccionar solo aquellos artículos que pertenecen a la familia estipulada.&lt;/li&gt;
+&lt;li&gt;Código Proveedor: Filtro que permite seleccionar los artículos en función de su código de proveedor.&lt;/li&gt;
+&lt;li&gt;Artículo Inicial y final: Filtro de artículos inicial y final, en caso de querer actualizar soólo un rango.&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
@@ -213,7 +226,41 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
       <description>
         
         
-        
+        &lt;p&gt;Esta pantalla nos permite realizar modificaciones generales sobre nuestras tarifas de venta por medio de la entrada de una serie de filtros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;% de Variación: Define el porcentaje de variación sobre la tarifa. En función del valor introducido, el programa calculará la nueva tarifa aplicando este margen de variación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eur. Lineal: Realiza una modificación similar al % de Variación, pero aplicando el ajuste en euros en lugar de porcentajes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clase 1-2 Inicial y Final: Filtra los artículos en función de su clase, especificando un rango para delimitar los artículos a modificar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Familia Inicial y Final: Filtra los artículos en función del código de familia, especificando un rango que define los artículos que recibirán la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tipo de Artículo: Filtra los artículos por su tipo específico, aplicando la modificación a aquellos que cumplen con este criterio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artículo Inicial y Final: Permite delimitar un rango de artículos sobre los cuales se realizará la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tarifa Origen: Define la tarifa de referencia desde la cual se aplicará la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tarifa Destino: Tarifa en la cual se hará efectiva la modificación. Puede coincidir con la tarifa origen si se desea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nº Decimales: Establece el número de decimales de redondeo para el valor de la tarifa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Redondear 0 - 5: Al activar esta opción, el redondeo se aplicará al alza (5). Si no se activa, el redondeo se realizará hacia 0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
