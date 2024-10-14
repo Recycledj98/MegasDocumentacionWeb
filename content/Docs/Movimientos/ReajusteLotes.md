@@ -18,7 +18,7 @@ El código del lote creado es el código del artículo más la fecha de caducida
 
 - **Agrupar Sueltos**: Agrupa lotes con picos en lotes más grandes y los elimina.
   - Opción usada sobretodo en artículos de pesaje
-    -Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.
+    - Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.
 
 ![Seleccion](/docs/images/Ajustelotes.png)
 

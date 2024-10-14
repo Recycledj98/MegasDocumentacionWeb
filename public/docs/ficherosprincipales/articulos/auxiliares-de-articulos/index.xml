@@ -14,5 +14,325 @@
       
     
     
+    <item>
+      <title>Familias</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Familias de Artículo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;familias-de-artículo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#familias-de-art%c3%adculo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las familias de artículos nos permite agrupar los distintos tipos de artículos bajo un único grupo con el fín de realizar gestiones sobre ellos o catalogarlos y posteriormente obtener datos estadísticos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Como podemos observar en la imagen se distinguen tres campos principales, código, nombre y % Control de Precio.&lt;/p&gt;
+&lt;p&gt;El código es un código &lt;em&gt;&lt;strong&gt;alfanumérico&lt;/strong&gt;&lt;/em&gt; para identificar internamente a la familia, acompañado de una descripción (Nombre).&lt;/p&gt;
+&lt;p&gt;El % Control de Precio &lt;em&gt;&lt;strong&gt;RELLENAR&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clases</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clases de Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clases-de-artículos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clases-de-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite definir las distintas clases que conforman un artículo, es decir, su tipo y subtipos permitiendonos tener una jerarquía organizada de cara a obtener datos estadísticos.&lt;/p&gt;
+&lt;p&gt;Se permite definir un artículo en un máximo de 5 niveles jerarquicos, desde el punto de vista más general al más especifico.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Se recomienda tener definidos al menos los tres prmieros niveles&lt;/strong&gt;&lt;/em&gt; para un &lt;strong&gt;correcto&lt;/strong&gt; funcionamiento del módulo de estadisticas.&lt;/p&gt;
+&lt;p&gt;La pantalla principal de mantenimiento de clases nos muestra una vista previa de todas las clases que tenemos dadas de alta.
+Al situarnos sobre una de ellas o haciendo doble click se nos abrirá el menú de modificación.
+Este menú sirve para modificar la clase seleccionada o para dar una nueva clase de alta mediante el botón de Alta o &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen se pueden apreciar los siguientes campos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código de la clase. (Se recomienda una combinación de 2 sílabas)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nivel- Clase&lt;/strong&gt;: Nivel de clase.
+-&lt;strong&gt;Nombre&lt;/strong&gt;: Nombre descriptivo de la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa Liquidación&lt;/strong&gt;: Permite especificar una de las seis posibles tarifas de venta que se aplicará a la hora de generar la liquidación con los proveedores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa Inc x Ud&lt;/strong&gt;: -Por rellenar-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P/Coste a Dtos&lt;/strong&gt;: Permite especificar si se aplicará &lt;em&gt;&lt;strong&gt;por omisión&lt;/strong&gt;&lt;/em&gt; el precio de coste a los descuentos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Ventas&lt;/strong&gt;: Cuenta de venta asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Compras&lt;/strong&gt;: Cuenta de compras asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Manipulación&lt;/strong&gt;: Cuenta de manipulación asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dto Máximo %/-Eur&lt;/strong&gt;: Descuento máximo en porcentaje o en euros aplicados a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;%Mrg PVPX&lt;/strong&gt;: % De margen de beneficio aplicado a las tarifas de venta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Esquema de clases de artículo&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;%%{init: {&#39;theme&#39;: &#39;default&#39;}}%%
+
+flowchart TB
+    subgraph Nivel - 1
+        CE[&#34;Nivel 1: CE&#34;]
+    end
+
+    subgraph Nivel - 2
+        MH[&#34;Nivel 2: MH&#34;]
+        SM[&#34;Nivel 2: SM&#34;]
+    end
+
+    subgraph Nivel - 3
+        CL[&#34;Nivel 3: CL&#34;]
+        SE[&#34;Nivel 3: 5E&#34;]
+        QO[&#34;Nivel 3: 0.0&#34;]
+        ES[&#34;Nivel 3: ES&#34;]
+    end
+
+    subgraph Nivel - 4
+        RE[&#34;Nivel 4: RE&#34;]
+        NR[&#34;Nivel 4: NR&#34;]
+        BA[&#34;Nivel 4: BA&#34;]
+    end
+
+    subgraph Nivel - 5
+        PC[&#34;Nivel 5: Promoción cruzada&#34;]
+    end
+
+    CE --&gt; MH
+    CE --&gt; SM
+
+    MH --&gt; CL
+    MH --&gt; SE
+    SM --&gt; QO
+    SM --&gt; ES
+
+    CL --&gt; RE
+    SE --&gt; NR
+    QO --&gt; NR
+    ES --&gt; BA
+
+    RE --&gt; PC
+    NR --&gt; PC
+    BA --&gt; PC&lt;/pre&gt;&lt;p&gt;En este gráfico tenemos como ejemplo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 1: Cerveza (CE).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 2: Mahou (MH) o San Miguel (SM).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 3: Clásica (CL), Cinco Estrellas (5E), Sin alcohol (0.0) o Especial (ES).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 4: Retornable (RE), No Retornable (NR), Barril (BA).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de IVA</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Tipos de Impuesto sobre Valor Añadido (IVA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tipos-de-impuesto-sobre-valor-añadido-iva&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El programa ya está preparado para trabajar con los valores introducidos en este apartado.
+Para que se apliquen correctamente deberemos asignar el código del IVA correspondiente a nuestros artículos en su ficha de artículo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código Interno del impuesto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Impuesto&lt;/strong&gt;: Descripción del impuesto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% IVA&lt;/strong&gt;: % de IVA que se aplicará.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Rec. Equivalencia&lt;/strong&gt;: % de Recargo de Equivalencia que se aplicará.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% IVA F&lt;/strong&gt;: % de IVA que se aplicará en la serie F.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Rec. Equivalencia F&lt;/strong&gt;: % de Recargo de Equivalencia que aplicará en la serie F.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta IVA&lt;/strong&gt;: Cuenta contable para IVA.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta IVA+Rec.Equ&lt;/strong&gt;: Cuenta contable destinada para la cuenta contable IVA más Recargo de equivalencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta Rec.Equiv&lt;/strong&gt;: Cuenta contable destinada al Recargo de Equivalencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta IVA Compras&lt;/strong&gt;: Cuenta contable destinada para el IVA en las compras.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de Impuestos Especiales</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Copia entre Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Modificación de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Entrada rápida de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Histórico de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Exportación de Tarifas a Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Importación de Tarifas desde Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Crear y/o modificar artículos desde Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Cambio de código de Artículo</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Duplicar Precios Especiales/Bonificaciones/Promociones</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Asignar Stock Minimo automáticamente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Baja/Desactivar Artículos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>

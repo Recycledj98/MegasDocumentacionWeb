@@ -14,5 +14,20 @@
       
     
     
+    <item>
+      <title>Cambio de código de proveedor</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/cambio-de-codigo-proveedor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/proveedores/auxiliares-de-proveedores/cambio-de-codigo-proveedor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nos permite al igual que en el apartado de clientes realizar un cambio de código de proveedor, moviendo todo lo relacionado del código antiguo al nuevo.&lt;/p&gt;
+&lt;p&gt;El código nuevo ha de estár vacío.&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

@@ -230,7 +230,10 @@ metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Agrupar Sueltos&lt;/strong&gt;: Agrupa lotes con picos en lotes más grandes y los elimina.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Opción usada sobretodo en artículos de pesaje
--Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
