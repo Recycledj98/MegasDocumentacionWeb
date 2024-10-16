@@ -1,6 +1,8 @@
 ---
 title: "Documentación"
 description: "Bienvenido a la documentación de Megas Quality Services"
+sidebar:
+    exclude: true
 ---
 
 ## Bienvenida

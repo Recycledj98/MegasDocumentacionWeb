@@ -1812,7 +1812,49 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
       <description>
         
         
-        
+        &lt;p&gt;Esta funcionalidad nos permite modificar todas las tarifas de nuestros artículos de manera rápida.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Esta funcionalidad &lt;strong&gt;NO&lt;/strong&gt; se debe usar si tenemos el módulo de &lt;strong&gt;trazabilidad&lt;/strong&gt; activo.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nos permite filtar previamente mediante una serie de filtos de artículo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cod. Proveedor&lt;/strong&gt;: Permite filtrar por los artículos de un proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase 1/2&lt;/strong&gt;: Permite filtrar por las clases 1 y 2 de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código / Alfabetico&lt;/strong&gt;: Permite determinar la ordenación de los artículos, por código de artículo o por orden alfabético.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activo&lt;/strong&gt;: Permite filtar por artículos activos, no activos o ambos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Una vez introducidos los filtros el programa nos mostrará una pantalla con los artículos y sus tarifas y mediante las flechas del teclado nos podremos mover.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Posicionandonos encima de la tarifa que deseamos modificar y mediante el teclado numérico podremos modificar la tarifa.&lt;/p&gt;
+
       </description>
     </item>
     
@@ -1825,7 +1867,57 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
       <description>
         
         
-        
+        &lt;p&gt;El histórico de tarifas nos permite almacenar las tarifas de nuestros productos en una fecha determinada.&lt;/p&gt;
+&lt;p&gt;Consta de tres principales opciones&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Guardar en el Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;guardar-en-el-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#guardar-en-el-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite guardar las tarifas mediante previo filtro en el histórico de tarifas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fecha de tarifa: Fecha de tarifa a guardar, por omisión el día actual.&lt;/li&gt;
+&lt;li&gt;Proveedor: Permite guardar las tarifas de un único proveedor, si se deja en blanco, guarda todos los proveedores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Recuperar del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;recuperar-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recuperar-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite recuperar las tarifas mediante previo filtro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-red-200 hx-bg-red-100 hx-text-red-900 dark:hx-border-red-200/30 dark:hx-bg-red-900/30 dark:hx-text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Este proceso sustituirá las tarifas actuales por las existentes en la fecha indicada, se recomienda realizar una copia de seguridad de nuestras tarifas antes de proceder.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Borrado de Tarifa del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;borrado-de-tarifa-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#borrado-de-tarifa-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Borra del Histórico de Tarifas las tarifas seleccionadas mediante previo filtro.
+Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Mantenimiento del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mantenimiento-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mantenimiento-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite visualizar las tarifas que tenemos almacenadas y realizar operaciones de alta, baja o modificación.
+&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
@@ -1986,7 +2078,8 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <description>
         
         
-        
+        &lt;p&gt;1&lt;/p&gt;
+
       </description>
     </item>
     

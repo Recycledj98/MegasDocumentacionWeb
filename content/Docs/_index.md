@@ -18,10 +18,4 @@ En este manual, aprenderás a gestionar todas las operaciones comerciales de man
 
 ### Recursos Adicionales
 
-- **Preguntas Frecuentes**: Respuestas a las preguntas más comunes.
-- **Soporte Técnico**: Contacta con nuestro equipo de soporte para obtener ayuda adicional.
-- **Actualizaciones**: Mantente al día con las últimas actualizaciones y mejoras de la aplicación.
-
-### Comienza Ahora
-
-    ¡Explora los capítulos y comienza a optimizar tu gestión comercial hoy mismo!
+- **Preguntas Frecuentes**: Respuestas a las preguntas más comunes. [Acceder a las preguntas frecuentes](/FAQS)
