@@ -21,4 +21,3 @@ Se exporta con formato **XLS**, es decir, en formato Microsoft Office 2003.
 - **Activo S/N**: Permite exportar todos los artículos activos o los no activos. Por omisión exporta ambos.
 - **Filtro Manual**: Permite introducir instrucciones en SQL para obtener datos más precisos.
 
-----

@@ -6,7 +6,7 @@ baseURL: "https://example.org/"
 languageCode: es-ES
 title: Megas Documentación Web
 defaultContentLanguage: es
-
+enableGitInfo: true
 # Importación de módulos
 module:
   imports:
@@ -23,6 +23,8 @@ module:
 
 # Parámetros como la tipografía
 params:
+  displayUpdatedDate: true
+  dateFormat: "2 de January de 2006"
   # Tipografía
   custom_css:
     - "https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&display=swap"
@@ -45,11 +47,7 @@ params:
     enable: true
     displayCopyright: true
     displayPoweredBy: false
-    displayUpdatedDate: true
   width: normal
-displayUpdatedDate: true
-dateFormat: "2 January, 2006"
-enableGitInfo: true
 
 
 
