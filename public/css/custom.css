@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
+
+:root {
+  --primary-hue: 191deg;
+  --primary-saturation: 90%;
+}
+.content {
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-family: "Inter", sans-serif;
+}
+
+.h3 {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.5em;
+  color: var(--primary-hue);
+}
+
+.Icon {
+  margin-left: 10px;
+}
+.IconRight {
+    margin-right: 2px;
+    font-size: 2em;
+    margin-top: 2em;
+}
+
+
+
+
