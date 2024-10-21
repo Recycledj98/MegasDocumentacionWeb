@@ -1,6 +1,6 @@
 module github.com/recycledj98/MegasDocumentacionWeb
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/hugomods/icons/vendors/bootstrap v0.5.7 // indirect
