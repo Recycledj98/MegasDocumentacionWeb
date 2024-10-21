@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>http://localhost:1313/docs/ventas/</link>
+    <link>https://example.org/docs/ventas/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/ventas/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/docs/ventas/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Pedidos</title>
-      <link>http://localhost:1313/docs/ventas/pedidos/</link>
+      <link>https://example.org/docs/ventas/pedidos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/pedidos/</guid>
+      <guid>https://example.org/docs/ventas/pedidos/</guid>
       <description>
         
         
@@ -27,7 +27,7 @@
     &lt;a href=&#34;#pantalla-pedidos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desde este apartado se podrán visualizar, dar de alta o realizar las operaciones pertinentes sobre los pedidos de preventa.&lt;/p&gt;
 &lt;p&gt;No tienen ninguna connotación a efectos prácticos sobre el almacén o programa más allá de ser una anotación guardada.&lt;/p&gt;
 &lt;p&gt;La pantalla de pedidos tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen podremos apreciar datos censurados, corresponen a los datos fiscales del cliente, nombre, dirección, código postal y población y nombre comercial.&lt;/p&gt;
 &lt;h3&gt;Cabecera pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cabecera-pedido&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cabecera-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;En la cabecera del pedido encontramos los siguientes campos:&lt;/p&gt;
@@ -61,35 +61,35 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de comisiones del representante&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede al histórico de PVP del artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de coste&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Añade una línea nueva&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera los envases asociados al artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Importa el pedido desde excel&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera el pedido de compra en base al consumo del cliente.&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -105,33 +105,33 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera un pedido de compra con las lineas de artículo introducidas&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Retiene el pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido en albarán&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;Pie Pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pie-pedido&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pie-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PIEPEDIDO.png&#34; alt=&#34;PIE&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#pie-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PIEPEDIDO.png&#34; alt=&#34;PIE&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Una vez rellenado el cuerpo del pedido, mediante la tecla ESC(Escape) el programa nos pedirá si deseamos generar los envases, pasada la ventana emergente nos situará automáticamente en el píe del pedido donde nos pedirá la introducción del porcentaje de descuento sobre albarán y la entrega a cuenta al igual que la forma de pago.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;F/PAGO&lt;/strong&gt;: Código de la forma de pago (Ficha del cliente).&lt;/li&gt;
@@ -143,7 +143,7 @@
 &lt;h3&gt;Anexo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;anexo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#anexo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Cambio de datos
-&lt;img src=&#34;http://localhost:1313/docs/images/PEDIDOCAMBIO.PNG&#34; alt=&#34;cambio de datos&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://example.org/docs/images/PEDIDOCAMBIO.PNG&#34; alt=&#34;cambio de datos&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Mediante el botón de cambio de datos se nos mostrará la pantalla de cambio donde podremos modificar algunos datos relacionados con el pedido.&lt;/p&gt;
 &lt;ul&gt;
@@ -163,7 +163,7 @@
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Porcentajes de tarifa&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PORCENTAJES.png&#34; alt=&#34;Porcentajes&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PORCENTAJES.png&#34; alt=&#34;Porcentajes&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Requiere previa activación por parte del personal técnico de Megas.&lt;/strong&gt;&lt;/em&gt;
@@ -171,7 +171,7 @@ Muestra los márgenes por tarifa, tanto de venta como de compra y su variación 
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Kilogramos totales&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/KILOS.png&#34; alt=&#34;Kilogramos&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/KILOS.png&#34; alt=&#34;Kilogramos&#34; loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;&lt;strong&gt;Requiere previa activación por parte del personal técnico de Megas.&lt;/strong&gt;&lt;/em&gt;
 Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el peso por unidad en la ficha del artículo.&lt;/p&gt;
 &lt;/li&gt;
@@ -182,10 +182,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/abaranes/</link>
+      <link>https://example.org/docs/ventas/abaranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/abaranes/</guid>
+      <guid>https://example.org/docs/ventas/abaranes/</guid>
       <description>
         
         
@@ -195,10 +195,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
+      <link>https://example.org/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
+      <guid>https://example.org/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
       <description>
         
         
@@ -208,10 +208,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
+      <link>https://example.org/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
+      <guid>https://example.org/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
       <description>
         
         
@@ -221,10 +221,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/cargas/</link>
+      <link>https://example.org/docs/ventas/cargas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/cargas/</guid>
+      <guid>https://example.org/docs/ventas/cargas/</guid>
       <description>
         
         
@@ -234,10 +234,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/dispaching/</link>
+      <link>https://example.org/docs/ventas/dispaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/dispaching/</guid>
+      <guid>https://example.org/docs/ventas/dispaching/</guid>
       <description>
         
         
@@ -247,10 +247,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-automatica/</link>
+      <link>https://example.org/docs/ventas/facturacion-automatica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-automatica/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-automatica/</guid>
       <description>
         
         
@@ -260,10 +260,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-grupo/</link>
+      <link>https://example.org/docs/ventas/facturacion-grupo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-grupo/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-grupo/</guid>
       <description>
         
         
@@ -273,10 +273,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-manual-1/</link>
+      <link>https://example.org/docs/ventas/facturacion-manual-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-manual-1/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-manual-1/</guid>
       <description>
         
         
@@ -286,10 +286,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-periodica/</link>
+      <link>https://example.org/docs/ventas/facturacion-periodica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-periodica/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-periodica/</guid>
       <description>
         
         
@@ -299,10 +299,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturas/</link>
+      <link>https://example.org/docs/ventas/facturas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturas/</guid>
+      <guid>https://example.org/docs/ventas/facturas/</guid>
       <description>
         
         
@@ -312,10 +312,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/importacion-masiva/</link>
+      <link>https://example.org/docs/ventas/importacion-masiva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/importacion-masiva/</guid>
+      <guid>https://example.org/docs/ventas/importacion-masiva/</guid>
       <description>
         
         
@@ -325,10 +325,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/recibos/</link>
+      <link>https://example.org/docs/ventas/recibos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/recibos/</guid>
+      <guid>https://example.org/docs/ventas/recibos/</guid>
       <description>
         
         

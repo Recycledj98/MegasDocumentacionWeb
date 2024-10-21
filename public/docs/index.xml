@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – Manual Gestión Comercial</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>https://example.org/docs/</link>
     <description>Recent content in Manual Gestión Comercial on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,16 +16,16 @@
     
     <item>
       <title>Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
       <description>
         
         
         &lt;p&gt;La sección de artículos es crucial para optimizar y gestionar eficicientemente los procesos comerciales de nuestro negocio. Mediante las múltiples funcionalidades y opciones disponibles podremos gestionar el inventario de nuestra empresa asi como sus movimientos.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;768&#34; height=&#34;768&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#08a1e2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
  &lt;strong&gt;Usaremos el artículo MAHOU 5 ESTRELLAS 1/5 RETORNABLE como ejemplo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;La imagen proporcionada muestra la pantalla principal de la sección de artículos la cual contiene información detallada sobre cada producto de nuestro catálogo.
@@ -100,7 +100,7 @@ A continuación desglosaremos los elementos clave de esta pantalla para comprend
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Clasificaci%c3%b3nArt%c3%adculos.png&#34; alt=&#34;Clasifica&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Clasificaci%c3%b3nArt%c3%adculos.png&#34; alt=&#34;Clasifica&#34; loading=&#34;lazy&#34; /&gt;
 &lt;strong&gt;La correcta clasificación de artículos es de vital importancia para posteriormente poder sacar las correspondientes estadísticas&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Activo (ACT)&lt;/strong&gt;: Indica si el artículo está activo y por lo tanto se puede vender.&lt;/li&gt;
@@ -277,16 +277,16 @@ Al configurar el artículo 55 con un enlace al código 200, se establece que cua
     
     <item>
       <title>Familias</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
       <description>
         
         
         &lt;h2&gt;Familias de Artículo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;familias-de-artículo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#familias-de-art%c3%adculo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las familias de artículos nos permite agrupar los distintos tipos de artículos bajo un único grupo con el fín de realizar gestiones sobre ellos o catalogarlos y posteriormente obtener datos estadísticos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Como se puede observar en la imagen, se destacan tres campos principales: Código, Nombre y % Control de Precio.&lt;/p&gt;
 &lt;p&gt;Código: Es un identificador alfanumérico que se utiliza para identificar internamente a la familia de productos.&lt;/p&gt;
 &lt;p&gt;Nombre: Corresponde a la descripción o nombre que facilita la identificación de la familia.&lt;/p&gt;
@@ -297,18 +297,18 @@ Al configurar el artículo 55 con un enlace al código 200, se establece que cua
     
     <item>
       <title>Formas de Pago</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
       <description>
         
         
         &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
 &lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/p&gt;
@@ -416,17 +416,17 @@ las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;img src=&#34;http://localhost:1313/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://example.org/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Movimientos E/S almacén</title>
-      <link>http://localhost:1313/docs/movimientos/movimientoses/</link>
+      <link>https://example.org/docs/movimientos/movimientoses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/movimientos/movimientoses/</guid>
+      <guid>https://example.org/docs/movimientos/movimientoses/</guid>
       <description>
         
         
@@ -437,7 +437,7 @@ de compra también genera movimientos y todos ellos aparecerán automáticamente
 pantalla. Para generar movimientos entre almacenes por ejemplo, tenemos que dar de alta
 nosotros mismos esos movimientos desde esta pantalla.&lt;/p&gt;
 &lt;p&gt;La pantalla de movimientos tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ESALMA.png&#34; alt=&#34;ESALMA&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ESALMA.png&#34; alt=&#34;ESALMA&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Referencia&lt;/strong&gt;: Código numérico generado automáticamente por la aplicación con el fin de llevar un registro.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Artículo&lt;/strong&gt;: Código del artículo.&lt;/li&gt;
@@ -505,10 +505,10 @@ nosotros mismos esos movimientos desde esta pantalla.&lt;/p&gt;
     
     <item>
       <title>Pantalla Clientes</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/pantallaclientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/pantallaclientes/</guid>
       <description>
         
         
@@ -518,7 +518,7 @@ nosotros mismos esos movimientos desde esta pantalla.&lt;/p&gt;
 &lt;p&gt;Esta obligatoriedad se pondrá de manifiesto en diferentes mensajes de error bien al dejar un &lt;strong&gt;campo obligatorio en blanco o al terminar de recorrer todos los campos de la ficha&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;Barra Navegación Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;barra-navegación-cliente&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#barra-navegaci%c3%b3n-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Antes de avanzar con la pantalla principal, mostraremos la barra principal de navegación de la pantalla clientes, que dependiendo en que apartado del programa nos encotremos tendra un aspecto diferente.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/BarraNavegacionClientes.png?height=200&amp;amp;quality=100&#34; alt=&#34;BarraNav&#34; loading=&#34;lazy&#34; /&gt;
 Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada botón.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
 
@@ -556,7 +556,7 @@ Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada bot
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Orden&lt;/strong&gt;: Permite cambiar el orden de búsqueda de registro. Las opciones disponibles son por código de cliente, dirección comercial y nombre comercial.
-&lt;img src=&#34;http://localhost:1313/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://example.org/docs/images/FichaClienteOrden.png?height=200&amp;amp;quality=100&#34; alt=&#34;Orden&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Precios especiales&lt;/strong&gt;: Permite acceder a la pantalla de precios especiales asociados al cliente en pantalla. También permite saltar a la pantalla de promociones, bonificaciones y Rappels.&lt;/p&gt;
@@ -596,7 +596,7 @@ Nos desplazaremos de izquierda a derecha explicando la funcionalidad de cada bot
     &lt;a href=&#34;#ficha-de-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Procederemos a detallar cada aspecto de la &lt;strong&gt;ficha de clientes&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;48&#34; height=&#34;48&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;#5b9ed2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
  &lt;em&gt;Todos los campos se recorren de izquierda a derecha&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/FichaCliente.png&#34; alt=&#34;FichaDeCliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Código cliente&lt;/strong&gt;: Es un código &lt;strong&gt;alfanumerico&lt;/strong&gt; por el cual el usuario del programa identifica a cada uno de sus clientes.&lt;/p&gt;
@@ -840,10 +840,10 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
     
     <item>
       <title>Pedidos</title>
-      <link>http://localhost:1313/docs/ventas/pedidos/</link>
+      <link>https://example.org/docs/ventas/pedidos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/pedidos/</guid>
+      <guid>https://example.org/docs/ventas/pedidos/</guid>
       <description>
         
         
@@ -851,7 +851,7 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
     &lt;a href=&#34;#pantalla-pedidos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desde este apartado se podrán visualizar, dar de alta o realizar las operaciones pertinentes sobre los pedidos de preventa.&lt;/p&gt;
 &lt;p&gt;No tienen ninguna connotación a efectos prácticos sobre el almacén o programa más allá de ser una anotación guardada.&lt;/p&gt;
 &lt;p&gt;La pantalla de pedidos tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Pedido.png&#34; alt=&#34;Pedidos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen podremos apreciar datos censurados, corresponen a los datos fiscales del cliente, nombre, dirección, código postal y población y nombre comercial.&lt;/p&gt;
 &lt;h3&gt;Cabecera pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cabecera-pedido&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cabecera-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;En la cabecera del pedido encontramos los siguientes campos:&lt;/p&gt;
@@ -885,35 +885,35 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/COMISIONES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de comisiones del representante&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/HISTORICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede al histórico de PVP del artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/COSTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Accede a la pestaña de coste&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/TARIFAPRECIO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/INSERTARLINEA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Añade una línea nueva&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/GENERARENVASES.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera los envases asociados al artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/IMPORTAREXCEL.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Importa el pedido desde excel&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/PEDIDOAUTOMATICO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera el pedido de compra en base al consumo del cliente.&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -929,33 +929,33 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/GENERARPEDIDO.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Genera un pedido de compra con las lineas de artículo introducidas&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/RETENER.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Retiene el pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CONVERTIRALB.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido en albarán&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/IRCARGA.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos lleva a la carga de distribucion asociada al pedido&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CAF.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Convierte el pedido a la serie F o viceversa&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/BotoneraPedido/CAMBIOCLIENTE.png&#34; alt=&#34;GENERAR&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite cambiar datos del pedido (Véase sección anexo)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;Pie Pedido&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pie-pedido&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pie-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PIEPEDIDO.png&#34; alt=&#34;PIE&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#pie-pedido&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PIEPEDIDO.png&#34; alt=&#34;PIE&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Una vez rellenado el cuerpo del pedido, mediante la tecla ESC(Escape) el programa nos pedirá si deseamos generar los envases, pasada la ventana emergente nos situará automáticamente en el píe del pedido donde nos pedirá la introducción del porcentaje de descuento sobre albarán y la entrega a cuenta al igual que la forma de pago.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;F/PAGO&lt;/strong&gt;: Código de la forma de pago (Ficha del cliente).&lt;/li&gt;
@@ -967,7 +967,7 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
 &lt;h3&gt;Anexo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;anexo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#anexo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Cambio de datos
-&lt;img src=&#34;http://localhost:1313/docs/images/PEDIDOCAMBIO.PNG&#34; alt=&#34;cambio de datos&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://example.org/docs/images/PEDIDOCAMBIO.PNG&#34; alt=&#34;cambio de datos&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Mediante el botón de cambio de datos se nos mostrará la pantalla de cambio donde podremos modificar algunos datos relacionados con el pedido.&lt;/p&gt;
 &lt;ul&gt;
@@ -987,7 +987,7 @@ En algunos casos y debido al erroneo mantenimiento de la base de datos este camp
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Porcentajes de tarifa&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PORCENTAJES.png&#34; alt=&#34;Porcentajes&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PORCENTAJES.png&#34; alt=&#34;Porcentajes&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Requiere previa activación por parte del personal técnico de Megas.&lt;/strong&gt;&lt;/em&gt;
@@ -995,7 +995,7 @@ Muestra los márgenes por tarifa, tanto de venta como de compra y su variación 
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Kilogramos totales&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/KILOS.png&#34; alt=&#34;Kilogramos&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/KILOS.png&#34; alt=&#34;Kilogramos&#34; loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;&lt;strong&gt;Requiere previa activación por parte del personal técnico de Megas.&lt;/strong&gt;&lt;/em&gt;
 Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el peso por unidad en la ficha del artículo.&lt;/p&gt;
 &lt;/li&gt;
@@ -1006,10 +1006,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title>Botonera Pantalla Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/botonera-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/botonera-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/botonera-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/botonera-articulos/</guid>
       <description>
         
         
@@ -1055,115 +1055,115 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_SALIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_SALIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PRIMERO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PRIMERO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nos desplaza al primer registro &lt;em&gt;(El registro con el código más pequeño)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ULTIMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ULTIMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza al último registro&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ATRAS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ATRAS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia atras&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_SIGUIENTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_SIGUIENTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ALTA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ALTA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia delante&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_BAJA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_BAJA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Da de alta un nuevo registro&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MODIFICAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MODIFICAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_IMPRIMIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_IMPRIMIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_EXPORTAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_EXPORTAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta la ficha del artículo a Microsoft Excel&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CALCULADORA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CALCULADORA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Abre la calculadora del sistema&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BUSQUEDA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BUSQUEDA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Realiza una búsqeuda de artículo introduciendo el código directamente, introduciendo el comienzo de su descripción o usando el comodín ASTERISCO y a continuación algo que esté incluido en cualquier parte del nombre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ORDEN.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ORDEN.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el criterio de avenze o retroceso de los registros, por código o por nombre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite visualizar de manera grafica un extracto de movimientos del artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ENVASE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ENVASE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar el artículo con su respectivo envase&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite indicar que el artículo en pantalla está compuesto por otros artículos&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_GRAFICO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_GRAFICO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el modo de visualización de la ficha de artículo para ver los totales de movimientos del mismo acumulados por mes/año&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MEMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MEMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Información en texto libre para el artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CODBARRASADICIONAL.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CODBARRASADICIONAL.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar al artículo en pantalla más códigos de barras dependiendo del proveedor que lo suministre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CLIPENSUMINIS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CLIPENSUMINIS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra los clientes a los que no se les ha podido servir este producto&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_TRAZABILIDAD.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_TRAZABILIDAD.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de control de lotes y trazabilidad&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_DUPLICARFICHA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_DUPLICARFICHA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite duplicar la ficha del artículo incluyendo stock, precios especiales, promociones&amp;hellip;&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PROMOCIONES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PROMOCIONES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de las promociones en las que está incluido el artículo en pantalla&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PENDIENTEREC.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PENDIENTEREC.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra por pantalla los albaranes de compra pendientes de servir que incluyen el artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MARGENTARIFA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MARGENTARIFA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra una ventana la cual nos permite mediante la introducción del % que deseemos modificar rápidamente las tarifas&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CUBO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CUBO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta a un programa de minería de datos las diferentes estadísticas donde aparezca el artículo que estamos visualizando&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_IMAGENES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_IMAGENES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite la visualización por pantalla de la imagen del producto&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CARRITO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CARRITO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite ir añadiendo al carrito de compra las unidades del artículo que deseemos&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -1174,10 +1174,10 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
     
     <item>
       <title>Clases</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
       <description>
         
         
@@ -1188,7 +1188,7 @@ Muestra los kilogramos totales del albarán. Previamente hemos de rellenar el pe
 &lt;p&gt;La pantalla principal de mantenimiento de clases nos muestra una vista previa de todas las clases que tenemos dadas de alta.
 Al situarnos sobre una de ellas o haciendo doble click se nos abrirá el menú de modificación.
 Este menú sirve para modificar la clase seleccionada o para dar una nueva clase de alta mediante el botón de Alta o &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen se pueden apreciar los siguientes campos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código de la clase. (Se recomienda una combinación de 2 sílabas)&lt;/li&gt;
@@ -1269,10 +1269,10 @@ flowchart TB
     
     <item>
       <title>Incidencias</title>
-      <link>http://localhost:1313/docs/movimientos/incidencias/</link>
+      <link>https://example.org/docs/movimientos/incidencias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/movimientos/incidencias/</guid>
+      <guid>https://example.org/docs/movimientos/incidencias/</guid>
       <description>
         
         
@@ -1280,7 +1280,7 @@ flowchart TB
 &lt;p&gt;Los campos que muestra son simples, la persona que informa de la incidencia, que suele ser el
 preventista o representante de los clientes, el código del cliente que provoca la incidencia, la
 fecha en la que se produce, el tipo de incidencia y una observación libre para nosotros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/INCIDENCIA.png&#34; alt=&#34;Incidencias&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/INCIDENCIA.png&#34; alt=&#34;Incidencias&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Las incidencias se pueden dar de alta desde el programa de gestión pero lo normal es que se
 metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p&gt;
 
@@ -1289,10 +1289,10 @@ metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p&gt;
     
     <item>
       <title>Tipos de Cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
       <description>
         
         
@@ -1304,28 +1304,28 @@ metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p&gt;
     
     <item>
       <title>Funciones Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/funciones-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/funciones-articulos/</guid>
       <description>
         
         
         &lt;h2&gt;Funciones de la pantalla Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;funciones-de-la-pantalla-artículos&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#funciones-de-la-pantalla-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado profundizaremos acerca de las diversas opciones y funcionalidades que el sistema permite realizar referente a nuestros artículos.&lt;/p&gt;
 &lt;h3&gt;Extracto de entradas y salidas de almacen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;extracto-de-entradas-y-salidas-de-almacen&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#extracto-de-entradas-y-salidas-de-almacen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de extractos de almacen &lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Btnextracto&#34; loading=&#34;lazy&#34; /&gt; nos mostrará por pantalla un filtro donde podremos especificar el rango de fechas que deseamos consultar, al igual que el tipo de movimiento y los almacenes de origen y destino.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ES_ALMA.png&#34; alt=&#34;Extracto&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;a href=&#34;#extracto-de-entradas-y-salidas-de-almacen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de extractos de almacen &lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Btnextracto&#34; loading=&#34;lazy&#34; /&gt; nos mostrará por pantalla un filtro donde podremos especificar el rango de fechas que deseamos consultar, al igual que el tipo de movimiento y los almacenes de origen y destino.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ES_ALMA.png&#34; alt=&#34;Extracto&#34; loading=&#34;lazy&#34; /&gt;
 Permite a su vez realizar un filtro más exhaustivo mediante el contenido de lote o especificando un cliente.&lt;/p&gt;
 &lt;p&gt;Marcando la opción &amp;ldquo;Rentabilidad&amp;rdquo; el programa realizará un cálculo de la rentabilidad del artículo sobre las fechas indicadas y nos mostrará un informe por pantalla con los resultados.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ES_ALMA_LIS.png&#34; alt=&#34;Extracto-Rentabilidad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ES_ALMA_LIS.png&#34; alt=&#34;Extracto-Rentabilidad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la siguiente pantalla se muestra el extracto de movimientos de almacén sobre un artículo.
 En la parte inferior izquierda se nos mostrará de forma rápida el total de unidades de entrada y salida correspondientes a la fecha marcada, al igual que el importe total de compra y venta.
 También se muestra el precio medio de compra y venta.&lt;/p&gt;
 &lt;h3&gt;Envases&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;envases&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#envases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Podremos asignar mediante el botón de envases &lt;img src=&#34;http://localhost:1313/docs/images/Botonera/BTN_ENVASE.png&#34; alt=&#34;Btn_Envase&#34; loading=&#34;lazy&#34; /&gt; los envases asociados al artículo.&lt;/p&gt;
+    &lt;a href=&#34;#envases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Podremos asignar mediante el botón de envases &lt;img src=&#34;https://example.org/docs/images/Botonera/BTN_ENVASE.png&#34; alt=&#34;Btn_Envase&#34; loading=&#34;lazy&#34; /&gt; los envases asociados al artículo.&lt;/p&gt;
 &lt;p&gt;Se nos mostrará por pantalla una sección en la cual podremos realizar las distintas operaciones.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ENVASE_PANTA.png&#34; alt=&#34;Pantalla-Envase&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ENVASE_PANTA.png&#34; alt=&#34;Pantalla-Envase&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Podremos añadir o eliminar registros mediante los botones de Alta (&lt;strong&gt;Ctrl+A&lt;/strong&gt;) o Baja (&lt;strong&gt;Ctrl+B&lt;/strong&gt;).&lt;/p&gt;
 
 
@@ -1371,11 +1371,11 @@ También se muestra el precio medio de compra y venta.&lt;/p&gt;
 &lt;p&gt;Una vez rellenados los campos, cada vez que cerremos un pedido/albarán de venta o compra, el sistema nos pedirá si deseamos generar los envases.
 Si tenemos correctamente rellenados los campos se generarán de forma automática los envases.&lt;/p&gt;
 &lt;h3&gt;Lotes o artículos tipo Cesta&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;lotes-o-artículos-tipo-cesta&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#lotes-o-art%c3%adculos-tipo-cesta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El programa nos permite crear artículos tipo lote o cesta, para ello primeramente el artículo ha de ser tipo Lote (L) y mediante el botón de lotes &lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;lotes&#34; loading=&#34;lazy&#34; /&gt; se nos mostrará una pantalla parecia a la del punto anterior en la cual podremos asignar los artículos que incluye la cesta.&lt;/p&gt;
+    &lt;a href=&#34;#lotes-o-art%c3%adculos-tipo-cesta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El programa nos permite crear artículos tipo lote o cesta, para ello primeramente el artículo ha de ser tipo Lote (L) y mediante el botón de lotes &lt;img src=&#34;https://example.org/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;lotes&#34; loading=&#34;lazy&#34; /&gt; se nos mostrará una pantalla parecia a la del punto anterior en la cual podremos asignar los artículos que incluye la cesta.&lt;/p&gt;
 &lt;p&gt;Estos artículos irán desgolsados linea por linea en el albaran/factura.&lt;/p&gt;
 &lt;h3&gt;Datos Acumulados por Mes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-acumulados-por-mes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#datos-acumulados-por-mes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tenemos la posibilidad de obtener un gráfico de consumo por meses y año del artículo mostrado en pantalla.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/VentasComprasMeses.png&#34; alt=&#34;PantallaGrafico&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/VentasComprasMeses.png&#34; alt=&#34;PantallaGrafico&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Campo MEMO&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;campo-memo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#campo-memo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opción se nos mostrará una pantalla donde podremos redactar toda la información relacionada a nuestro artículo de carácter interno.&lt;/p&gt;
 &lt;h3&gt;Códigos de barra Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;códigos-de-barra-adicionales&#34;&gt;&lt;/span&gt;
@@ -1386,10 +1386,10 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
     
     <item>
       <title>Grupos de cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
       <description>
         
         
@@ -1401,10 +1401,10 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
     
     <item>
       <title>Inventarios</title>
-      <link>http://localhost:1313/docs/movimientos/inventarios/</link>
+      <link>https://example.org/docs/movimientos/inventarios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/movimientos/inventarios/</guid>
+      <guid>https://example.org/docs/movimientos/inventarios/</guid>
       <description>
         
         
@@ -1415,18 +1415,18 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
     
     <item>
       <title>Tipos de IVA</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
       <description>
         
         
         &lt;h2&gt;Tipos de Impuesto sobre Valor Añadido (IVA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tipos-de-impuesto-sobre-valor-añadido-iva&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;El programa ya está preparado para trabajar con los valores introducidos en este apartado.
 Para que se apliquen correctamente deberemos asignar el código del IVA correspondiente a nuestros artículos en su ficha de artículo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código Interno del impuesto.&lt;/p&gt;
@@ -1465,10 +1465,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Asignación de Lotes a Albaranes sin Lote</title>
-      <link>http://localhost:1313/docs/movimientos/asiganciondelotes/</link>
+      <link>https://example.org/docs/movimientos/asiganciondelotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/movimientos/asiganciondelotes/</guid>
+      <guid>https://example.org/docs/movimientos/asiganciondelotes/</guid>
       <description>
         
         
@@ -1512,16 +1512,16 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Tipos de Impuestos Especiales</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
       <description>
         
         
         &lt;h2&gt;Impuesto Especial del Alcohol&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impuesto-especial-del-alcohol&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#impuesto-especial-del-alcohol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado se definen los impuestos especiales asociados a la fabricación de alcohol.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen podemos apreciar tres campos numericos correspondientes al valor añadido.&lt;/p&gt;
 
       </description>
@@ -1529,10 +1529,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Zonas de cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
       <description>
         
         
@@ -1543,15 +1543,15 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Asignación de Zonas y/o Clases a Series de Facturación</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
       <description>
         
         
         &lt;p&gt;Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Los campos a cumplimentar son:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Codigo Zona&lt;/strong&gt;: Código de zona.&lt;/li&gt;
@@ -1595,15 +1595,15 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Copia entre Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
       <description>
         
         
         &lt;p&gt;Esta fucionalidad permite realizar una copia de tarifas de manera automática aplicando previamente una serie de filtros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tarifa Origen / Destino: Menú desplegable que permite seleccionar la &lt;strong&gt;tarifa origen&lt;/strong&gt; que se desea copiar y la &lt;strong&gt;tarifa destino&lt;/strong&gt; donde se aplicará la copia.&lt;/li&gt;
 &lt;li&gt;Clase 1-5: Filtro que permite seleccionar exclusivamente aquellos artículos que pertenecen a la clase especificada.&lt;/li&gt;
@@ -1617,10 +1617,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Reajuste de Lotes</title>
-      <link>http://localhost:1313/docs/movimientos/reajustelotes/</link>
+      <link>https://example.org/docs/movimientos/reajustelotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/movimientos/reajustelotes/</guid>
+      <guid>https://example.org/docs/movimientos/reajustelotes/</guid>
       <description>
         
         
@@ -1675,7 +1675,7 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Ajustelotes.png&#34; alt=&#34;Seleccion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Ajustelotes.png&#34; alt=&#34;Seleccion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Proveedor Incial - Final&lt;/strong&gt;: Código de proveedor Incial y Final.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Artículo Inicial - Final&lt;/strong&gt;: Código de artículo Incial y Final.&lt;/li&gt;
@@ -1691,15 +1691,15 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Modificación de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
       <description>
         
         
         &lt;p&gt;Esta pantalla nos permite realizar modificaciones generales sobre nuestras tarifas de venta por medio de la entrada de una serie de filtros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;% de Variación: Define el porcentaje de variación sobre la tarifa. En función del valor introducido, el programa calculará la nueva tarifa aplicando este margen de variación.&lt;/p&gt;
@@ -1738,10 +1738,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Tipo de Alta/Baja</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
       <description>
         
         
@@ -1752,17 +1752,17 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Clientes Nacionales</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
       <description>
         
         
         &lt;h2&gt;Clientes - Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes---proveedores&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#clientes---proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p&gt;
 &lt;p&gt;Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong&gt;nacionales&lt;/strong&gt;. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Código Cliente&lt;/strong&gt;: Código del cliente.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Código Porveedor&lt;/strong&gt;: Código del proveedor.&lt;/li&gt;
@@ -1806,10 +1806,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Entrada rápida de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
       <description>
         
         
@@ -1845,7 +1845,7 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;/div&gt;
 
 &lt;p&gt;Nos permite filtar previamente mediante una serie de filtos de artículo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Cod. Proveedor&lt;/strong&gt;: Permite filtrar por los artículos de un proveedor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Clase 1/2&lt;/strong&gt;: Permite filtrar por las clases 1 y 2 de artículo.&lt;/li&gt;
@@ -1853,7 +1853,7 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;li&gt;&lt;strong&gt;Activo&lt;/strong&gt;: Permite filtar por artículos activos, no activos o ambos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Una vez introducidos los filtros el programa nos mostrará una pantalla con los artículos y sus tarifas y mediante las flechas del teclado nos podremos mover.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Posicionandonos encima de la tarifa que deseamos modificar y mediante el teclado numérico podremos modificar la tarifa.&lt;/p&gt;
 
       </description>
@@ -1861,26 +1861,26 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Histórico de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
       <description>
         
         
         &lt;p&gt;El histórico de tarifas nos permite almacenar las tarifas de nuestros productos en una fecha determinada.&lt;/p&gt;
 &lt;p&gt;Consta de tres principales opciones&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Guardar en el Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;guardar-en-el-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#guardar-en-el-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite guardar las tarifas mediante previo filtro en el histórico de tarifas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fecha de tarifa: Fecha de tarifa a guardar, por omisión el día actual.&lt;/li&gt;
 &lt;li&gt;Proveedor: Permite guardar las tarifas de un único proveedor, si se deja en blanco, guarda todos los proveedores.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Recuperar del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;recuperar-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#recuperar-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite recuperar las tarifas mediante previo filtro.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -1914,20 +1914,20 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;h3&gt;Borrado de Tarifa del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;borrado-de-tarifa-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#borrado-de-tarifa-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Borra del Histórico de Tarifas las tarifas seleccionadas mediante previo filtro.
 Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Mantenimiento del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mantenimiento-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mantenimiento-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite visualizar las tarifas que tenemos almacenadas y realizar operaciones de alta, baja o modificación.
-&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Tipos de información</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
       <description>
         
         
@@ -1938,10 +1938,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Características de Cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
       <description>
         
         
@@ -1951,10 +1951,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Exportación de Tarifas a Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
       <description>
         
         
@@ -1989,7 +1989,7 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/FiltroA.png&#34; alt=&#34;Filtro Artículos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/FiltroA.png&#34; alt=&#34;Filtro Artículos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Artículo Incial/Final&lt;/strong&gt;: Permite especificar un rango de artículos. (Se debe introducir el &lt;strong&gt;código del artículo&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Familia Inicial/Final&lt;/strong&gt;: Permite especificar un rango de familias o una familia determinada introduciendo el mismo código.&lt;/li&gt;
@@ -2006,14 +2006,14 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Importación de Tarifas desde Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
       <description>
         
         
-        &lt;p&gt;La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href=&#34;http://localhost:1313/Descargas/Plantilla-Articulos.xls&#34; &gt;Descargar Plantilla de importación&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href=&#34;https://example.org/Descargas/Plantilla-Articulos.xls&#34; &gt;Descargar Plantilla de importación&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -2050,10 +2050,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>SEPA - Códigos SWIFT de Bancos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
       <description>
         
         
@@ -2065,10 +2065,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Condiciones de Bloqueo de Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
       <description>
         
         
@@ -2091,10 +2091,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Crear y/o modificar artículos desde Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
       <description>
         
         
@@ -2105,10 +2105,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Cambio de código de Artículo</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
       <description>
         
         
@@ -2120,25 +2120,25 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Reordenar Rutas de cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
       <description>
         
         
         &lt;p&gt;Nos permite reordenar nuestro rutero introduciendo un intervalo de separación.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ReordenarRutas.png&#34; alt=&#34;ReordenarRutero&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ReordenarRutas.png&#34; alt=&#34;ReordenarRutero&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Duplicar Precios Especiales/Bonificaciones/Promociones</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
       <description>
         
         
@@ -2148,16 +2148,16 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Asignar Stock Minimo automáticamente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
       <description>
         
         
         &lt;p&gt;El programa cuenta con un sistema de gestión de almacenes que permite definir un stock mínimo, el cual representa el margen de seguridad de producto que debe mantenerse en el inventario. Cuando el nivel de stock alcanza esta cantidad mínima, el sistema emitirá avisos automáticos cada vez que se realice una venta, informando sobre la cantidad insuficiente de producto disponible.&lt;/p&gt;
 &lt;p&gt;El programa ofrece una funcionalidad para realizar una &lt;strong&gt;previsión de compras&lt;/strong&gt; basada en el &lt;strong&gt;consumo registrado&lt;/strong&gt; durante un rango de fechas determinado y considerando un número de días de previsión.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/AsignaStock.png&#34; alt=&#34;Previsión de comrpas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/AsignaStock.png&#34; alt=&#34;Previsión de comrpas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Nos permite filtar por código de proveedor, código de artículo, familia y tipo.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -2176,15 +2176,15 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Baja/Desactivar Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
       <description>
         
         
         &lt;p&gt;Esta funcionalidad permite, tras aplicar un filtro de artículos, identificar aquellos que se encuentran &lt;strong&gt;sin stock&lt;/strong&gt; dentro de un rango de fechas determinado. Una vez identificados, se pueden desactivar o eliminar para mantener una base de datos optimizada y actualizada.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/Baja.png&#34; alt=&#34;Baja/Elimina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/Baja.png&#34; alt=&#34;Baja/Elimina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -2230,10 +2230,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
       <description>
         
         
@@ -2243,10 +2243,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/abaranes/</link>
+      <link>https://example.org/docs/ventas/abaranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/abaranes/</guid>
+      <guid>https://example.org/docs/ventas/abaranes/</guid>
       <description>
         
         
@@ -2256,10 +2256,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
+      <link>https://example.org/docs/ventas/agrupar-albaranes-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
+      <guid>https://example.org/docs/ventas/agrupar-albaranes-mismo-cliente/</guid>
       <description>
         
         
@@ -2269,10 +2269,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
+      <link>https://example.org/docs/ventas/agrupar-pedidos-mismo-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
+      <guid>https://example.org/docs/ventas/agrupar-pedidos-mismo-cliente/</guid>
       <description>
         
         
@@ -2282,10 +2282,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/cargas/</link>
+      <link>https://example.org/docs/ventas/cargas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/cargas/</guid>
+      <guid>https://example.org/docs/ventas/cargas/</guid>
       <description>
         
         
@@ -2295,10 +2295,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/dispaching/</link>
+      <link>https://example.org/docs/ventas/dispaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/dispaching/</guid>
+      <guid>https://example.org/docs/ventas/dispaching/</guid>
       <description>
         
         
@@ -2308,10 +2308,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-automatica/</link>
+      <link>https://example.org/docs/ventas/facturacion-automatica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-automatica/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-automatica/</guid>
       <description>
         
         
@@ -2321,10 +2321,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-grupo/</link>
+      <link>https://example.org/docs/ventas/facturacion-grupo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-grupo/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-grupo/</guid>
       <description>
         
         
@@ -2334,10 +2334,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-manual-1/</link>
+      <link>https://example.org/docs/ventas/facturacion-manual-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-manual-1/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-manual-1/</guid>
       <description>
         
         
@@ -2347,10 +2347,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-periodica/</link>
+      <link>https://example.org/docs/ventas/facturacion-periodica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturacion-periodica/</guid>
+      <guid>https://example.org/docs/ventas/facturacion-periodica/</guid>
       <description>
         
         
@@ -2360,10 +2360,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/facturas/</link>
+      <link>https://example.org/docs/ventas/facturas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/facturas/</guid>
+      <guid>https://example.org/docs/ventas/facturas/</guid>
       <description>
         
         
@@ -2373,10 +2373,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ventas/importacion-masiva/</link>
+      <link>https://example.org/docs/ventas/importacion-masiva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ventas/importacion-masiva/</guid>
+      <guid>https://example.org/docs/ventas/importacion-masiva/</guid>
       <description>
         
         
@@ -2386,10 +2386,10 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
     
     <item>
       <title>Bonificaciones Cliente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/clientes/pantallabonificaciones/</link>
+      <link>https://example.org/docs/ficherosprincipales/clientes/pantallabonificaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/pantallabonificaciones/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/clientes/pantallabonificaciones/</guid>
       <description>
         
         
@@ -2403,7 +2403,7 @@ Estas bonificaciones no tienen por qué existir, a no ser que el concesionario l
     &lt;a href=&#34;#paso-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Crear las bonificaciones.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;strong&gt;En la siguiente imagen se muestra la pantalla de comisiones y bonificaciones de la ficha de un cliente.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FichaClienteBonificaComision.png&#34; alt=&#34;PantallaBonificaciones&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/FichaClienteBonificaComision.png&#34; alt=&#34;PantallaBonificaciones&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen apreciamos los siguientes campos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
