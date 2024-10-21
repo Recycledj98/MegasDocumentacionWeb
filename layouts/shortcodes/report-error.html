@@ -11,7 +11,7 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  
+
 
   .report-error-form label {
     font-weight: bold;
@@ -44,7 +44,7 @@
     background-color: #0094cc;
   }
 
-  .pie{
+  .pie {
     margin-top: 20px;
     padding: 10px;
     border: none;
@@ -53,8 +53,8 @@
     transition: background-color 0.3s;
   }
 
-  .pie a{
-    color:black important;
+  .pie a {
+    color: black important;
     text-decoration: none;
   }
 
@@ -67,11 +67,25 @@
   }
 
   @keyframes shake {
-    0% { transform: translateX(0); }
-    25% { transform: translateX(-5px); }
-    50% { transform: translateX(5px); }
-    75% { transform: translateX(-5px); }
-    100% { transform: translateX(0); }
+    0% {
+      transform: translateX(0);
+    }
+
+    25% {
+      transform: translateX(-5px);
+    }
+
+    50% {
+      transform: translateX(5px);
+    }
+
+    75% {
+      transform: translateX(-5px);
+    }
+
+    100% {
+      transform: translateX(0);
+    }
   }
 
   .shake {
@@ -86,50 +100,38 @@
     }
   }/* Captcha */
   document.getElementById('submit')
-  if(name === "" || email === ""){
+  if (name === "" || email === "") {
     document.getElementById('error-message').style.display = 'block';
     document.getElementById('error-message').classList.add('shake');
+  }
 </script>
 
-
-</script>
-
-<form
-  action="https://formspree.io/f/mvgpnknv"
-  method="POST"
-  class="report-error-form"
->
+<form action="https://formspree.io/f/mvgpnknv" method="POST" class="report-error-form">
   <label for="name">Concesionario: (Obligatorio)</label>
-  <input
-    type="text"
-    id="name"
-    name="name"
-    placeholder="Escribe el nombre del concesionario"
-  />
+  <input type="text" id="name" name="name" placeholder="Escribe el nombre del concesionario" />
 
   <label for="email">Correo electrónico: (Obligatorio) </label>
   <input type="email" id="email" name="email" placeholder="Escribe tu correo" />
 
   <label for="message">Descripción del error o sugerencia:</label>
-  <textarea
-    id="message"
-    name="message"
-    rows="5"
-    placeholder="Describe el error encontrado o escribe una sugerencia."
-  ></textarea>
+  <textarea id="message" name="message" rows="5"
+    placeholder="Describe el error encontrado o escribe una sugerencia."></textarea>
 
   <div style="display: flex; align-items: center;">
     <button type="submit">Enviar reporte</button>
-    <span id="error-message" style="display: none; margin-left: 10px; color: rgb(236, 76, 76);"> Por favor, rellena los campos obligatorios.</span>
+    <span id="error-message" style="display: none; margin-left: 10px; color: rgb(236, 76, 76);"> Por favor, rellena los
+      campos obligatorios.</span>
   </div>
   <div class="pie">
     <h3>Protección de datos</h3>
     <p>
-      De conformidad con lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos que los datos personales que nos proporcione a través de este formulario serán tratados de manera confidencial y se utilizarán exclusivamente con la finalidad de gestionar su reporte de error o sugerencia. Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición mediante comunicación escrita a nuestra dirección de correo electrónico <a href="mailto:administracion@megassl.com">administracion@megassl.com</a>.
+      De conformidad con lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+      y garantía de los derechos digitales, le informamos que los datos personales que nos proporcione a través de este
+      formulario serán tratados de manera confidencial y se utilizarán exclusivamente con la finalidad de gestionar su
+      reporte de error o sugerencia. Puede ejercer sus derechos de acceso, rectificación, cancelación y oposición
+      mediante comunicación escrita a nuestra dirección de correo electrónico <a
+        href="mailto:administracion@megassl.com">administracion@megassl.com</a>.
     </p>
   </div>
-  <div
-    class="g-recaptcha"
-    data-sitekey="6LdzIkAqAAAAAJ2VGRfykWFmXqMbdIV65HHoux6j"
-  ></div>
+  <div class="g-recaptcha" data-sitekey="6LdzIkAqAAAAAJ2VGRfykWFmXqMbdIV65HHoux6j"></div>
 </form>

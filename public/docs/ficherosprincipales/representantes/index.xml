@@ -1,114 +1,64 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Megas Documentación Web – </title>
-    <link>https://example.org/docs/ficherosprincipales/representantes/</link>
-    <description>Recent content on Megas Documentación Web</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    
-	  <atom:link href="https://example.org/docs/ficherosprincipales/representantes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Pantalla Representantes</title>
-      <link>https://example.org/docs/ficherosprincipales/representantes/pantallarepresentantes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/ficherosprincipales/representantes/pantallarepresentantes/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Representantes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;representantes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#representantes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado encontraremos lo necesario relacionado a nuestro personal.&lt;/p&gt;
-&lt;p&gt;La pantalla de representantes tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Representantes/Representantes.png&#34; alt=&#34;Representante&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Como es habitual, mediante la botonera o los atajos de teclado podremos realizar las distintas operaciones sobre ellos.&lt;/p&gt;
-&lt;h2&gt;Alta de un Representante&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alta-de-un-representante&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#alta-de-un-representante&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Mediante el botón de alta se nos abrira una ventana emergente con una serie de campos que hemos de rellenar.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      El programa nos irá mostrando mensajes de error en aquellos campos que debido a su obligatoriedad no pueden quedarse vacios
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Representantes/ARepresentantes.png&#34; alt=&#34;ARepresentante&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código del representante, es de tipo alfanumérico por lo que puede contener tanto números como letras.
-Hay dos formas de introducir este código.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;De forma manual, insertando carácteres alfanuméricos. Si el código ya existe el programa nos avisará obligando a cambiarlo.&lt;/li&gt;
-&lt;li&gt;De forma automática, insertando el cáracter &amp;ldquo;+&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nombre&lt;/strong&gt;: Nombre y apellidos del representante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Dirección&lt;/strong&gt;: Dirección postal del representante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Población&lt;/strong&gt;: Código postal y Población Fiscal separados ambos por un guión. Ej: 28017-MADRID&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Teléfono&lt;/strong&gt;: Télefono del representante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CIF/DNI&lt;/strong&gt;: CIF o DNI del representante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Observación&lt;/strong&gt;: Campo libre para una observación.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: Correo Electrónico del representante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Cálculo comisión&lt;/strong&gt;: Tipo de cálculo que se aplicará a las comisiones:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;0 - Base.&lt;/li&gt;
-&lt;li&gt;1 - Total.&lt;/li&gt;
-&lt;li&gt;2 - Bruto.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Comisión 1 - 6&lt;/strong&gt;: Porcentaje aplicado de comisión.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Comisión Compleja&lt;/strong&gt;: Código de comisión compleja asignado.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Megas Documentación Web –</title><link>https://example.org/docs/ficherosprincipales/representantes/</link><description>Recent content on Megas Documentación Web</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://example.org/docs/ficherosprincipales/representantes/index.xml" rel="self" type="application/rss+xml"/><item><title>Pantalla Representantes</title><link>https://example.org/docs/ficherosprincipales/representantes/pantallarepresentantes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/representantes/pantallarepresentantes/</guid><description>
+&lt;h2>Representantes&lt;span class="hx-absolute -hx-mt-20" id="representantes">&lt;/span>
+&lt;a href="#representantes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>En este apartado encontraremos lo necesario relacionado a nuestro personal.&lt;/p>
+&lt;p>La pantalla de representantes tiene el siguiente aspecto&lt;/p>
+&lt;p>&lt;img src="https://example.org/docs/images/Representantes/Representantes.png" alt="Representante" loading="lazy" />&lt;/p>
+&lt;p>Como es habitual, mediante la botonera o los atajos de teclado podremos realizar las distintas operaciones sobre ellos.&lt;/p>
+&lt;h2>Alta de un Representante&lt;span class="hx-absolute -hx-mt-20" id="alta-de-un-representante">&lt;/span>
+&lt;a href="#alta-de-un-representante" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Mediante el botón de alta se nos abrira una ventana emergente con una serie de campos que hemos de rellenar.&lt;/p>
+&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
+&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
+ℹ️
+&lt;/div>&lt;/div>
+&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
+&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
+El programa nos irá mostrando mensajes de error en aquellos campos que debido a su obligatoriedad no pueden quedarse vacios
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;img src="https://example.org/docs/images/Representantes/ARepresentantes.png" alt="ARepresentante" loading="lazy" />&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Código&lt;/strong>: Código del representante, es de tipo alfanumérico por lo que puede contener tanto números como letras.
+Hay dos formas de introducir este código.&lt;/p>
+&lt;ul>
+&lt;li>De forma manual, insertando carácteres alfanuméricos. Si el código ya existe el programa nos avisará obligando a cambiarlo.&lt;/li>
+&lt;li>De forma automática, insertando el cáracter &amp;ldquo;+&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Nombre&lt;/strong>: Nombre y apellidos del representante.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Dirección&lt;/strong>: Dirección postal del representante.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Población&lt;/strong>: Código postal y Población Fiscal separados ambos por un guión. Ej: 28017-MADRID&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Teléfono&lt;/strong>: Télefono del representante.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>CIF/DNI&lt;/strong>: CIF o DNI del representante.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Observación&lt;/strong>: Campo libre para una observación.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Email&lt;/strong>: Correo Electrónico del representante.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Cálculo comisión&lt;/strong>: Tipo de cálculo que se aplicará a las comisiones:&lt;/p>
+&lt;ul>
+&lt;li>0 - Base.&lt;/li>
+&lt;li>1 - Total.&lt;/li>
+&lt;li>2 - Bruto.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Comisión 1 - 6&lt;/strong>: Porcentaje aplicado de comisión.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Comisión Compleja&lt;/strong>: Código de comisión compleja asignado.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,255 +1,112 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Megas Documentación Web – Movimientos</title>
-    <link>https://example.org/docs/movimientos/</link>
-    <description>Recent content in Movimientos on Megas Documentación Web</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    
-	  <atom:link href="https://example.org/docs/movimientos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Movimientos E/S almacén</title>
-      <link>https://example.org/docs/movimientos/movimientoses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/movimientos/movimientoses/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Desde esta pantalla podemos observar los movimientos de los artículos tanto de entrada como
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Megas Documentación Web – Movimientos</title><link>https://example.org/docs/movimientos/</link><description>Recent content in Movimientos on Megas Documentación Web</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://example.org/docs/movimientos/index.xml" rel="self" type="application/rss+xml"/><item><title>Movimientos E/S almacén</title><link>https://example.org/docs/movimientos/movimientoses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/movimientos/movimientoses/</guid><description>
+&lt;p>Desde esta pantalla podemos observar los movimientos de los artículos tanto de entrada como
 de salida, entre almacenes y hasta los cambios de estado que lleguen a alcanzar.
 Cada albarán de venta genera una serie de movimientos que afectan al stockage, cada albarán
 de compra también genera movimientos y todos ellos aparecerán automáticamente en esta
 pantalla. Para generar movimientos entre almacenes por ejemplo, tenemos que dar de alta
-nosotros mismos esos movimientos desde esta pantalla.&lt;/p&gt;
-&lt;p&gt;La pantalla de movimientos tiene el siguiente aspecto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ESALMA.png&#34; alt=&#34;ESALMA&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Referencia&lt;/strong&gt;: Código numérico generado automáticamente por la aplicación con el fin de llevar un registro.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Artículo&lt;/strong&gt;: Código del artículo.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TI&lt;/strong&gt;: Tipo de movimiento:
-&lt;ul&gt;
-&lt;li&gt;CA: Cambio de almacén.&lt;/li&gt;
-&lt;li&gt;CR: Cambio de ruta.&lt;/li&gt;
-&lt;li&gt;E: Entrada proveedor.&lt;/li&gt;
-&lt;li&gt;FR: Falta rutas.&lt;/li&gt;
-&lt;li&gt;I: Intercambio entre almacenes.&lt;/li&gt;
-&lt;li&gt;MU: Muestras.&lt;/li&gt;
-&lt;li&gt;NE: Nevera.&lt;/li&gt;
-&lt;li&gt;PR: Promociones.&lt;/li&gt;
-&lt;li&gt;RA: Roturas almacén.&lt;/li&gt;
-&lt;li&gt;RE: Regalo.&lt;/li&gt;
-&lt;li&gt;RR: Rotas Rutas.&lt;/li&gt;
-&lt;li&gt;S: Venta reparto.&lt;/li&gt;
-&lt;li&gt;SA: Sobra almacén.&lt;/li&gt;
-&lt;li&gt;SR: Sobra Rutas.&lt;/li&gt;
-&lt;li&gt;VA: Venta almacén.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      Cada uno de estos tipos de movimientos afecta a una operación distinta dentro del programa. Por ejemplo CA (Cambio de almacén) mueve el producto de un almacén a otro.
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Descripción&lt;/strong&gt;: Apunte que se hace con el movimiento.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;O&lt;/strong&gt;: Indica el almacén de Origen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;D&lt;/strong&gt;: Indica el almacén de Destino.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Unidades&lt;/strong&gt;: Indica el total de unidades implicadas en el movimiento.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Precio&lt;/strong&gt;: Indica el precio del artículo en el momento del movimiento.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: Indica la fecha del movimiento.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Incidencias</title>
-      <link>https://example.org/docs/movimientos/incidencias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/movimientos/incidencias/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Esta pantalla recoge el listado de incidencias generadas en las diferentes visitas a los clientes.&lt;/p&gt;
-&lt;p&gt;Los campos que muestra son simples, la persona que informa de la incidencia, que suele ser el
+nosotros mismos esos movimientos desde esta pantalla.&lt;/p>
+&lt;p>La pantalla de movimientos tiene el siguiente aspecto&lt;/p>
+&lt;p>&lt;img src="https://example.org/docs/images/ESALMA.png" alt="ESALMA" loading="lazy" />&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Referencia&lt;/strong>: Código numérico generado automáticamente por la aplicación con el fin de llevar un registro.&lt;/li>
+&lt;li>&lt;strong>Artículo&lt;/strong>: Código del artículo.&lt;/li>
+&lt;li>&lt;strong>TI&lt;/strong>: Tipo de movimiento:
+&lt;ul>
+&lt;li>CA: Cambio de almacén.&lt;/li>
+&lt;li>CR: Cambio de ruta.&lt;/li>
+&lt;li>E: Entrada proveedor.&lt;/li>
+&lt;li>FR: Falta rutas.&lt;/li>
+&lt;li>I: Intercambio entre almacenes.&lt;/li>
+&lt;li>MU: Muestras.&lt;/li>
+&lt;li>NE: Nevera.&lt;/li>
+&lt;li>PR: Promociones.&lt;/li>
+&lt;li>RA: Roturas almacén.&lt;/li>
+&lt;li>RE: Regalo.&lt;/li>
+&lt;li>RR: Rotas Rutas.&lt;/li>
+&lt;li>S: Venta reparto.&lt;/li>
+&lt;li>SA: Sobra almacén.&lt;/li>
+&lt;li>SR: Sobra Rutas.&lt;/li>
+&lt;li>VA: Venta almacén.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
+&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
+ℹ️
+&lt;/div>&lt;/div>
+&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
+&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
+Cada uno de estos tipos de movimientos afecta a una operación distinta dentro del programa. Por ejemplo CA (Cambio de almacén) mueve el producto de un almacén a otro.
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;strong>Descripción&lt;/strong>: Apunte que se hace con el movimiento.&lt;/li>
+&lt;li>&lt;strong>O&lt;/strong>: Indica el almacén de Origen.&lt;/li>
+&lt;li>&lt;strong>D&lt;/strong>: Indica el almacén de Destino.&lt;/li>
+&lt;li>&lt;strong>Unidades&lt;/strong>: Indica el total de unidades implicadas en el movimiento.&lt;/li>
+&lt;li>&lt;strong>Precio&lt;/strong>: Indica el precio del artículo en el momento del movimiento.&lt;/li>
+&lt;li>&lt;strong>Fecha&lt;/strong>: Indica la fecha del movimiento.&lt;/li>
+&lt;/ul></description></item><item><title>Incidencias</title><link>https://example.org/docs/movimientos/incidencias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/movimientos/incidencias/</guid><description>
+&lt;p>Esta pantalla recoge el listado de incidencias generadas en las diferentes visitas a los clientes.&lt;/p>
+&lt;p>Los campos que muestra son simples, la persona que informa de la incidencia, que suele ser el
 preventista o representante de los clientes, el código del cliente que provoca la incidencia, la
-fecha en la que se produce, el tipo de incidencia y una observación libre para nosotros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/INCIDENCIA.png&#34; alt=&#34;Incidencias&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Las incidencias se pueden dar de alta desde el programa de gestión pero lo normal es que se
-metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Inventarios</title>
-      <link>https://example.org/docs/movimientos/inventarios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/movimientos/inventarios/</guid>
-      <description>
-        
-        
-        &lt;p&gt;sin uso&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asignación de Lotes a Albaranes sin Lote</title>
-      <link>https://example.org/docs/movimientos/asiganciondelotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/movimientos/asiganciondelotes/</guid>
-      <description>
-        
-        
-        &lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Mediante esta opción se nos permite asignar códigos de lote a aquellos artículos añadidos en albaranes que no tienen uno.&lt;/p&gt;
-&lt;p&gt;Al usar esta opción se nos pedirá un filtro de periodo donde deberemos introducir la fecha inicial y final de los albaranes a consultar, el proveedor al que pertenecen los artículos (Con el comodín asterisco seleccionamos todos los proveedores) o podremos filtar por artículo o familia.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ⚠️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      Esta opción asignará automáticamente los código de lote a los albaranes
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reajuste de Lotes</title>
-      <link>https://example.org/docs/movimientos/reajustelotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/docs/movimientos/reajustelotes/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Este proceso regulariza el stock del artículo con el stock de lotes.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      &lt;p&gt;En caso de que el artículo no tenga lotes asociados, se crea el stock a partir de las unidades disponibles en el almacen por defecto. Normalmente se utiliza cuando se da comienzo con el módulo de trazabilidad.&lt;/p&gt;
-&lt;p&gt;El código del lote creado es el código del artículo más la fecha de caducidad en formato AAAA/MM/DD&lt;/p&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Ajustar&lt;/strong&gt;: Elimina lotes en negativo y añade las unidades eliminadas al stock positivo más antiguo.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Borrar Lotes 0&lt;/strong&gt;: Borra los lotes sin stock.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Agrupar Sueltos&lt;/strong&gt;: Agrupa lotes con picos en lotes más grandes y los elimina.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Opción usada sobretodo en artículos de pesaje
-&lt;ul&gt;
-&lt;li&gt;Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Ajustelotes.png&#34; alt=&#34;Seleccion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Proveedor Incial - Final&lt;/strong&gt;: Código de proveedor Incial y Final.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Artículo Inicial - Final&lt;/strong&gt;: Código de artículo Incial y Final.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Familia Inicial - Final&lt;/strong&gt;: Código de familia Inicial y Final.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo Artículo&lt;/strong&gt;: Tipo de artículo a filtar.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pico Minimo&lt;/strong&gt;: Especifica el mínimo de pico a calcular.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fecha Caducidad&lt;/strong&gt;: Especifica la fecha de caducidad a asignar. (Solo para lotes NUEVOS)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Almacén&lt;/strong&gt;: Especifica el almacén de origen y destino.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+fecha en la que se produce, el tipo de incidencia y una observación libre para nosotros.&lt;/p>
+&lt;p>&lt;img src="https://example.org/docs/images/INCIDENCIA.png" alt="Incidencias" loading="lazy" />&lt;/p>
+&lt;p>Las incidencias se pueden dar de alta desde el programa de gestión pero lo normal es que se
+metan desde el TPV mientras el preventista hace su ruta diaria.&lt;/p></description></item><item><title>Inventarios</title><link>https://example.org/docs/movimientos/inventarios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/movimientos/inventarios/</guid><description>
+&lt;p>sin uso&lt;/p></description></item><item><title>Asignación de Lotes a Albaranes sin Lote</title><link>https://example.org/docs/movimientos/asiganciondelotes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/movimientos/asiganciondelotes/</guid><description>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Mediante esta opción se nos permite asignar códigos de lote a aquellos artículos añadidos en albaranes que no tienen uno.&lt;/p>
+&lt;p>Al usar esta opción se nos pedirá un filtro de periodo donde deberemos introducir la fecha inicial y final de los albaranes a consultar, el proveedor al que pertenecen los artículos (Con el comodín asterisco seleccionamos todos los proveedores) o podremos filtar por artículo o familia.&lt;/p>
+&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200">
+&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
+⚠️
+&lt;/div>&lt;/div>
+&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
+&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
+Esta opción asignará automáticamente los código de lote a los albaranes
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Reajuste de Lotes</title><link>https://example.org/docs/movimientos/reajustelotes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/movimientos/reajustelotes/</guid><description>
+&lt;p>Este proceso regulariza el stock del artículo con el stock de lotes.&lt;/p>
+&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
+&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
+ℹ️
+&lt;/div>&lt;/div>
+&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
+&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
+&lt;p>En caso de que el artículo no tenga lotes asociados, se crea el stock a partir de las unidades disponibles en el almacen por defecto. Normalmente se utiliza cuando se da comienzo con el módulo de trazabilidad.&lt;/p>
+&lt;p>El código del lote creado es el código del artículo más la fecha de caducidad en formato AAAA/MM/DD&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Ajustar&lt;/strong>: Elimina lotes en negativo y añade las unidades eliminadas al stock positivo más antiguo.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Borrar Lotes 0&lt;/strong>: Borra los lotes sin stock.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Agrupar Sueltos&lt;/strong>: Agrupa lotes con picos en lotes más grandes y los elimina.&lt;/p>
+&lt;ul>
+&lt;li>Opción usada sobretodo en artículos de pesaje
+&lt;ul>
+&lt;li>Se agrupan aquellos que el peso es menor que el peso marcado en la ficha del artículo. En caso de que este sea cero se usa el que se pide en la pantalla de selección.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://example.org/docs/images/Ajustelotes.png" alt="Seleccion" loading="lazy" />&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Proveedor Incial - Final&lt;/strong>: Código de proveedor Incial y Final.&lt;/li>
+&lt;li>&lt;strong>Artículo Inicial - Final&lt;/strong>: Código de artículo Incial y Final.&lt;/li>
+&lt;li>&lt;strong>Familia Inicial - Final&lt;/strong>: Código de familia Inicial y Final.&lt;/li>
+&lt;li>&lt;strong>Tipo Artículo&lt;/strong>: Tipo de artículo a filtar.&lt;/li>
+&lt;li>&lt;strong>Pico Minimo&lt;/strong>: Especifica el mínimo de pico a calcular.&lt;/li>
+&lt;li>&lt;strong>Fecha Caducidad&lt;/strong>: Especifica la fecha de caducidad a asignar. (Solo para lotes NUEVOS)&lt;/li>
+&lt;li>&lt;strong>Almacén&lt;/strong>: Especifica el almacén de origen y destino.&lt;/li>
+&lt;/ul></description></item></channel></rss>
