@@ -23,7 +23,24 @@
       <description>
         
         
-        
+        &lt;h2&gt;Datos Fiscales por Código&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-fiscales-por-código&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datos-fiscales-por-c%c3%b3digo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Muestra un listado de clientes con datos fiscales ordenados por &lt;strong&gt;código de cliente&lt;/strong&gt;.
+Permite filtar los datos mediante una serie de filtros&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Listados/DatosFiscales1.png&#34; alt=&#34;Filtros-Cliente&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de cliente Inicial/Final&lt;/strong&gt;: Permite filtar por código de tipo de cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente Activo&lt;/strong&gt;: Filtra por el estado del cliente, (S) Cliente activo, (N) Cliente dado de baja, (I) Cliente inactivo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente Nacional&lt;/strong&gt;: Filtra por clientes nacionales (S) o por No Nacionales (N).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código de Zona Inicial/Final&lt;/strong&gt;: Filtra por código de zona.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código de Pago Inicial/Final&lt;/strong&gt;: Filtra por el código de la forma de pago.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código de Representante&lt;/strong&gt;: Filtra por aquellos clientes correspondientes al código de represenatnte introducido.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código de Grupo Cliente&lt;/strong&gt;: Filtra por código de grupo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie de Facturación en la Ficha de cliente&lt;/strong&gt;: Filtra por la serie de facturación en la ficha del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de facturación&lt;/strong&gt;: Filtra por el típo de facturación en la ficha del cliente, por defecto, todos los tipos de facturación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cliente Marcado S/N/(*)&lt;/strong&gt; : Filtra sólo por los clientes marcados para estadísticas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/listados/clientes/&#34; &gt;Volver a inicio&lt;/a&gt;&lt;/p&gt;
+
       </description>
     </item>
     

@@ -1,11 +1,12 @@
 ---
 Title: Clientes
+weight: 1
 ---
 
 En esta sección se encuentran todos aquellos listados relacionados con nuestros clientes.
 
 - 1.1 - Datos Fiscales (Código) [Datos Fiscales]({{< relref "Datos-Fiscales.md" >}})
-- 1.2 - Datos Bancarios (Código)
+- 1.2 - Datos Bancarios (Código) [Datos Bancarios]({{< relref "Datos-Bancarios.md" >}})
 - 1.F - Datos Fiscales con Cuenta Contable
 - 1.B - Datos Bancarios (Alfabético)
 - 1.3 - Datos Comerciales (Código)
