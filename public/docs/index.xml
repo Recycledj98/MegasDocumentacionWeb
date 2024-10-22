@@ -505,17 +505,23 @@ nosotros mismos esos movimientos desde esta pantalla.&lt;/p&gt;
     
     <item>
       <title>Numeración de Documentos</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-de-documentos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-de-documentos/</guid>
-=======
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Numeración de Documentos</title>
       <link>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-documentos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-documentos/</guid>
->>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
       <description>
         
         
@@ -1296,7 +1302,39 @@ flowchart TB
       <description>
         
         
-        
+        &lt;h2&gt;Datos de la Empresa&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-de-la-empresa&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datos-de-la-empresa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Son los datos que aparecen en los documentos impresos.
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Se configura por el personal de Megas a la hora de instalar la aplicación
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
       </description>
     </item>
     
@@ -1497,6 +1535,19 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     </item>
     
     <item>
+      <title>Usuarios</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/usuarios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/usuarios/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Asignación de Lotes a Albaranes sin Lote</title>
       <link>http://localhost:1313/docs/movimientos/asiganciondelotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1540,6 +1591,19 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;/div&gt;
 
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Editar Mensaje de Entrada al Programa</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/mensaje-incio-programa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/mensaje-incio-programa/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     
@@ -2358,45 +2422,6 @@ Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/ventas/facturacion-grupo/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-manual-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ventas/facturacion-manual-1/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ventas/facturacion-periodica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ventas/facturacion-periodica/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/ventas/facturas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ventas/facturas/</guid>
       <description>
         
         

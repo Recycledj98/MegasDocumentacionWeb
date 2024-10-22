@@ -17,11 +17,12 @@
     <loc>http://localhost:1313/docs/movimientos/movimientoses/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-documentos/</loc>
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-de-documentos/</loc>
+    <lastmod>2024-10-22T09:15:56+02:00</lastmod>
   </url><url>
->>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-documentos/</loc>
+    <lastmod>2024-10-21T20:39:07+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</loc>
     <lastmod>2024-09-11T16:50:21+02:00</lastmod>
   </url><url>
@@ -34,11 +35,9 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</loc>
     <lastmod>2024-10-14T13:48:41+02:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
     <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/datos-empresa/</loc>
+    <lastmod>2024-10-22T09:15:56+02:00</lastmod>
   </url><url>
->>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
     <loc>http://localhost:1313/docs/movimientos/incidencias/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
   </url><url>
@@ -60,11 +59,17 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</loc>
     <lastmod>2024-10-14T13:48:41+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/usuarios/</loc>
+    <lastmod>2024-10-22T09:15:56+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/ventas/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/movimientos/asiganciondelotes/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/mensaje-incio-programa/</loc>
+    <lastmod>2024-10-22T09:15:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</loc>
     <lastmod>2024-10-14T13:48:50+02:00</lastmod>
@@ -104,6 +109,9 @@
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</loc>
     <lastmod>2024-10-18T16:38:56+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/</loc>
+    <lastmod>2024-10-22T09:15:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</loc>
     <lastmod>2024-10-18T16:38:56+02:00</lastmod>
@@ -156,11 +164,6 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</loc>
     <lastmod>2024-09-11T16:50:21+02:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-=======
-    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/</loc>
-  </url><url>
->>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
     <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/</loc>
     <lastmod>2024-09-09T15:02:17+02:00</lastmod>
   </url><url>
