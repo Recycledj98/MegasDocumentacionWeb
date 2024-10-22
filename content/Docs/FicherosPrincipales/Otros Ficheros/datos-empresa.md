@@ -5,6 +5,7 @@ weight: 2
 
 
 ## Datos de la Empresa
+
 En este apartado se introducen todos los datos relativos a nuestra empresa, a su vez, es la información que se mostrará en listados, facturas, albaranes etc...
 {{< callout type = info >}}
 Se configura por el personal de Megas durante la instalación de la aplicación.
@@ -32,11 +33,10 @@ Se pueden introducir varios telefonos precedidos de un espacio entre ellos
 
 - **Puntos por cada Euro**: Cantidad de puntos otorgados a cada cliente por cada cantidad estipulada de euros, por ejemplo, 1 punto por cada 10€ gastados.
 
-- **IVA/RE más habitual**: % de IVA y recargo que se usará de forma predeterminada al dar de alta un cliente. 
+- **IVA/RE más habitual**: % de IVA y recargo que se usará de forma predeterminada al dar de alta un cliente.
 
 - APP Gounila: ---
 
 - **Texto Pie Albarán/Factura**: Campo de texto libre que aparecerá al pie de los albaranes o facturas (El formato ha de estar previamente configurado).
 
 - **Registro Mercantil**: Campo de texto destinado al registro mercantil.
-
