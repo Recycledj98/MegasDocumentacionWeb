@@ -27,8 +27,25 @@ Los campos de mantenimiento son los siguientes:
   - Por ejemplo: Introduciendo 42 bloqueamos el acceso a los albaranes.
 - Solo Acceso TPV: Solo se permite el acceso a la aplicación desde una máquina de autoventa.
 
+- Impresora Especial: Indica una impresora a usar específica para el usuario.
+
 - Cobrar Parcial: (S) por defecto permite cobrar parcialmente albaranes, en caso de introducir (N) no permitirá el cobro parcial (Se deberá introducir 0 en el total neto).
 
 - Equivale Master: Indica si el usuario tiene los mismos permisos que el usuario Master.
 
 - Entrada Rápida: 
+
+- Realizar Cobros: Especifica si el usuario tiene permitido hacer cobros, admite dos valores, por defecto sí (S) o no (N).
+
+- Cobro Solo Cargas: Especifica si el usuario solo puede realizar cobros exclusivamente en las cargas. 
+
+- Pedir PVP Venta: 
+
+- Borra No Stock:
+
+- Canal:
+
+- Observación-1:
+
+- Observación-2:
+

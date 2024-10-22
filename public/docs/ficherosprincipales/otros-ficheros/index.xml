@@ -84,7 +84,81 @@
       <description>
         
         
-        
+        &lt;h2&gt;Datos de la empresa&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-de-la-empresa&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datos-de-la-empresa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado se recogen los datos relacionados a nuestra empresa.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/empre/DatosEmpre.png&#34; alt=&#34;Empresa&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Datos de la empresa&lt;/strong&gt;: Nombre de la empresa, dirección, población (CP-Población), CIF/DNI/NIE y teléfono&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      &lt;p&gt;Añadir más de un teléfono.&lt;/p&gt;
+&lt;p&gt;Para añadir más de un teléfono solo hemos de dar un espacio entre el primero y el siguiente.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Número de Almacen&lt;/strong&gt;: Almacen por defecto que usará la aplicación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Año Ejercicio&lt;/strong&gt;: Últimos dos dígitos del año de trabajo en curso.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ruta Venta Almacen&lt;/strong&gt;: Ruta que se usará para el movimiento de almacén.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Número Almacen Ecretaje&lt;/strong&gt;: Número de almacen destinado para el ecretaje.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Impuesto Graduación de Alcohol&lt;/strong&gt;: En caso de ser fabricantes hemos de estipular el impuesto de graduación en este campo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contador E/S Almacén&lt;/strong&gt;: Campo automático que registra el último código de movimiento de almacen. Se incrementa en 1 cada vez que hay un movimiento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Puntos por Euros&lt;/strong&gt;: Cantidad de puntos otorgados por cierta cantidad de euros gastados, por ejemplo: 15 puntos por cada 150€ gastados.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IVA/RE más Habitual&lt;/strong&gt;: % IVA y recargo de equivalencia que se aplicará por defecto al dar de alta un cliente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;App Gounila&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Texto Pie Factura/Albarán&lt;/strong&gt;: Campo de texto libre que aparecerá en la parte inferior de los formularios.
+Requiere previa configuración para que sean visibles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Registro Mercantil&lt;/strong&gt;: Campo destinado al código de registro mercantil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
@@ -154,6 +228,9 @@
 &lt;p&gt;Solo Acceso TPV: Solo se permite el acceso a la aplicación desde una máquina de autoventa.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;Impresora Especial: Indica una impresora a usar específica para el usuario.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Cobrar Parcial: (S) por defecto permite cobrar parcialmente albaranes, en caso de introducir (N) no permitirá el cobro parcial (Se deberá introducir 0 en el total neto).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -161,6 +238,27 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Entrada Rápida:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Realizar Cobros: Especifica si el usuario tiene permitido hacer cobros, admite dos valores, por defecto sí (S) o no (N).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cobro Solo Cargas: Especifica si el usuario solo puede realizar cobros exclusivamente en las cargas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pedir PVP Venta:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Borra No Stock:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Canal:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Observación-1:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Observación-2:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
