@@ -17,6 +17,11 @@
     <loc>http://localhost:1313/docs/movimientos/movimientoses/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/numeracion-documentos/</loc>
+  </url><url>
+>>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/pantallaclientes/</loc>
     <lastmod>2024-09-11T16:50:21+02:00</lastmod>
   </url><url>
@@ -29,6 +34,11 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</loc>
     <lastmod>2024-10-14T13:48:41+02:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/datos-empresa/</loc>
+  </url><url>
+>>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
     <loc>http://localhost:1313/docs/movimientos/incidencias/</loc>
     <lastmod>2024-09-12T15:20:34+02:00</lastmod>
   </url><url>
@@ -146,6 +156,11 @@
     <loc>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</loc>
     <lastmod>2024-09-11T16:50:21+02:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/</loc>
+  </url><url>
+>>>>>>> dc2133320f3a5f076db24b51bddbba5ed1678904
     <loc>http://localhost:1313/docs/ficherosprincipales/proveedores/</loc>
     <lastmod>2024-09-09T15:02:17+02:00</lastmod>
   </url><url>
