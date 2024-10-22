@@ -1,1 +1,83 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Megas Documentación Web –</title><link>https://example.org/docs/ficherosprincipales/</link><description>Recent content on Megas Documentación Web</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://example.org/docs/ficherosprincipales/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://example.org/docs/ficherosprincipales/articulos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/</guid><description/></item><item><title/><link>https://example.org/docs/ficherosprincipales/clientes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/</guid><description/></item><item><title/><link>https://example.org/docs/ficherosprincipales/proveedores/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/proveedores/</guid><description/></item><item><title/><link>https://example.org/docs/ficherosprincipales/representantes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/representantes/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ficherosprincipales/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/otros-ficheros/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/proveedores/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/representantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/representantes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

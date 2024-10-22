@@ -1,168 +1,470 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Megas Documentación Web –</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link><description>Recent content on Megas Documentación Web</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml"/><item><title>Formas de Pago</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid><description>
-&lt;p>Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p>
-&lt;p>Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/FormasDePago/FormadePago.png" alt="FormaDePago" loading="lazy" />&lt;/p>
-&lt;p>A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/FormasDePago/AltaForma.png" alt="FormaDePagoAlta" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Codigo de pago C&lt;/strong>: Código de la forma de pago. Es un campo alfanumérico.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Forma de pago&lt;/strong>: Nombre de la forma de pago.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Número de vencimientos&lt;/strong>: Número &lt;strong>total&lt;/strong> de vencimientos.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Desplazamiento 1-Vto&lt;/strong>: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Días entre Vencimientos&lt;/strong>: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Emitir Recibo&lt;/strong>: Si la forma de pago lleva asociada la impresión de un recibo elegiremos
-la opción S, si no hay recibo asociado dejaremos la opción por defecto N.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% Entrada&lt;/strong>: Porcentaje del total de la factura/albarán que se dará por cobrado automáticamente a la emisión del documento (albarán o factura).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% DTO PP&lt;/strong>: Porcentaje de descuento por pronto pago. Se aplicará automáticamente en
-las facturas de los clientes que tengan asociado la forma de pago.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Cuenta Contable&lt;/strong>: Cuenta de contrapartida a la que se destinará el cobro.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Descripción&lt;/strong>: Descripción del pago. Esta descripción aparecerá automáticamente al dar el pago de un vencimiento de una factura.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Total a/cta Vto&lt;/strong>: Total a cuenta vencimiento, indica si el total del vencimiento&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Recargo&lt;/strong>: Porcentaje de recargo antes de impuestos.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Riesgo Dias/Num&lt;/strong>: Riesgo en días o número de albaranes o facturas permitidas para esta forma de pago.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-ℹ️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-En el caso de que estipulemos 10 días de riesgo para albaranes o facturas, si el cliente con esa forma de pago tiene pagos pendientes de más de 10 días, se le inhabilita para la venta hasta que se paguen esos documentos. Lo mismo aplica para los días.
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;ul>
-&lt;li>&lt;strong>RETENC_PAG&lt;/strong>:&lt;/li>
-&lt;li>&lt;strong>Cobra Representante&lt;/strong>: Permite la posibilidad de que el representante pueda realizar cobros bajo esta forma de pago.&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-ℹ️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Ejemplo de formas de pago
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;img src="https://example.org/images/fondo.png" alt="fondo" loading="lazy" />&lt;/p></description></item><item><title>Tipos de Cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid><description>
-&lt;p>En este apartado se define el tipo de cliente dependiendo de su actividad y al sector al que pertenece.&lt;/p>
-&lt;p>Hay dos niveles, uno para indicar el &lt;strong>sector&lt;/strong> al que pertenece el cliente (Hosteleria, Alimentación, etc) y otro para indicar el &lt;strong>tipo&lt;/strong> dentro del sector.&lt;/p></description></item><item><title>Grupos de cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid><description>
-&lt;p>El programa nos permite definir grupos de cliente para posteriormente hacer uso de los mismos para aplicar ciertas condiciones o de cara a estadísticas.&lt;/p>
-&lt;p>Se compone de un código alfanumérico y un nombre descriptivo.&lt;/p></description></item><item><title>Zonas de cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid><description>
-&lt;p>Al igual que los grupos se permiten definir distintas zonas de venta con el fin de ubicar a cada cliente en una zona determinada y posteriormente obtener datos estadísticos.&lt;/p></description></item><item><title>Asignación de Zonas y/o Clases a Series de Facturación</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid><description>
-&lt;p>Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Auxiliares/ZonasSerie.png" alt="Alta" loading="lazy" />&lt;/p>
-&lt;p>Los campos a cumplimentar son:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Codigo Zona&lt;/strong>: Código de zona.&lt;/li>
-&lt;li>&lt;strong>Nivel-Clase&lt;/strong>: Nivel de la clase de artículo.&lt;/li>
-&lt;li>&lt;strong>Clase Artículo&lt;/strong>: Código de clase dentro del nivel.&lt;/li>
-&lt;li>&lt;strong>Serie Facturación&lt;/strong>: Serie de facturación a aplicar.&lt;/li>
-&lt;/ul>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-⚠️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Para poder aplicar esta funcionalidad deberemos tener previamente &lt;strong>activado el módulo de series en documentos&lt;/strong>
-&lt;/div>
-&lt;/div>
-&lt;/div></description></item><item><title>Tipo de Alta/Baja</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid><description>
-&lt;p>En este apartado se definen todos los posibles tipos de altas o bajas relacionados con la compentencia.&lt;/p></description></item><item><title>Clientes Nacionales</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid><description>
-&lt;h2>Clientes - Proveedores&lt;span class="hx-absolute -hx-mt-20" id="clientes---proveedores">&lt;/span>
-&lt;a href="#clientes---proveedores" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p>
-&lt;p>Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong>nacionales&lt;/strong>. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Auxiliares/Nacionales.png" alt="Nacional" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Código Cliente&lt;/strong>: Código del cliente.&lt;/li>
-&lt;li>&lt;strong>Código Porveedor&lt;/strong>: Código del proveedor.&lt;/li>
-&lt;li>&lt;strong>Código para Proveeedor&lt;/strong>: Código de cliente nacional.&lt;/li>
-&lt;li>&lt;strong>N.Proveedor (Cliente)&lt;/strong>: Código del proveedor - Revisar&lt;/li>
-&lt;li>&lt;strong>Valora&lt;/strong>: Especifica una serie de opciones que tomará el programa a la hora de tratar con el cliente.&lt;/li>
-&lt;li>&lt;strong>Número de copias Albarán&lt;/strong>: Especifica el número de copias que se imprimiran.&lt;/li>
-&lt;li>&lt;strong>Recibo albarán&lt;/strong>: Especifica si el albarán ha de ser un recibo.&lt;/li>
-&lt;/ul>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-🚨
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Al salir de esta ventana, el programa &lt;strong>actualizará automáticamente&lt;/strong> todos los registros de clientes proveedores.
-&lt;/div>
-&lt;/div>
-&lt;/div></description></item><item><title>Tipos de información</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid><description>
-&lt;p>Contiene la información comercial (serpentines, grifos, sombrillas&amp;hellip;) indicando el código de cada artículo, descripción y el código con el que Mahou lo identifica.&lt;/p></description></item><item><title>Características de Cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid><description/></item><item><title>SEPA - Códigos SWIFT de Bancos</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid><description>
-&lt;p>En esta pantalla se recogen los códigos SWIFT/BIC de los bancos.
-Es una tabla generada previamente y no es necesario modificarlo.&lt;/p></description></item><item><title>Condiciones de Bloqueo de Artículos</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid><description>
-&lt;p>Esta sección permite establecer condiciones específicas de bloqueo para un grupo de clientes o zonas.&lt;/p>
-&lt;p>Existen tres tipos de bloqueo disponibles:&lt;/p>
-&lt;ul>
-&lt;li>Bloqueo por zona&lt;/li>
-&lt;li>Bloqueo por código postal&lt;/li>
-&lt;li>Bloqueo por cliente&lt;/li>
-&lt;/ul>
-&lt;h3>Bloqueo por Zona&lt;span class="hx-absolute -hx-mt-20" id="bloqueo-por-zona">&lt;/span>
-&lt;a href="#bloqueo-por-zona" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>El bloqueo por zona permite restringir la venta de ciertos artículos en áreas específicas. Para utilizar esta opción, es necesario tener previamente definidas las zonas de venta.&lt;/p>
-&lt;h3>Bloqueo por Código Postal&lt;span class="hx-absolute -hx-mt-20" id="bloqueo-por-código-postal">&lt;/span>
-&lt;a href="#bloqueo-por-c%c3%b3digo-postal" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Esta opción permite bloquear ventas basadas en códigos postales. Es crucial tener correctamente configurado el código postal en la ficha del cliente mediante CP-Población.&lt;/p>
-&lt;h3>Bloqueo por Cliente&lt;span class="hx-absolute -hx-mt-20" id="bloqueo-por-cliente">&lt;/span>
-&lt;a href="#bloqueo-por-cliente" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Similar a las opciones anteriores, esta funcionalidad permite bloquear la venta de determinados artículos a clientes específicos.&lt;/p></description></item><item><title>Reordenar Rutas de cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid><description>
-&lt;p>Nos permite reordenar nuestro rutero introduciendo un intervalo de separación.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/ReordenarRutas.png" alt="ReordenarRutero" loading="lazy" />&lt;/p></description></item><item><title>Bonificaciones de Cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid><description>
-&lt;p>En esta pantalla se hace referencia a las bonificaciones destinadas a incentivar el
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Formas de Pago</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/formas-de-pago/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite definir las diferentes formas de pago, tanto para clientes como para proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando accedemos a esta pantalla se nos mostrará una ventana con todas las formas de pago definidas al igual que los botones relativos a las acciones que podremos realizar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/FormadePago.png&#34; alt=&#34;FormaDePago&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A la hora de crear una forma de pago podremos hacerlo mediante la botonera usando el botón de alta o mediante el atajo de teclado (Ctrl+A) lo cual nos abrirá una ventana con los siguientes campos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/FormasDePago/AltaForma.png&#34; alt=&#34;FormaDePagoAlta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Codigo de pago C&lt;/strong&gt;: Código de la forma de pago. Es un campo alfanumérico.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Forma de pago&lt;/strong&gt;: Nombre de la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Número de vencimientos&lt;/strong&gt;: Número &lt;strong&gt;total&lt;/strong&gt; de vencimientos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Desplazamiento 1-Vto&lt;/strong&gt;: Número de días que sumará a la fecha de factura para conformar el primer vencmiento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Días entre Vencimientos&lt;/strong&gt;: Días que habrá entre vencimientos en el caso de que haya más de uno.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emitir Recibo&lt;/strong&gt;: Si la forma de pago lleva asociada la impresión de un recibo elegiremos
+la opción S, si no hay recibo asociado dejaremos la opción por defecto N.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Entrada&lt;/strong&gt;: Porcentaje del total de la factura/albarán que se dará por cobrado automáticamente a la emisión del documento (albarán o factura).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% DTO PP&lt;/strong&gt;: Porcentaje de descuento por pronto pago. Se aplicará automáticamente en
+las facturas de los clientes que tengan asociado la forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta Contable&lt;/strong&gt;: Cuenta de contrapartida a la que se destinará el cobro.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Descripción&lt;/strong&gt;: Descripción del pago. Esta descripción aparecerá automáticamente al dar el pago de un vencimiento de una factura.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Total a/cta Vto&lt;/strong&gt;: Total a cuenta vencimiento, indica si el total del vencimiento&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Recargo&lt;/strong&gt;: Porcentaje de recargo antes de impuestos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Riesgo Dias/Num&lt;/strong&gt;: Riesgo en días o número de albaranes o facturas permitidas para esta forma de pago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      En el caso de que estipulemos 10 días de riesgo para albaranes o facturas, si el cliente con esa forma de pago tiene pagos pendientes de más de 10 días, se le inhabilita para la venta hasta que se paguen esos documentos. Lo mismo aplica para los días.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RETENC_PAG&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cobra Representante&lt;/strong&gt;: Permite la posibilidad de que el representante pueda realizar cobros bajo esta forma de pago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Ejemplo de formas de pago
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;http://localhost:1313/images/fondo.png&#34; alt=&#34;fondo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de Cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se define el tipo de cliente dependiendo de su actividad y al sector al que pertenece.&lt;/p&gt;
+&lt;p&gt;Hay dos niveles, uno para indicar el &lt;strong&gt;sector&lt;/strong&gt; al que pertenece el cliente (Hosteleria, Alimentación, etc) y otro para indicar el &lt;strong&gt;tipo&lt;/strong&gt; dentro del sector.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Grupos de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/grupos-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;El programa nos permite definir grupos de cliente para posteriormente hacer uso de los mismos para aplicar ciertas condiciones o de cara a estadísticas.&lt;/p&gt;
+&lt;p&gt;Se compone de un código alfanumérico y un nombre descriptivo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zonas de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/zonas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Al igual que los grupos se permiten definir distintas zonas de venta con el fin de ubicar a cada cliente en una zona determinada y posteriormente obtener datos estadísticos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asignación de Zonas y/o Clases a Series de Facturación</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/asignacion-zonas-clase-articulos/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Usando este apartado se permite asignar zonas o clases de artículo a distintas series de facturación con el fin de realizar una segregación de cara a la facturación y estadísticas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/ZonasSerie.png&#34; alt=&#34;Alta&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Los campos a cumplimentar son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codigo Zona&lt;/strong&gt;: Código de zona.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nivel-Clase&lt;/strong&gt;: Nivel de la clase de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase Artículo&lt;/strong&gt;: Código de clase dentro del nivel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serie Facturación&lt;/strong&gt;: Serie de facturación a aplicar.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Para poder aplicar esta funcionalidad deberemos tener previamente &lt;strong&gt;activado el módulo de series en documentos&lt;/strong&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipo de Alta/Baja</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipos-de-alta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En este apartado se definen todos los posibles tipos de altas o bajas relacionados con la compentencia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clientes Nacionales</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/clientes-proveedores/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clientes - Proveedores&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clientes---proveedores&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clientes---proveedores&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite establecer la correspondencia de los clientes nacionales con los proveedores.&lt;/p&gt;
+&lt;p&gt;Cuando ingresemos al apartado se nos mostrará un listado con todos los clientes dados de alta como &lt;strong&gt;nacionales&lt;/strong&gt;. Situándonos encima del registro que deseemos consultar o modificar y haciendo doble click o (Ctrl + M) se nos mostrará la ventana de modificación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Auxiliares/Nacionales.png&#34; alt=&#34;Nacional&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código Cliente&lt;/strong&gt;: Código del cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código Porveedor&lt;/strong&gt;: Código del proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código para Proveeedor&lt;/strong&gt;: Código de cliente nacional.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N.Proveedor (Cliente)&lt;/strong&gt;: Código del proveedor - Revisar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Valora&lt;/strong&gt;: Especifica una serie de opciones que tomará el programa a la hora de tratar con el cliente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Número de copias Albarán&lt;/strong&gt;: Especifica el número de copias que se imprimiran.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recibo albarán&lt;/strong&gt;: Especifica si el albarán ha de ser un recibo.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚨
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Al salir de esta ventana, el programa &lt;strong&gt;actualizará automáticamente&lt;/strong&gt; todos los registros de clientes proveedores.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de información</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/tipo-de-informacion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Contiene la información comercial (serpentines, grifos, sombrillas&amp;hellip;) indicando el código de cada artículo, descripción y el código con el que Mahou lo identifica.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Características de Cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/caracteristicas-de-cliente/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>SEPA - Códigos SWIFT de Bancos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/sepa-codigos-swift/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En esta pantalla se recogen los códigos SWIFT/BIC de los bancos.
+Es una tabla generada previamente y no es necesario modificarlo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Condiciones de Bloqueo de Artículos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/condiciones-de-bloqueo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta sección permite establecer condiciones específicas de bloqueo para un grupo de clientes o zonas.&lt;/p&gt;
+&lt;p&gt;Existen tres tipos de bloqueo disponibles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bloqueo por zona&lt;/li&gt;
+&lt;li&gt;Bloqueo por código postal&lt;/li&gt;
+&lt;li&gt;Bloqueo por cliente&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bloqueo por Zona&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-zona&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-zona&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El bloqueo por zona permite restringir la venta de ciertos artículos en áreas específicas. Para utilizar esta opción, es necesario tener previamente definidas las zonas de venta.&lt;/p&gt;
+&lt;h3&gt;Bloqueo por Código Postal&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-código-postal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-c%c3%b3digo-postal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Esta opción permite bloquear ventas basadas en códigos postales. Es crucial tener correctamente configurado el código postal en la ficha del cliente mediante CP-Población.&lt;/p&gt;
+&lt;h3&gt;Bloqueo por Cliente&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bloqueo-por-cliente&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bloqueo-por-cliente&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Similar a las opciones anteriores, esta funcionalidad permite bloquear la venta de determinados artículos a clientes específicos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reordenar Rutas de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reordenar-rutas-cliente/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nos permite reordenar nuestro rutero introduciendo un intervalo de separación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ReordenarRutas.png&#34; alt=&#34;ReordenarRutero&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bonificaciones de Cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En esta pantalla se hace referencia a las bonificaciones destinadas a incentivar el
 consumo de este cliente. Este tipo de bonificaciones supone una cantidad en euros
 que el concesionario le da al cliente en función al consumo que realice este en un
 periodo de tiempo estipulado.
-Estas bonificaciones no tienen por qué existir, a no ser que el concesionario las haya pactado con anterioridad con el cliente.&lt;/p>
-&lt;h2>Rangos de bonificaciones&lt;span class="hx-absolute -hx-mt-20" id="rangos-de-bonificaciones">&lt;/span>
-&lt;a href="#rangos-de-bonificaciones" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Para trabajar con las bonificaciones primeramente hemos de crear los &lt;strong>rangos de bonificacion&lt;/strong> .&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Bonifica/RangoBonificaciones.png" alt="Rango de Bonificacion" loading="lazy" />&lt;/p>
-&lt;p>En esta pantalla se nos iran mostrando las diferentes tablas que almacenan los rangos de bonificacion de los distintos tipos de artículos. Se nos permite hasta 10 rangos distintos donde podremos estipular hasta cuantas unindades aplica cada uno de ellos.&lt;/p>
-&lt;h2>Tabla de bonificaciones&lt;span class="hx-absolute -hx-mt-20" id="tabla-de-bonificaciones">&lt;/span>
-&lt;a href="#tabla-de-bonificaciones" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Una vez estipulados los rangos de bonificación podremos crear bonificaciones para nuestros clientes. La pantalla de la tabla de bonificaciones tiene el siguiente aspecto:&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Bonifica/TablaBonificaciones.png" alt="Tabla de Bonificicacion" loading="lazy" />&lt;/p>
-&lt;p>Nos permite de un vistazo rápido y mediante previo filtro de estado visualizar las bonificaciones activas que tenemos dadas de alta.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>COD-BONIF&lt;/strong>: Código de bonificación.&lt;/li>
-&lt;li>&lt;strong>TIPO&lt;/strong>: Tipo de artículo al cual aplica la bonificación.&lt;/li>
-&lt;li>&lt;strong>ARTICULO&lt;/strong>: Artículo al que aplica la bonificación.&lt;/li>
-&lt;li>&lt;strong>DESCRIPCIÓN&lt;/strong>: Descripción de la bonificación, si de deja en blanco, se rellena automáticamente en base al tipo de bonificación y tipo de artículo.&lt;/li>
-&lt;li>&lt;strong>PE&lt;/strong>: Periodicidad de la bonificación, puede ser A(Anual), S(Semestral) o T(Trimestral).&lt;/li>
-&lt;li>&lt;strong>A&lt;/strong>: Anticipo de la bonificación.&lt;/li>
-&lt;li>&lt;strong>PRECIO&lt;/strong>: Precio de la bonificación.&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid><description/></item><item><title>Cambio de Código de cliente</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid><description>
-&lt;p>Permite hacer un cambio completo de código de cliente. Nos exporta todos los datos relacionados con el cliente (Albaranes, promociones, pedidos, etc&amp;hellip;) de un código a otro.&lt;/p>
-&lt;p>El código nuevo deberá estar libre.&lt;/p></description></item><item><title>Reclasificación de Clientes</title><link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid><description>
-&lt;p>Esta opción nos permite realizar un proceso automático de reclasificación, asignando el estado de cliente en Inactivo y Potencial en función de los días continuos de consumo.&lt;/p>
-&lt;p>&lt;strong>Días Inactivos&lt;/strong>: Días totales SIN CONSUMO para clasificar al cliente como INACTIVO.&lt;/p>
-&lt;p>&lt;strong>Días Potenciales&lt;/strong>: Días totales &lt;strong>CON CONSUMO CONTINUADO&lt;/strong> para clasficar al cliente como POTENCIAL.&lt;/p></description></item></channel></rss>
+Estas bonificaciones no tienen por qué existir, a no ser que el concesionario las haya pactado con anterioridad con el cliente.&lt;/p&gt;
+&lt;h2&gt;Rangos de bonificaciones&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rangos-de-bonificaciones&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rangos-de-bonificaciones&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Para trabajar con las bonificaciones primeramente hemos de crear los &lt;strong&gt;rangos de bonificacion&lt;/strong&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Bonifica/RangoBonificaciones.png&#34; alt=&#34;Rango de Bonificacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En esta pantalla se nos iran mostrando las diferentes tablas que almacenan los rangos de bonificacion de los distintos tipos de artículos. Se nos permite hasta 10 rangos distintos donde podremos estipular hasta cuantas unindades aplica cada uno de ellos.&lt;/p&gt;
+&lt;h2&gt;Tabla de bonificaciones&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tabla-de-bonificaciones&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tabla-de-bonificaciones&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Una vez estipulados los rangos de bonificación podremos crear bonificaciones para nuestros clientes. La pantalla de la tabla de bonificaciones tiene el siguiente aspecto:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Bonifica/TablaBonificaciones.png&#34; alt=&#34;Tabla de Bonificicacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Nos permite de un vistazo rápido y mediante previo filtro de estado visualizar las bonificaciones activas que tenemos dadas de alta.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;COD-BONIF&lt;/strong&gt;: Código de bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TIPO&lt;/strong&gt;: Tipo de artículo al cual aplica la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARTICULO&lt;/strong&gt;: Artículo al que aplica la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DESCRIPCIÓN&lt;/strong&gt;: Descripción de la bonificación, si de deja en blanco, se rellena automáticamente en base al tipo de bonificación y tipo de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PE&lt;/strong&gt;: Periodicidad de la bonificación, puede ser A(Anual), S(Semestral) o T(Trimestral).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt;: Anticipo de la bonificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PRECIO&lt;/strong&gt;: Precio de la bonificación.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/importacion-exportacion-precios-especiales/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Cambio de Código de cliente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/cambio-codigo-cliente/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Permite hacer un cambio completo de código de cliente. Nos exporta todos los datos relacionados con el cliente (Albaranes, promociones, pedidos, etc&amp;hellip;) de un código a otro.&lt;/p&gt;
+&lt;p&gt;El código nuevo deberá estar libre.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reclasificación de Clientes</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/reclasificacion-de-clientes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta opción nos permite realizar un proceso automático de reclasificación, asignando el estado de cliente en Inactivo y Potencial en función de los días continuos de consumo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Inactivos&lt;/strong&gt;: Días totales SIN CONSUMO para clasificar al cliente como INACTIVO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Días Potenciales&lt;/strong&gt;: Días totales &lt;strong&gt;CON CONSUMO CONTINUADO&lt;/strong&gt; para clasficar al cliente como POTENCIAL.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

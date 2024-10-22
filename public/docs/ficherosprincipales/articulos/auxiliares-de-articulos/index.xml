@@ -1,288 +1,610 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Megas Documentación Web –</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link><description>Recent content on Megas Documentación Web</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/index.xml" rel="self" type="application/rss+xml"/><item><title>Familias</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid><description>
-&lt;h2>Familias de Artículo&lt;span class="hx-absolute -hx-mt-20" id="familias-de-artículo">&lt;/span>
-&lt;a href="#familias-de-art%c3%adculo" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Las familias de artículos nos permite agrupar los distintos tipos de artículos bajo un único grupo con el fín de realizar gestiones sobre ellos o catalogarlos y posteriormente obtener datos estadísticos.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Familias.png" alt="Pantalla Articulos" loading="lazy" />&lt;/p>
-&lt;p>Como se puede observar en la imagen, se destacan tres campos principales: Código, Nombre y % Control de Precio.&lt;/p>
-&lt;p>Código: Es un identificador alfanumérico que se utiliza para identificar internamente a la familia de productos.&lt;/p>
-&lt;p>Nombre: Corresponde a la descripción o nombre que facilita la identificación de la familia.&lt;/p>
-&lt;p>% Control de Precio: Este campo permite controlar los descuentos aplicados a una familia de productos. A través del listado 6.1.6, se puede verificar si el descuento aplicado ha superado el porcentaje establecido en este campo.&lt;/p></description></item><item><title>Clases</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid><description>
-&lt;h2>Clases de Artículos&lt;span class="hx-absolute -hx-mt-20" id="clases-de-artículos">&lt;/span>
-&lt;a href="#clases-de-art%c3%adculos" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Permite definir las distintas clases que conforman un artículo, es decir, su tipo y subtipos permitiendonos tener una jerarquía organizada de cara a obtener datos estadísticos.&lt;/p>
-&lt;p>Se permite definir un artículo en un máximo de 5 niveles jerarquicos, desde el punto de vista más general al más especifico.&lt;/p>
-&lt;p>&lt;em>&lt;strong>Se recomienda tener definidos al menos los tres prmieros niveles&lt;/strong>&lt;/em> para un &lt;strong>correcto&lt;/strong> funcionamiento del módulo de estadisticas.&lt;/p>
-&lt;p>La pantalla principal de mantenimiento de clases nos muestra una vista previa de todas las clases que tenemos dadas de alta.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megas Documentación Web – </title>
+    <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
+    <description>Recent content on Megas Documentación Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    
+	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Familias</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Familias de Artículo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;familias-de-artículo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#familias-de-art%c3%adculo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las familias de artículos nos permite agrupar los distintos tipos de artículos bajo un único grupo con el fín de realizar gestiones sobre ellos o catalogarlos y posteriormente obtener datos estadísticos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Como se puede observar en la imagen, se destacan tres campos principales: Código, Nombre y % Control de Precio.&lt;/p&gt;
+&lt;p&gt;Código: Es un identificador alfanumérico que se utiliza para identificar internamente a la familia de productos.&lt;/p&gt;
+&lt;p&gt;Nombre: Corresponde a la descripción o nombre que facilita la identificación de la familia.&lt;/p&gt;
+&lt;p&gt;% Control de Precio: Este campo permite controlar los descuentos aplicados a una familia de productos. A través del listado 6.1.6, se puede verificar si el descuento aplicado ha superado el porcentaje establecido en este campo.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clases</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Clases de Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clases-de-artículos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clases-de-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Permite definir las distintas clases que conforman un artículo, es decir, su tipo y subtipos permitiendonos tener una jerarquía organizada de cara a obtener datos estadísticos.&lt;/p&gt;
+&lt;p&gt;Se permite definir un artículo en un máximo de 5 niveles jerarquicos, desde el punto de vista más general al más especifico.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Se recomienda tener definidos al menos los tres prmieros niveles&lt;/strong&gt;&lt;/em&gt; para un &lt;strong&gt;correcto&lt;/strong&gt; funcionamiento del módulo de estadisticas.&lt;/p&gt;
+&lt;p&gt;La pantalla principal de mantenimiento de clases nos muestra una vista previa de todas las clases que tenemos dadas de alta.
 Al situarnos sobre una de ellas o haciendo doble click se nos abrirá el menú de modificación.
-Este menú sirve para modificar la clase seleccionada o para dar una nueva clase de alta mediante el botón de Alta o &lt;em>&lt;strong>Ctrl + A&lt;/strong>&lt;/em>&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Clases2.png" alt="Pantalla Clases" loading="lazy" />&lt;/p>
-&lt;p>En la imagen se pueden apreciar los siguientes campos:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Código&lt;/strong>: Código de la clase. (Se recomienda una combinación de 2 sílabas)&lt;/li>
-&lt;li>&lt;strong>Nivel- Clase&lt;/strong>: Nivel de clase.
--&lt;strong>Nombre&lt;/strong>: Nombre descriptivo de la clase.&lt;/li>
-&lt;li>&lt;strong>Tarifa Liquidación&lt;/strong>: Permite especificar una de las seis posibles tarifas de venta que se aplicará a la hora de generar la liquidación con los proveedores.&lt;/li>
-&lt;li>&lt;strong>Tarifa Inc x Ud&lt;/strong>: -Por rellenar-&lt;/li>
-&lt;li>&lt;strong>P/Coste a Dtos&lt;/strong>: Permite especificar si se aplicará &lt;em>&lt;strong>por omisión&lt;/strong>&lt;/em> el precio de coste a los descuentos.&lt;/li>
-&lt;li>&lt;strong>Cuenta Ventas&lt;/strong>: Cuenta de venta asociada a la clase.&lt;/li>
-&lt;li>&lt;strong>Cuenta Compras&lt;/strong>: Cuenta de compras asociada a la clase.&lt;/li>
-&lt;li>&lt;strong>Cuenta Manipulación&lt;/strong>: Cuenta de manipulación asociada a la clase.&lt;/li>
-&lt;li>&lt;strong>Dto Máximo %/-Eur&lt;/strong>: Descuento máximo en porcentaje o en euros aplicados a la clase.&lt;/li>
-&lt;li>&lt;strong>%Mrg PVPX&lt;/strong>: % De margen de beneficio aplicado a las tarifas de venta.&lt;/li>
-&lt;/ul>
-&lt;p>Esquema de clases de artículo&lt;/p>
-&lt;pre class="mermaid hx-mt-6">%%{init: {'theme': 'default'}}%%
+Este menú sirve para modificar la clase seleccionada o para dar una nueva clase de alta mediante el botón de Alta o &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen se pueden apreciar los siguientes campos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código de la clase. (Se recomienda una combinación de 2 sílabas)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nivel- Clase&lt;/strong&gt;: Nivel de clase.
+-&lt;strong&gt;Nombre&lt;/strong&gt;: Nombre descriptivo de la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa Liquidación&lt;/strong&gt;: Permite especificar una de las seis posibles tarifas de venta que se aplicará a la hora de generar la liquidación con los proveedores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarifa Inc x Ud&lt;/strong&gt;: -Por rellenar-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P/Coste a Dtos&lt;/strong&gt;: Permite especificar si se aplicará &lt;em&gt;&lt;strong&gt;por omisión&lt;/strong&gt;&lt;/em&gt; el precio de coste a los descuentos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Ventas&lt;/strong&gt;: Cuenta de venta asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Compras&lt;/strong&gt;: Cuenta de compras asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuenta Manipulación&lt;/strong&gt;: Cuenta de manipulación asociada a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dto Máximo %/-Eur&lt;/strong&gt;: Descuento máximo en porcentaje o en euros aplicados a la clase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;%Mrg PVPX&lt;/strong&gt;: % De margen de beneficio aplicado a las tarifas de venta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Esquema de clases de artículo&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;%%{init: {&#39;theme&#39;: &#39;default&#39;}}%%
+
 flowchart TB
-subgraph Nivel - 1
-CE["Nivel 1: CE"]
-end
-subgraph Nivel - 2
-MH["Nivel 2: MH"]
-SM["Nivel 2: SM"]
-end
-subgraph Nivel - 3
-CL["Nivel 3: CL"]
-SE["Nivel 3: 5E"]
-QO["Nivel 3: 0.0"]
-ES["Nivel 3: ES"]
-end
-subgraph Nivel - 4
-RE["Nivel 4: RE"]
-NR["Nivel 4: NR"]
-BA["Nivel 4: BA"]
-end
-subgraph Nivel - 5
-PC["Nivel 5: Promoción cruzada"]
-end
-CE --> MH
-CE --> SM
-MH --> CL
-MH --> SE
-SM --> QO
-SM --> ES
-CL --> RE
-SE --> NR
-QO --> NR
-ES --> BA
-RE --> PC
-NR --> PC
-BA --> PC&lt;/pre>&lt;p>En este gráfico tenemos como ejemplo:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Nivel 1: Cerveza (CE).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Nivel 2: Mahou (MH) o San Miguel (SM).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Nivel 3: Clásica (CL), Cinco Estrellas (5E), Sin alcohol (0.0) o Especial (ES).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Nivel 4: Retornable (RE), No Retornable (NR), Barril (BA).&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Tipos de IVA</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid><description>
-&lt;h2>Tipos de Impuesto sobre Valor Añadido (IVA)&lt;span class="hx-absolute -hx-mt-20" id="tipos-de-impuesto-sobre-valor-añadido-iva">&lt;/span>
-&lt;a href="#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://example.org/docs/images/Articulos/IVA.png" alt="IVAS" loading="lazy" />&lt;/p>
-&lt;p>El programa ya está preparado para trabajar con los valores introducidos en este apartado.
-Para que se apliquen correctamente deberemos asignar el código del IVA correspondiente a nuestros artículos en su ficha de artículo.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/IVA2.png" alt="IVAS-Creacion" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Código&lt;/strong>: Código Interno del impuesto.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Impuesto&lt;/strong>: Descripción del impuesto.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% IVA&lt;/strong>: % de IVA que se aplicará.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% Rec. Equivalencia&lt;/strong>: % de Recargo de Equivalencia que se aplicará.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% IVA F&lt;/strong>: % de IVA que se aplicará en la serie F.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>% Rec. Equivalencia F&lt;/strong>: % de Recargo de Equivalencia que aplicará en la serie F.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Cuenta IVA&lt;/strong>: Cuenta contable para IVA.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Cta IVA+Rec.Equ&lt;/strong>: Cuenta contable destinada para la cuenta contable IVA más Recargo de equivalencia.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Cta Rec.Equiv&lt;/strong>: Cuenta contable destinada al Recargo de Equivalencia.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Cta IVA Compras&lt;/strong>: Cuenta contable destinada para el IVA en las compras.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Tipos de Impuestos Especiales</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid><description>
-&lt;h2>Impuesto Especial del Alcohol&lt;span class="hx-absolute -hx-mt-20" id="impuesto-especial-del-alcohol">&lt;/span>
-&lt;a href="#impuesto-especial-del-alcohol" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>En este apartado se definen los impuestos especiales asociados a la fabricación de alcohol.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Especial.png" alt="Impuesto Alcohol" loading="lazy" />&lt;/p>
-&lt;p>En la imagen podemos apreciar tres campos numericos correspondientes al valor añadido.&lt;/p></description></item><item><title>Copia entre Tarifas</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid><description>
-&lt;p>Esta fucionalidad permite realizar una copia de tarifas de manera automática aplicando previamente una serie de filtros.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/articulos/CopiaTarifas.png" alt="CopiaTarifas" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>Tarifa Origen / Destino: Menú desplegable que permite seleccionar la &lt;strong>tarifa origen&lt;/strong> que se desea copiar y la &lt;strong>tarifa destino&lt;/strong> donde se aplicará la copia.&lt;/li>
-&lt;li>Clase 1-5: Filtro que permite seleccionar exclusivamente aquellos artículos que pertenecen a la clase especificada.&lt;/li>
-&lt;li>Código Familia: Filtro que permite seleccionar solo aquellos artículos que pertenecen a la familia estipulada.&lt;/li>
-&lt;li>Código Proveedor: Filtro que permite seleccionar los artículos en función de su código de proveedor.&lt;/li>
-&lt;li>Artículo Inicial y final: Filtro de artículos inicial y final, en caso de querer actualizar soólo un rango.&lt;/li>
-&lt;/ul></description></item><item><title>Modificación de Tarifas</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid><description>
-&lt;p>Esta pantalla nos permite realizar modificaciones generales sobre nuestras tarifas de venta por medio de la entrada de una serie de filtros.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/articulos/ModificacionTarifas.png" alt="ModificaTarifas" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>% de Variación: Define el porcentaje de variación sobre la tarifa. En función del valor introducido, el programa calculará la nueva tarifa aplicando este margen de variación.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Eur. Lineal: Realiza una modificación similar al % de Variación, pero aplicando el ajuste en euros en lugar de porcentajes.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Clase 1-2 Inicial y Final: Filtra los artículos en función de su clase, especificando un rango para delimitar los artículos a modificar.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Familia Inicial y Final: Filtra los artículos en función del código de familia, especificando un rango que define los artículos que recibirán la modificación.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tipo de Artículo: Filtra los artículos por su tipo específico, aplicando la modificación a aquellos que cumplen con este criterio.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Artículo Inicial y Final: Permite delimitar un rango de artículos sobre los cuales se realizará la modificación.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tarifa Origen: Define la tarifa de referencia desde la cual se aplicará la modificación.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tarifa Destino: Tarifa en la cual se hará efectiva la modificación. Puede coincidir con la tarifa origen si se desea.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Nº Decimales: Establece el número de decimales de redondeo para el valor de la tarifa.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Redondear 0 - 5: Al activar esta opción, el redondeo se aplicará al alza (5). Si no se activa, el redondeo se realizará hacia 0.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Entrada rápida de Tarifas</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid><description>
-&lt;p>Esta funcionalidad nos permite modificar todas las tarifas de nuestros artículos de manera rápida.&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-⚠️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Esta funcionalidad &lt;strong>NO&lt;/strong> se debe usar si tenemos el módulo de &lt;strong>trazabilidad&lt;/strong> activo.
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;p>Nos permite filtar previamente mediante una serie de filtos de artículo.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Entrada.png" alt="Filtro" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Cod. Proveedor&lt;/strong>: Permite filtrar por los artículos de un proveedor.&lt;/li>
-&lt;li>&lt;strong>Clase 1/2&lt;/strong>: Permite filtrar por las clases 1 y 2 de artículo.&lt;/li>
-&lt;li>&lt;strong>Código / Alfabetico&lt;/strong>: Permite determinar la ordenación de los artículos, por código de artículo o por orden alfabético.&lt;/li>
-&lt;li>&lt;strong>Activo&lt;/strong>: Permite filtar por artículos activos, no activos o ambos.&lt;/li>
-&lt;/ul>
-&lt;p>Una vez introducidos los filtros el programa nos mostrará una pantalla con los artículos y sus tarifas y mediante las flechas del teclado nos podremos mover.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Entrada2.png" alt="Filtro-Principal" loading="lazy" />&lt;/p>
-&lt;p>Posicionandonos encima de la tarifa que deseamos modificar y mediante el teclado numérico podremos modificar la tarifa.&lt;/p></description></item><item><title>Histórico de Tarifas</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid><description>
-&lt;p>El histórico de tarifas nos permite almacenar las tarifas de nuestros productos en una fecha determinada.&lt;/p>
-&lt;p>Consta de tres principales opciones&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Historico1.png" alt="Historico de tarifas" loading="lazy" />&lt;/p>
-&lt;h3>Guardar en el Histórico de Tarifas&lt;span class="hx-absolute -hx-mt-20" id="guardar-en-el-histórico-de-tarifas">&lt;/span>
-&lt;a href="#guardar-en-el-hist%c3%b3rico-de-tarifas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Permite guardar las tarifas mediante previo filtro en el histórico de tarifas.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Historico2.png" alt="Historico de tarifas Guardar" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>Fecha de tarifa: Fecha de tarifa a guardar, por omisión el día actual.&lt;/li>
-&lt;li>Proveedor: Permite guardar las tarifas de un único proveedor, si se deja en blanco, guarda todos los proveedores.&lt;/li>
-&lt;/ul>
-&lt;h3>Recuperar del Histórico de Tarifas&lt;span class="hx-absolute -hx-mt-20" id="recuperar-del-histórico-de-tarifas">&lt;/span>
-&lt;a href="#recuperar-del-hist%c3%b3rico-de-tarifas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Permite recuperar las tarifas mediante previo filtro.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Historico2.png" alt="Historico de tarifas Recuperar" loading="lazy" />&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-red-200 hx-bg-red-100 hx-text-red-900 dark:hx-border-red-200/30 dark:hx-bg-red-900/30 dark:hx-text-red-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-🚫
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Este proceso sustituirá las tarifas actuales por las existentes en la fecha indicada, se recomienda realizar una copia de seguridad de nuestras tarifas antes de proceder.
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h3>Borrado de Tarifa del Histórico de Tarifas&lt;span class="hx-absolute -hx-mt-20" id="borrado-de-tarifa-del-histórico-de-tarifas">&lt;/span>
-&lt;a href="#borrado-de-tarifa-del-hist%c3%b3rico-de-tarifas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Borra del Histórico de Tarifas las tarifas seleccionadas mediante previo filtro.
-Esta acción es &lt;strong>irreversible&lt;/strong>.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/Historico2.png" alt="Historico de tarifas Borrar" loading="lazy" />&lt;/p>
-&lt;h3>Mantenimiento del Histórico de Tarifas&lt;span class="hx-absolute -hx-mt-20" id="mantenimiento-del-histórico-de-tarifas">&lt;/span>
-&lt;a href="#mantenimiento-del-hist%c3%b3rico-de-tarifas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Permite visualizar las tarifas que tenemos almacenadas y realizar operaciones de alta, baja o modificación.
-&lt;img src="https://example.org/docs/images/Articulos/Historico3.png" alt="Historico de tarifas Borrar" loading="lazy" />&lt;/p></description></item><item><title>Exportación de Tarifas a Excel</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid><description>
-&lt;p>La aplicación nos permite mediante previo filtro exportar nuestros artículos a formato excel desde donde podremos realizar las modificaciones o operaciones de alta.&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-ℹ️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-Se exporta con formato &lt;strong>XLS&lt;/strong>, es decir, en formato Microsoft Office 2003.
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/FiltroA.png" alt="Filtro Artículos" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Artículo Incial/Final&lt;/strong>: Permite especificar un rango de artículos. (Se debe introducir el &lt;strong>código del artículo&lt;/strong>).&lt;/li>
-&lt;li>&lt;strong>Familia Inicial/Final&lt;/strong>: Permite especificar un rango de familias o una familia determinada introduciendo el mismo código.&lt;/li>
-&lt;li>&lt;strong>Proveedor Inicial/Final&lt;/strong>: Permite seleccionar por proveedor o rango de proveedores.&lt;/li>
-&lt;li>&lt;strong>Tipo de artículo&lt;/strong>: Especifica el tipo de artículo a exportar.&lt;/li>
-&lt;li>&lt;strong>Clase x Incial/Final&lt;/strong>: Especifica el código de clase a exportar desde el nivel más alto (Clase 1) al más bajo (Clase 5). Por defecto se exportan todas las clases.&lt;/li>
-&lt;li>&lt;strong>Incluir Ecotasa&lt;/strong>: Si se marca exporta los campos destinados al impuesto de compra y de venta.&lt;/li>
-&lt;li>&lt;strong>Activo S/N&lt;/strong>: Permite exportar todos los artículos activos o los no activos. Por omisión exporta ambos.&lt;/li>
-&lt;li>&lt;strong>Filtro Manual&lt;/strong>: Permite introducir instrucciones en SQL para obtener datos más precisos.&lt;/li>
-&lt;/ul></description></item><item><title>Importación de Tarifas desde Excel</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid><description>
-&lt;p>La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href="https://example.org/Descargas/Plantilla-Articulos.xls" >Descargar Plantilla de importación&lt;/a>&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-⚠️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-El formato de la plantilla ha de ser &lt;strong>XLS&lt;/strong>, es decir, formato Microsoft Office 2003 o de lo contario nos dará un error.
-&lt;/div>
-&lt;/div>
-&lt;/div></description></item><item><title>Crear y/o modificar artículos desde Excel</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid><description>
-&lt;p>SIN USO&lt;/p></description></item><item><title>Cambio de código de Artículo</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid><description>
-&lt;p>Nos permite realizar un cambio de código de artículo, lo que nos movería &lt;strong>todo&lt;/strong> lo relacionado con ese código al nuevo asignado.&lt;/p>
-&lt;p>En caso de que el nuevo código ya exista, el programa nos permitirá &lt;strong>fusionar&lt;/strong> ambos códigos.&lt;/p></description></item><item><title>Duplicar Precios Especiales/Bonificaciones/Promociones</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid><description/></item><item><title>Asignar Stock Minimo automáticamente</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid><description>
-&lt;p>El programa cuenta con un sistema de gestión de almacenes que permite definir un stock mínimo, el cual representa el margen de seguridad de producto que debe mantenerse en el inventario. Cuando el nivel de stock alcanza esta cantidad mínima, el sistema emitirá avisos automáticos cada vez que se realice una venta, informando sobre la cantidad insuficiente de producto disponible.&lt;/p>
-&lt;p>El programa ofrece una funcionalidad para realizar una &lt;strong>previsión de compras&lt;/strong> basada en el &lt;strong>consumo registrado&lt;/strong> durante un rango de fechas determinado y considerando un número de días de previsión.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/Articulos/AsignaStock.png" alt="Previsión de comrpas" loading="lazy" />&lt;/p>
-&lt;p>Nos permite filtar por código de proveedor, código de artículo, familia y tipo.&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Fecha Inicial y Final: Nos permite seleccionar el rango de fechas el cual se usará para calcular el stock minimo en función del consumo. Como recomendación se aconseja usar las fechas del año anterior.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dias previsión: Número de días a calcular en función de las fechas anteriormente introducidas, por defecto 5.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Almacen: Almacén a calcular.&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>Baja/Desactivar Artículos</title><link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid><description>
-&lt;p>Esta funcionalidad permite, tras aplicar un filtro de artículos, identificar aquellos que se encuentran &lt;strong>sin stock&lt;/strong> dentro de un rango de fechas determinado. Una vez identificados, se pueden desactivar o eliminar para mantener una base de datos optimizada y actualizada.&lt;/p>
-&lt;p>&lt;img src="https://example.org/docs/images/articulos/Baja.png" alt="Baja/Elimina" loading="lazy" />&lt;/p>
-&lt;div class="hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200">
-&lt;div class="ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2">&lt;div class="hx-select-none hx-text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
-ℹ️
-&lt;/div>&lt;/div>
-&lt;div class="hx-w-full hx-min-w-0 hx-leading-7">
-&lt;div class="hx-mt-6 hx-leading-7 first:hx-mt-0">
-&lt;p>Información importante previa acción&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Se aconseja &lt;strong>desactivar&lt;/strong> los artículos sin stock, ya que su peso en la base de datos es muy reducido. Al desactivarlos, &lt;strong>seguirán estando disponibles&lt;/strong> para consultas, estadísticas y comparaciones con años anteriores.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>En caso de optar por eliminar un artículo, ten en cuenta que este proceso es &lt;strong>permanente e irreversible&lt;/strong>, eliminando toda la información relacionada con el.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+    subgraph Nivel - 1
+        CE[&#34;Nivel 1: CE&#34;]
+    end
+
+    subgraph Nivel - 2
+        MH[&#34;Nivel 2: MH&#34;]
+        SM[&#34;Nivel 2: SM&#34;]
+    end
+
+    subgraph Nivel - 3
+        CL[&#34;Nivel 3: CL&#34;]
+        SE[&#34;Nivel 3: 5E&#34;]
+        QO[&#34;Nivel 3: 0.0&#34;]
+        ES[&#34;Nivel 3: ES&#34;]
+    end
+
+    subgraph Nivel - 4
+        RE[&#34;Nivel 4: RE&#34;]
+        NR[&#34;Nivel 4: NR&#34;]
+        BA[&#34;Nivel 4: BA&#34;]
+    end
+
+    subgraph Nivel - 5
+        PC[&#34;Nivel 5: Promoción cruzada&#34;]
+    end
+
+    CE --&gt; MH
+    CE --&gt; SM
+
+    MH --&gt; CL
+    MH --&gt; SE
+    SM --&gt; QO
+    SM --&gt; ES
+
+    CL --&gt; RE
+    SE --&gt; NR
+    QO --&gt; NR
+    ES --&gt; BA
+
+    RE --&gt; PC
+    NR --&gt; PC
+    BA --&gt; PC&lt;/pre&gt;&lt;p&gt;En este gráfico tenemos como ejemplo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 1: Cerveza (CE).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 2: Mahou (MH) o San Miguel (SM).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 3: Clásica (CL), Cinco Estrellas (5E), Sin alcohol (0.0) o Especial (ES).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel 4: Retornable (RE), No Retornable (NR), Barril (BA).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de IVA</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Tipos de Impuesto sobre Valor Añadido (IVA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tipos-de-impuesto-sobre-valor-añadido-iva&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El programa ya está preparado para trabajar con los valores introducidos en este apartado.
+Para que se apliquen correctamente deberemos asignar el código del IVA correspondiente a nuestros artículos en su ficha de artículo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código Interno del impuesto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Impuesto&lt;/strong&gt;: Descripción del impuesto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% IVA&lt;/strong&gt;: % de IVA que se aplicará.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Rec. Equivalencia&lt;/strong&gt;: % de Recargo de Equivalencia que se aplicará.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% IVA F&lt;/strong&gt;: % de IVA que se aplicará en la serie F.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;% Rec. Equivalencia F&lt;/strong&gt;: % de Recargo de Equivalencia que aplicará en la serie F.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuenta IVA&lt;/strong&gt;: Cuenta contable para IVA.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta IVA+Rec.Equ&lt;/strong&gt;: Cuenta contable destinada para la cuenta contable IVA más Recargo de equivalencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta Rec.Equiv&lt;/strong&gt;: Cuenta contable destinada al Recargo de Equivalencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cta IVA Compras&lt;/strong&gt;: Cuenta contable destinada para el IVA en las compras.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tipos de Impuestos Especiales</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Impuesto Especial del Alcohol&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impuesto-especial-del-alcohol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#impuesto-especial-del-alcohol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado se definen los impuestos especiales asociados a la fabricación de alcohol.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En la imagen podemos apreciar tres campos numericos correspondientes al valor añadido.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Copia entre Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta fucionalidad permite realizar una copia de tarifas de manera automática aplicando previamente una serie de filtros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tarifa Origen / Destino: Menú desplegable que permite seleccionar la &lt;strong&gt;tarifa origen&lt;/strong&gt; que se desea copiar y la &lt;strong&gt;tarifa destino&lt;/strong&gt; donde se aplicará la copia.&lt;/li&gt;
+&lt;li&gt;Clase 1-5: Filtro que permite seleccionar exclusivamente aquellos artículos que pertenecen a la clase especificada.&lt;/li&gt;
+&lt;li&gt;Código Familia: Filtro que permite seleccionar solo aquellos artículos que pertenecen a la familia estipulada.&lt;/li&gt;
+&lt;li&gt;Código Proveedor: Filtro que permite seleccionar los artículos en función de su código de proveedor.&lt;/li&gt;
+&lt;li&gt;Artículo Inicial y final: Filtro de artículos inicial y final, en caso de querer actualizar soólo un rango.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Modificación de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta pantalla nos permite realizar modificaciones generales sobre nuestras tarifas de venta por medio de la entrada de una serie de filtros.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;% de Variación: Define el porcentaje de variación sobre la tarifa. En función del valor introducido, el programa calculará la nueva tarifa aplicando este margen de variación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eur. Lineal: Realiza una modificación similar al % de Variación, pero aplicando el ajuste en euros en lugar de porcentajes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clase 1-2 Inicial y Final: Filtra los artículos en función de su clase, especificando un rango para delimitar los artículos a modificar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Familia Inicial y Final: Filtra los artículos en función del código de familia, especificando un rango que define los artículos que recibirán la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tipo de Artículo: Filtra los artículos por su tipo específico, aplicando la modificación a aquellos que cumplen con este criterio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artículo Inicial y Final: Permite delimitar un rango de artículos sobre los cuales se realizará la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tarifa Origen: Define la tarifa de referencia desde la cual se aplicará la modificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tarifa Destino: Tarifa en la cual se hará efectiva la modificación. Puede coincidir con la tarifa origen si se desea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nº Decimales: Establece el número de decimales de redondeo para el valor de la tarifa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Redondear 0 - 5: Al activar esta opción, el redondeo se aplicará al alza (5). Si no se activa, el redondeo se realizará hacia 0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Entrada rápida de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta funcionalidad nos permite modificar todas las tarifas de nuestros artículos de manera rápida.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Esta funcionalidad &lt;strong&gt;NO&lt;/strong&gt; se debe usar si tenemos el módulo de &lt;strong&gt;trazabilidad&lt;/strong&gt; activo.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nos permite filtar previamente mediante una serie de filtos de artículo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cod. Proveedor&lt;/strong&gt;: Permite filtrar por los artículos de un proveedor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase 1/2&lt;/strong&gt;: Permite filtrar por las clases 1 y 2 de artículo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Código / Alfabetico&lt;/strong&gt;: Permite determinar la ordenación de los artículos, por código de artículo o por orden alfabético.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activo&lt;/strong&gt;: Permite filtar por artículos activos, no activos o ambos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Una vez introducidos los filtros el programa nos mostrará una pantalla con los artículos y sus tarifas y mediante las flechas del teclado nos podremos mover.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Posicionandonos encima de la tarifa que deseamos modificar y mediante el teclado numérico podremos modificar la tarifa.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Histórico de Tarifas</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
+      <description>
+        
+        
+        &lt;p&gt;El histórico de tarifas nos permite almacenar las tarifas de nuestros productos en una fecha determinada.&lt;/p&gt;
+&lt;p&gt;Consta de tres principales opciones&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Guardar en el Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;guardar-en-el-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#guardar-en-el-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite guardar las tarifas mediante previo filtro en el histórico de tarifas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fecha de tarifa: Fecha de tarifa a guardar, por omisión el día actual.&lt;/li&gt;
+&lt;li&gt;Proveedor: Permite guardar las tarifas de un único proveedor, si se deja en blanco, guarda todos los proveedores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Recuperar del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;recuperar-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#recuperar-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite recuperar las tarifas mediante previo filtro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-red-200 hx-bg-red-100 hx-text-red-900 dark:hx-border-red-200/30 dark:hx-bg-red-900/30 dark:hx-text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Este proceso sustituirá las tarifas actuales por las existentes en la fecha indicada, se recomienda realizar una copia de seguridad de nuestras tarifas antes de proceder.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Borrado de Tarifa del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;borrado-de-tarifa-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#borrado-de-tarifa-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Borra del Histórico de Tarifas las tarifas seleccionadas mediante previo filtro.
+Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Mantenimiento del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mantenimiento-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mantenimiento-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite visualizar las tarifas que tenemos almacenadas y realizar operaciones de alta, baja o modificación.
+&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Exportación de Tarifas a Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;La aplicación nos permite mediante previo filtro exportar nuestros artículos a formato excel desde donde podremos realizar las modificaciones o operaciones de alta.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Se exporta con formato &lt;strong&gt;XLS&lt;/strong&gt;, es decir, en formato Microsoft Office 2003.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/FiltroA.png&#34; alt=&#34;Filtro Artículos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artículo Incial/Final&lt;/strong&gt;: Permite especificar un rango de artículos. (Se debe introducir el &lt;strong&gt;código del artículo&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Familia Inicial/Final&lt;/strong&gt;: Permite especificar un rango de familias o una familia determinada introduciendo el mismo código.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proveedor Inicial/Final&lt;/strong&gt;: Permite seleccionar por proveedor o rango de proveedores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de artículo&lt;/strong&gt;: Especifica el tipo de artículo a exportar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clase x Incial/Final&lt;/strong&gt;: Especifica el código de clase a exportar desde el nivel más alto (Clase 1) al más bajo (Clase 5). Por defecto se exportan todas las clases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incluir Ecotasa&lt;/strong&gt;: Si se marca exporta los campos destinados al impuesto de compra y de venta.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activo S/N&lt;/strong&gt;: Permite exportar todos los artículos activos o los no activos. Por omisión exporta ambos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filtro Manual&lt;/strong&gt;: Permite introducir instrucciones en SQL para obtener datos más precisos.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Importación de Tarifas desde Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href=&#34;http://localhost:1313/Descargas/Plantilla-Articulos.xls&#34; &gt;Descargar Plantilla de importación&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      El formato de la plantilla ha de ser &lt;strong&gt;XLS&lt;/strong&gt;, es decir, formato Microsoft Office 2003 o de lo contario nos dará un error.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Crear y/o modificar artículos desde Excel</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
+      <description>
+        
+        
+        &lt;p&gt;SIN USO&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cambio de código de Artículo</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nos permite realizar un cambio de código de artículo, lo que nos movería &lt;strong&gt;todo&lt;/strong&gt; lo relacionado con ese código al nuevo asignado.&lt;/p&gt;
+&lt;p&gt;En caso de que el nuevo código ya exista, el programa nos permitirá &lt;strong&gt;fusionar&lt;/strong&gt; ambos códigos.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Duplicar Precios Especiales/Bonificaciones/Promociones</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Asignar Stock Minimo automáticamente</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;El programa cuenta con un sistema de gestión de almacenes que permite definir un stock mínimo, el cual representa el margen de seguridad de producto que debe mantenerse en el inventario. Cuando el nivel de stock alcanza esta cantidad mínima, el sistema emitirá avisos automáticos cada vez que se realice una venta, informando sobre la cantidad insuficiente de producto disponible.&lt;/p&gt;
+&lt;p&gt;El programa ofrece una funcionalidad para realizar una &lt;strong&gt;previsión de compras&lt;/strong&gt; basada en el &lt;strong&gt;consumo registrado&lt;/strong&gt; durante un rango de fechas determinado y considerando un número de días de previsión.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/AsignaStock.png&#34; alt=&#34;Previsión de comrpas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Nos permite filtar por código de proveedor, código de artículo, familia y tipo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fecha Inicial y Final: Nos permite seleccionar el rango de fechas el cual se usará para calcular el stock minimo en función del consumo. Como recomendación se aconseja usar las fechas del año anterior.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dias previsión: Número de días a calcular en función de las fechas anteriormente introducidas, por defecto 5.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Almacen: Almacén a calcular.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Baja/Desactivar Artículos</title>
+      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Esta funcionalidad permite, tras aplicar un filtro de artículos, identificar aquellos que se encuentran &lt;strong&gt;sin stock&lt;/strong&gt; dentro de un rango de fechas determinado. Una vez identificados, se pueden desactivar o eliminar para mantener una base de datos optimizada y actualizada.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/Baja.png&#34; alt=&#34;Baja/Elimina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      &lt;p&gt;Información importante previa acción&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Se aconseja &lt;strong&gt;desactivar&lt;/strong&gt; los artículos sin stock, ya que su peso en la base de datos es muy reducido. Al desactivarlos, &lt;strong&gt;seguirán estando disponibles&lt;/strong&gt; para consultas, estadísticas y comparaciones con años anteriores.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En caso de optar por eliminar un artículo, ten en cuenta que este proceso es &lt;strong&gt;permanente e irreversible&lt;/strong&gt;, eliminando toda la información relacionada con el.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
