@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>http://localhost:1313/docs/ficherosprincipales/articulos/</link>
+    <link>https://example.org/docs/ficherosprincipales/articulos/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/articulos/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/docs/ficherosprincipales/articulos/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,16 +16,16 @@
     
     <item>
       <title>Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/pantallaarticulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/pantallaarticulos/</guid>
       <description>
         
         
         &lt;p&gt;La sección de artículos es crucial para optimizar y gestionar eficicientemente los procesos comerciales de nuestro negocio. Mediante las múltiples funcionalidades y opciones disponibles podremos gestionar el inventario de nuestra empresa asi como sus movimientos.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/PantallaPrincipalart.png&#34; alt=&#34;PantallaArticulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;768&#34; height=&#34;768&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;rect width=&#34;24&#34; height=&#34;24&#34; fill=&#34;none&#34;/&gt;&lt;path fill=&#34;#08a1e2&#34; d=&#34;M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2m1 15h-2v-6h2zm0-8h-2V7h2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
  &lt;strong&gt;Usaremos el artículo MAHOU 5 ESTRELLAS 1/5 RETORNABLE como ejemplo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;La imagen proporcionada muestra la pantalla principal de la sección de artículos la cual contiene información detallada sobre cada producto de nuestro catálogo.
@@ -100,7 +100,7 @@ A continuación desglosaremos los elementos clave de esta pantalla para comprend
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Clasificaci%c3%b3nArt%c3%adculos.png&#34; alt=&#34;Clasifica&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Clasificaci%c3%b3nArt%c3%adculos.png&#34; alt=&#34;Clasifica&#34; loading=&#34;lazy&#34; /&gt;
 &lt;strong&gt;La correcta clasificación de artículos es de vital importancia para posteriormente poder sacar las correspondientes estadísticas&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Activo (ACT)&lt;/strong&gt;: Indica si el artículo está activo y por lo tanto se puede vender.&lt;/li&gt;
@@ -277,10 +277,10 @@ Al configurar el artículo 55 con un enlace al código 200, se establece que cua
     
     <item>
       <title>Botonera Pantalla Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/botonera-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/botonera-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/botonera-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/botonera-articulos/</guid>
       <description>
         
         
@@ -326,115 +326,115 @@ Al configurar el artículo 55 con un enlace al código 200, se establece que cua
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_SALIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_SALIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PRIMERO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PRIMERO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Nos desplaza al primer registro &lt;em&gt;(El registro con el código más pequeño)&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ULTIMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ULTIMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza al último registro&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ATRAS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ATRAS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia atras&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_SIGUIENTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_SIGUIENTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Sale de la pantalla actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ALTA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ALTA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Nos desplaza un registro hacia delante&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_BAJA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_BAJA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Da de alta un nuevo registro&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MODIFICAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MODIFICAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_IMPRIMIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_IMPRIMIR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Modifica el registro actual&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_EXPORTAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_EXPORTAR.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta la ficha del artículo a Microsoft Excel&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CALCULADORA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CALCULADORA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Abre la calculadora del sistema&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BUSQUEDA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BUSQUEDA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Realiza una búsqeuda de artículo introduciendo el código directamente, introduciendo el comienzo de su descripción o usando el comodín ASTERISCO y a continuación algo que esté incluido en cualquier parte del nombre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ORDEN.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ORDEN.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el criterio de avenze o retroceso de los registros, por código o por nombre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite visualizar de manera grafica un extracto de movimientos del artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ENVASE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ENVASE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar el artículo con su respectivo envase&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite indicar que el artículo en pantalla está compuesto por otros artículos&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_GRAFICO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_GRAFICO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Cambia el modo de visualización de la ficha de artículo para ver los totales de movimientos del mismo acumulados por mes/año&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MEMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MEMO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Información en texto libre para el artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CODBARRASADICIONAL.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CODBARRASADICIONAL.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite asociar al artículo en pantalla más códigos de barras dependiendo del proveedor que lo suministre&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CLIPENSUMINIS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CLIPENSUMINIS.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra los clientes a los que no se les ha podido servir este producto&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_TRAZABILIDAD.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_TRAZABILIDAD.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de control de lotes y trazabilidad&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_DUPLICARFICHA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_DUPLICARFICHA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite duplicar la ficha del artículo incluyendo stock, precios especiales, promociones&amp;hellip;&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PROMOCIONES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PROMOCIONES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra la pantalla de las promociones en las que está incluido el artículo en pantalla&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_PENDIENTEREC.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_PENDIENTEREC.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra por pantalla los albaranes de compra pendientes de servir que incluyen el artículo&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_MARGENTARIFA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_MARGENTARIFA.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Muestra una ventana la cual nos permite mediante la introducción del % que deseemos modificar rápidamente las tarifas&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CUBO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CUBO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Exporta a un programa de minería de datos las diferentes estadísticas donde aparezca el artículo que estamos visualizando&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_IMAGENES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_IMAGENES.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite la visualización por pantalla de la imagen del producto&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_CARRITO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://example.org/docs/images/botonera/BTN_CARRITO.png&#34; alt=&#34;Salir&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Permite ir añadiendo al carrito de compra las unidades del artículo que deseemos&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -445,28 +445,28 @@ Al configurar el artículo 55 con un enlace al código 200, se establece que cua
     
     <item>
       <title>Funciones Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/funciones-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/funciones-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/funciones-articulos/</guid>
       <description>
         
         
         &lt;h2&gt;Funciones de la pantalla Artículos&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;funciones-de-la-pantalla-artículos&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#funciones-de-la-pantalla-art%c3%adculos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado profundizaremos acerca de las diversas opciones y funcionalidades que el sistema permite realizar referente a nuestros artículos.&lt;/p&gt;
 &lt;h3&gt;Extracto de entradas y salidas de almacen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;extracto-de-entradas-y-salidas-de-almacen&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#extracto-de-entradas-y-salidas-de-almacen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de extractos de almacen &lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Btnextracto&#34; loading=&#34;lazy&#34; /&gt; nos mostrará por pantalla un filtro donde podremos especificar el rango de fechas que deseamos consultar, al igual que el tipo de movimiento y los almacenes de origen y destino.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ES_ALMA.png&#34; alt=&#34;Extracto&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;a href=&#34;#extracto-de-entradas-y-salidas-de-almacen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mediante el botón de extractos de almacen &lt;img src=&#34;https://example.org/docs/images/botonera/BTN_ESALMA.png&#34; alt=&#34;Btnextracto&#34; loading=&#34;lazy&#34; /&gt; nos mostrará por pantalla un filtro donde podremos especificar el rango de fechas que deseamos consultar, al igual que el tipo de movimiento y los almacenes de origen y destino.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ES_ALMA.png&#34; alt=&#34;Extracto&#34; loading=&#34;lazy&#34; /&gt;
 Permite a su vez realizar un filtro más exhaustivo mediante el contenido de lote o especificando un cliente.&lt;/p&gt;
 &lt;p&gt;Marcando la opción &amp;ldquo;Rentabilidad&amp;rdquo; el programa realizará un cálculo de la rentabilidad del artículo sobre las fechas indicadas y nos mostrará un informe por pantalla con los resultados.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ES_ALMA_LIS.png&#34; alt=&#34;Extracto-Rentabilidad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ES_ALMA_LIS.png&#34; alt=&#34;Extracto-Rentabilidad&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la siguiente pantalla se muestra el extracto de movimientos de almacén sobre un artículo.
 En la parte inferior izquierda se nos mostrará de forma rápida el total de unidades de entrada y salida correspondientes a la fecha marcada, al igual que el importe total de compra y venta.
 También se muestra el precio medio de compra y venta.&lt;/p&gt;
 &lt;h3&gt;Envases&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;envases&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#envases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Podremos asignar mediante el botón de envases &lt;img src=&#34;http://localhost:1313/docs/images/Botonera/BTN_ENVASE.png&#34; alt=&#34;Btn_Envase&#34; loading=&#34;lazy&#34; /&gt; los envases asociados al artículo.&lt;/p&gt;
+    &lt;a href=&#34;#envases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Podremos asignar mediante el botón de envases &lt;img src=&#34;https://example.org/docs/images/Botonera/BTN_ENVASE.png&#34; alt=&#34;Btn_Envase&#34; loading=&#34;lazy&#34; /&gt; los envases asociados al artículo.&lt;/p&gt;
 &lt;p&gt;Se nos mostrará por pantalla una sección en la cual podremos realizar las distintas operaciones.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/ENVASE_PANTA.png&#34; alt=&#34;Pantalla-Envase&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/ENVASE_PANTA.png&#34; alt=&#34;Pantalla-Envase&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Podremos añadir o eliminar registros mediante los botones de Alta (&lt;strong&gt;Ctrl+A&lt;/strong&gt;) o Baja (&lt;strong&gt;Ctrl+B&lt;/strong&gt;).&lt;/p&gt;
 
 
@@ -512,11 +512,11 @@ También se muestra el precio medio de compra y venta.&lt;/p&gt;
 &lt;p&gt;Una vez rellenados los campos, cada vez que cerremos un pedido/albarán de venta o compra, el sistema nos pedirá si deseamos generar los envases.
 Si tenemos correctamente rellenados los campos se generarán de forma automática los envases.&lt;/p&gt;
 &lt;h3&gt;Lotes o artículos tipo Cesta&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;lotes-o-artículos-tipo-cesta&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#lotes-o-art%c3%adculos-tipo-cesta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El programa nos permite crear artículos tipo lote o cesta, para ello primeramente el artículo ha de ser tipo Lote (L) y mediante el botón de lotes &lt;img src=&#34;http://localhost:1313/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;lotes&#34; loading=&#34;lazy&#34; /&gt; se nos mostrará una pantalla parecia a la del punto anterior en la cual podremos asignar los artículos que incluye la cesta.&lt;/p&gt;
+    &lt;a href=&#34;#lotes-o-art%c3%adculos-tipo-cesta&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;El programa nos permite crear artículos tipo lote o cesta, para ello primeramente el artículo ha de ser tipo Lote (L) y mediante el botón de lotes &lt;img src=&#34;https://example.org/docs/images/botonera/BTN_LOTE.png&#34; alt=&#34;lotes&#34; loading=&#34;lazy&#34; /&gt; se nos mostrará una pantalla parecia a la del punto anterior en la cual podremos asignar los artículos que incluye la cesta.&lt;/p&gt;
 &lt;p&gt;Estos artículos irán desgolsados linea por linea en el albaran/factura.&lt;/p&gt;
 &lt;h3&gt;Datos Acumulados por Mes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datos-acumulados-por-mes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#datos-acumulados-por-mes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tenemos la posibilidad de obtener un gráfico de consumo por meses y año del artículo mostrado en pantalla.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/VentasComprasMeses.png&#34; alt=&#34;PantallaGrafico&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/VentasComprasMeses.png&#34; alt=&#34;PantallaGrafico&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Campo MEMO&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;campo-memo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#campo-memo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Al usar esta opción se nos mostrará una pantalla donde podremos redactar toda la información relacionada a nuestro artículo de carácter interno.&lt;/p&gt;
 &lt;h3&gt;Códigos de barra Adicionales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;códigos-de-barra-adicionales&#34;&gt;&lt;/span&gt;
@@ -527,10 +527,10 @@ Si tenemos correctamente rellenados los campos se generarán de forma automátic
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</guid>
       <description>
         
         

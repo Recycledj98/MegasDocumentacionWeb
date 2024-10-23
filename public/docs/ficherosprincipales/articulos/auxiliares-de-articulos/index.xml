@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – </title>
-    <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
+    <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/</link>
     <description>Recent content on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,16 +16,16 @@
     
     <item>
       <title>Familias</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/familias/</guid>
       <description>
         
         
         &lt;h2&gt;Familias de Artículo&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;familias-de-artículo&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#familias-de-art%c3%adculo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las familias de artículos nos permite agrupar los distintos tipos de artículos bajo un único grupo con el fín de realizar gestiones sobre ellos o catalogarlos y posteriormente obtener datos estadísticos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Familias.png&#34; alt=&#34;Pantalla Articulos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Como se puede observar en la imagen, se destacan tres campos principales: Código, Nombre y % Control de Precio.&lt;/p&gt;
 &lt;p&gt;Código: Es un identificador alfanumérico que se utiliza para identificar internamente a la familia de productos.&lt;/p&gt;
 &lt;p&gt;Nombre: Corresponde a la descripción o nombre que facilita la identificación de la familia.&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Clases</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/clases/</guid>
       <description>
         
         
@@ -50,7 +50,7 @@
 &lt;p&gt;La pantalla principal de mantenimiento de clases nos muestra una vista previa de todas las clases que tenemos dadas de alta.
 Al situarnos sobre una de ellas o haciendo doble click se nos abrirá el menú de modificación.
 Este menú sirve para modificar la clase seleccionada o para dar una nueva clase de alta mediante el botón de Alta o &lt;em&gt;&lt;strong&gt;Ctrl + A&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Clases2.png&#34; alt=&#34;Pantalla Clases&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen se pueden apreciar los siguientes campos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código de la clase. (Se recomienda una combinación de 2 sílabas)&lt;/li&gt;
@@ -131,18 +131,18 @@ flowchart TB
     
     <item>
       <title>Tipos de IVA</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-de-iva/</guid>
       <description>
         
         
         &lt;h2&gt;Tipos de Impuesto sobre Valor Añadido (IVA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;tipos-de-impuesto-sobre-valor-añadido-iva&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#tipos-de-impuesto-sobre-valor-a%c3%b1adido-iva&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/IVA.png&#34; alt=&#34;IVAS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;El programa ya está preparado para trabajar con los valores introducidos en este apartado.
 Para que se apliquen correctamente deberemos asignar el código del IVA correspondiente a nuestros artículos en su ficha de artículo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/IVA2.png&#34; alt=&#34;IVAS-Creacion&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Código&lt;/strong&gt;: Código Interno del impuesto.&lt;/p&gt;
@@ -181,16 +181,16 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Tipos de Impuestos Especiales</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/tipos-impuestos/</guid>
       <description>
         
         
         &lt;h2&gt;Impuesto Especial del Alcohol&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impuesto-especial-del-alcohol&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#impuesto-especial-del-alcohol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;En este apartado se definen los impuestos especiales asociados a la fabricación de alcohol.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Especial.png&#34; alt=&#34;Impuesto Alcohol&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En la imagen podemos apreciar tres campos numericos correspondientes al valor añadido.&lt;/p&gt;
 
       </description>
@@ -198,15 +198,15 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Copia entre Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/copias-tarifas/</guid>
       <description>
         
         
         &lt;p&gt;Esta fucionalidad permite realizar una copia de tarifas de manera automática aplicando previamente una serie de filtros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/CopiaTarifas.png&#34; alt=&#34;CopiaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tarifa Origen / Destino: Menú desplegable que permite seleccionar la &lt;strong&gt;tarifa origen&lt;/strong&gt; que se desea copiar y la &lt;strong&gt;tarifa destino&lt;/strong&gt; donde se aplicará la copia.&lt;/li&gt;
 &lt;li&gt;Clase 1-5: Filtro que permite seleccionar exclusivamente aquellos artículos que pertenecen a la clase especificada.&lt;/li&gt;
@@ -220,15 +220,15 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Modificación de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/modificacion-tarifas/</guid>
       <description>
         
         
         &lt;p&gt;Esta pantalla nos permite realizar modificaciones generales sobre nuestras tarifas de venta por medio de la entrada de una serie de filtros.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/ModificacionTarifas.png&#34; alt=&#34;ModificaTarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;% de Variación: Define el porcentaje de variación sobre la tarifa. En función del valor introducido, el programa calculará la nueva tarifa aplicando este margen de variación.&lt;/p&gt;
@@ -267,10 +267,10 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Entrada rápida de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/entrada-rapida/</guid>
       <description>
         
         
@@ -306,7 +306,7 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;/div&gt;
 
 &lt;p&gt;Nos permite filtar previamente mediante una serie de filtos de artículo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Entrada.png&#34; alt=&#34;Filtro&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Cod. Proveedor&lt;/strong&gt;: Permite filtrar por los artículos de un proveedor.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Clase 1/2&lt;/strong&gt;: Permite filtrar por las clases 1 y 2 de artículo.&lt;/li&gt;
@@ -314,7 +314,7 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;li&gt;&lt;strong&gt;Activo&lt;/strong&gt;: Permite filtar por artículos activos, no activos o ambos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Una vez introducidos los filtros el programa nos mostrará una pantalla con los artículos y sus tarifas y mediante las flechas del teclado nos podremos mover.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Entrada2.png&#34; alt=&#34;Filtro-Principal&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Posicionandonos encima de la tarifa que deseamos modificar y mediante el teclado numérico podremos modificar la tarifa.&lt;/p&gt;
 
       </description>
@@ -322,26 +322,26 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
     
     <item>
       <title>Histórico de Tarifas</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/historico/</guid>
       <description>
         
         
         &lt;p&gt;El histórico de tarifas nos permite almacenar las tarifas de nuestros productos en una fecha determinada.&lt;/p&gt;
 &lt;p&gt;Consta de tres principales opciones&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico1.png&#34; alt=&#34;Historico de tarifas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Guardar en el Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;guardar-en-el-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#guardar-en-el-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite guardar las tarifas mediante previo filtro en el histórico de tarifas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Guardar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fecha de tarifa: Fecha de tarifa a guardar, por omisión el día actual.&lt;/li&gt;
 &lt;li&gt;Proveedor: Permite guardar las tarifas de un único proveedor, si se deja en blanco, guarda todos los proveedores.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Recuperar del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;recuperar-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#recuperar-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite recuperar las tarifas mediante previo filtro.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Recuperar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -375,20 +375,20 @@ Para que se apliquen correctamente deberemos asignar el código del IVA correspo
 &lt;h3&gt;Borrado de Tarifa del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;borrado-de-tarifa-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#borrado-de-tarifa-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Borra del Histórico de Tarifas las tarifas seleccionadas mediante previo filtro.
 Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico2.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Mantenimiento del Histórico de Tarifas&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mantenimiento-del-histórico-de-tarifas&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mantenimiento-del-hist%c3%b3rico-de-tarifas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Permite visualizar las tarifas que tenemos almacenadas y realizar operaciones de alta, baja o modificación.
-&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://example.org/docs/images/Articulos/Historico3.png&#34; alt=&#34;Historico de tarifas Borrar&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Exportación de Tarifas a Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/exportacion/</guid>
       <description>
         
         
@@ -423,7 +423,7 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/FiltroA.png&#34; alt=&#34;Filtro Artículos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/FiltroA.png&#34; alt=&#34;Filtro Artículos&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Artículo Incial/Final&lt;/strong&gt;: Permite especificar un rango de artículos. (Se debe introducir el &lt;strong&gt;código del artículo&lt;/strong&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Familia Inicial/Final&lt;/strong&gt;: Permite especificar un rango de familias o una familia determinada introduciendo el mismo código.&lt;/li&gt;
@@ -440,14 +440,14 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Importación de Tarifas desde Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/importacion/</guid>
       <description>
         
         
-        &lt;p&gt;La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href=&#34;http://localhost:1313/Descargas/Plantilla-Articulos.xls&#34; &gt;Descargar Plantilla de importación&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;La importación de tarifas nos permite importar las tarifas desde excel. &lt;a href=&#34;https://example.org/Descargas/Plantilla-Articulos.xls&#34; &gt;Descargar Plantilla de importación&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -484,10 +484,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Crear y/o modificar artículos desde Excel</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/crea-modifica/</guid>
       <description>
         
         
@@ -498,10 +498,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Cambio de código de Artículo</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/cambio-codigo/</guid>
       <description>
         
         
@@ -513,10 +513,10 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Duplicar Precios Especiales/Bonificaciones/Promociones</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/duplicar-precios/</guid>
       <description>
         
         
@@ -526,16 +526,16 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Asignar Stock Minimo automáticamente</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/stock-minimo/</guid>
       <description>
         
         
         &lt;p&gt;El programa cuenta con un sistema de gestión de almacenes que permite definir un stock mínimo, el cual representa el margen de seguridad de producto que debe mantenerse en el inventario. Cuando el nivel de stock alcanza esta cantidad mínima, el sistema emitirá avisos automáticos cada vez que se realice una venta, informando sobre la cantidad insuficiente de producto disponible.&lt;/p&gt;
 &lt;p&gt;El programa ofrece una funcionalidad para realizar una &lt;strong&gt;previsión de compras&lt;/strong&gt; basada en el &lt;strong&gt;consumo registrado&lt;/strong&gt; durante un rango de fechas determinado y considerando un número de días de previsión.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/Articulos/AsignaStock.png&#34; alt=&#34;Previsión de comrpas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/Articulos/AsignaStock.png&#34; alt=&#34;Previsión de comrpas&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Nos permite filtar por código de proveedor, código de artículo, familia y tipo.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -554,15 +554,15 @@ Esta acción es &lt;strong&gt;irreversible&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       <title>Baja/Desactivar Artículos</title>
-      <link>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
+      <link>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
+      <guid>https://example.org/docs/ficherosprincipales/articulos/auxiliares-de-articulos/baja-alta/</guid>
       <description>
         
         
         &lt;p&gt;Esta funcionalidad permite, tras aplicar un filtro de artículos, identificar aquellos que se encuentran &lt;strong&gt;sin stock&lt;/strong&gt; dentro de un rango de fechas determinado. Una vez identificados, se pueden desactivar o eliminar para mantener una base de datos optimizada y actualizada.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/docs/images/articulos/Baja.png&#34; alt=&#34;Baja/Elimina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/docs/images/articulos/Baja.png&#34; alt=&#34;Baja/Elimina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
 
 

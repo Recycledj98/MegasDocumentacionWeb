@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megas Documentación Web – Bonificaciones de Cliente</title>
-    <link>http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
+    <link>https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/</link>
     <description>Recent content in Bonificaciones de Cliente on Megas Documentación Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     
-	  <atom:link href="http://localhost:1313/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/docs/ficherosprincipales/clientes/auxiliares-de-cliente/bonificaciones/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -30,11 +30,9 @@ Para añadir más de un teléfono solo hemos de dar un espacio entre el primero 
 
 - **IVA/RE más Habitual**: % IVA y recargo de equivalencia que se aplicará por defecto al dar de alta un cliente.
 
-- **App Gounila**: 
+- **App Gounila**:
 
 - **Texto Pie Factura/Albarán**: Campo de texto libre que aparecerá en la parte inferior de los formularios.
 Requiere previa configuración para que sean visibles.
 
 - **Registro Mercantil**: Campo destinado al código de registro mercantil.
-
-
